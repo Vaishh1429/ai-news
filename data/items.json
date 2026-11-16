@@ -402,7 +402,7 @@
   "url": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive",
   "published": "2026-11-03T13:26:43+00:00",
   "summary": "",
-  "score": 34
+  "score": 35
  },
  {
   "id": "20c05207a0faf08e",
@@ -819,6 +819,15 @@
   "score": 93
  },
  {
+  "id": "15b0e01312a67ca0",
+  "source": "Hacker News",
+  "title": "Tell HN: Be Careful with Stripe Connect",
+  "url": "https://news.ycombinator.com/item?id=50398646",
+  "published": "2026-11-06T21:15:58+00:00",
+  "summary": "",
+  "score": 39
+ },
+ {
   "id": "54d4f685c5e08499",
   "source": "Hacker News",
   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
@@ -835,6 +844,15 @@
   "published": "2026-11-06T23:03:55+00:00",
   "summary": "",
   "score": 76
+ },
+ {
+  "id": "dc54a120bc62aee9",
+  "source": "Hacker News",
+  "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+  "url": "https://github.com/rkaehn/uniform",
+  "published": "2026-11-07T05:16:31+00:00",
+  "summary": "",
+  "score": 46
  },
  {
   "id": "594105e3c51985ed",
@@ -1071,6 +1089,15 @@
   "score": 0
  },
  {
+  "id": "9c5da62bab376f7f",
+  "source": "Hacker News",
+  "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+  "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+  "published": "2026-11-10T03:20:06+00:00",
+  "summary": "",
+  "score": 196
+ },
+ {
   "id": "4e3e5904c85ae763",
   "source": "OpenAI",
   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
@@ -1239,7 +1266,7 @@
   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
   "published": "2026-11-10T22:17:56+00:00",
   "summary": "",
-  "score": 460
+  "score": 461
  },
  {
   "id": "8c999d6885d24711",
@@ -1491,7 +1518,7 @@
   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
   "published": "2026-11-12T13:52:29+00:00",
   "summary": "",
-  "score": 4052
+  "score": 4054
  },
  {
   "id": "5e16e201bbf4a5e4",
@@ -1500,7 +1527,7 @@
   "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
   "published": "2026-11-12T14:15:28+00:00",
   "summary": "",
-  "score": 75
+  "score": 80
  },
  {
   "id": "2bda7e0ad642bbec",
@@ -1518,7 +1545,7 @@
   "url": "https://github.com/hyperionaidev/smolmaxxing/",
   "published": "2026-11-12T15:23:10+00:00",
   "summary": "",
-  "score": 481
+  "score": 483
  },
  {
   "id": "089e249fb74d4122",
@@ -1716,7 +1743,7 @@
   "url": "https://news.ycombinator.com/item?id=50494696",
   "published": "2026-11-14T06:56:42+00:00",
   "summary": "",
-  "score": 90
+  "score": 91
  },
  {
   "id": "567fa298898a17ca",
@@ -1734,7 +1761,7 @@
   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
   "published": "2026-11-14T14:09:25+00:00",
   "summary": "",
-  "score": 146
+  "score": 148
  },
  {
   "id": "d46b516a4c8344dc",
@@ -1752,7 +1779,7 @@
   "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
   "published": "2026-11-15T03:05:54+00:00",
   "summary": "",
-  "score": 87
+  "score": 89
  },
  {
   "id": "950ac38f23f2d5a7",
@@ -1761,7 +1788,7 @@
   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
   "published": "2026-11-15T12:14:06+00:00",
   "summary": "",
-  "score": 227
+  "score": 241
  },
  {
   "id": "4c525e5e54fa3645",
@@ -1809,6 +1836,33 @@
   "score": 0
  },
  {
+  "id": "e3915f7e4cf071c4",
+  "source": "OpenAI",
+  "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
+  "url": "https://openai.com/index/the-kings-trust-and-openai",
+  "published": "2026-11-16T00:00:00+00:00",
+  "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+  "score": 0
+ },
+ {
+  "id": "3899b6e8ee3cc1f1",
+  "source": "OpenAI",
+  "title": "At Holiday Extras, dots get to work before anyone asks",
+  "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+  "published": "2026-11-16T00:00:00+00:00",
+  "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+  "score": 0
+ },
+ {
+  "id": "853b24ff0d6ecd3f",
+  "source": "Hugging Face",
+  "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+  "url": "https://huggingface.co/blog/openrouter",
+  "published": "2026-11-16T00:00:00+00:00",
+  "summary": "",
+  "score": 0
+ },
+ {
   "id": "f7214e14d1e100a3",
   "source": "The Verge AI",
   "title": "Apple\u2019s new study looks to improve the effectiveness of AI health tools",
@@ -1824,7 +1878,7 @@
   "url": "https://news.ycombinator.com/item?id=50513451",
   "published": "2026-11-16T02:53:30+00:00",
   "summary": "",
-  "score": 92
+  "score": 120
  },
  {
   "id": "74ef6a281a7e8657",
@@ -2544,6 +2598,231 @@
   "url": "https://pub.cba.mit.edu/863.26/site/",
   "published": "2026-11-16T05:50:37+00:00",
   "summary": "",
-  "score": 250
+  "score": 801
+ },
+ {
+  "id": "b0ded74e06b06613",
+  "source": "OpenAI",
+  "title": "Advancing computer-use agents for healthcare teams",
+  "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+  "published": "2026-11-16T06:00:00+00:00",
+  "summary": "",
+  "score": 0
+ },
+ {
+  "id": "cfcc7acb02e9ca79",
+  "source": "OpenAI",
+  "title": "More ways to move care forward with ChatGPT for Healthcare",
+  "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+  "published": "2026-11-16T06:00:00+00:00",
+  "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+  "score": 0
+ },
+ {
+  "id": "ebd9eb94963902d2",
+  "source": "OpenAI",
+  "title": "Our first phase of embedded assessments",
+  "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "published": "2026-11-16T08:00:00+00:00",
+  "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+  "score": 0
+ },
+ {
+  "id": "91e58e2ea930c2fa",
+  "source": "OpenAI",
+  "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
+  "url": "https://openai.com/index/lvmh-media-division-partnership",
+  "published": "2026-11-16T09:00:00+00:00",
+  "summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+  "score": 0
+ },
+ {
+  "id": "f891bd93f3d21469",
+  "source": "OpenAI",
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "url": "https://openai.com/index/science-at-the-frontier",
+  "published": "2026-11-16T12:00:00+00:00",
+  "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+  "score": 0
+ },
+ {
+  "id": "e6b37f5da94e2fd1",
+  "source": "MIT Tech Review AI",
+  "title": "Building AI that can work across the enterprise",
+  "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+  "published": "2026-11-16T13:00:00+00:00",
+  "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
+  "score": 0
+ },
+ {
+  "id": "2b2bb87b4857660b",
+  "source": "The Verge AI",
+  "title": "The Nvidia scandal isn\u2019t slowing down",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+  "published": "2026-11-16T13:00:00+00:00",
+  "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "717626b76ea030ce",
+  "source": "Google AI",
+  "title": "New Ask Maps features to help with holiday travel and prep",
+  "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+  "published": "2026-11-16T14:00:00+00:00",
+  "summary": "tbd",
+  "score": 0
+ },
+ {
+  "id": "29a19e1aacc64ded",
+  "source": "The Verge AI",
+  "title": "Audible is trying to make it easier to find audiobooks you\u2019ll actually like",
+  "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+  "published": "2026-11-16T14:00:00+00:00",
+  "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "dd02c35afc864bbe",
+  "source": "The Verge AI",
+  "title": "Google Maps can now create trip itineraries for you",
+  "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+  "published": "2026-11-16T14:00:00+00:00",
+  "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days.",
+  "score": 0
+ },
+ {
+  "id": "7cc4bd0d8db8c788",
+  "source": "Hacker News",
+  "title": "Show HN: Coral \u2013 Open-source gateway where agents write their own tools",
+  "url": "https://github.com/withcoral/coral",
+  "published": "2026-11-16T14:14:51+00:00",
+  "summary": "",
+  "score": 50
+ },
+ {
+  "id": "25ab9fc0359754cb",
+  "source": "Hacker News",
+  "title": "ChatGPT Wallet",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+  "published": "2026-11-16T15:17:56+00:00",
+  "summary": "",
+  "score": 43
+ },
+ {
+  "id": "adba844aff176e0b",
+  "source": "MIT Tech Review AI",
+  "title": "Building trustworthy AI by fencing it in, not predicting it",
+  "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+  "published": "2026-11-16T16:04:28+00:00",
+  "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn\u2019t.",
+  "score": 0
+ },
+ {
+  "id": "f26f2a4dfd6b9b95",
+  "source": "OpenAI",
+  "title": "Broadening access to AI for scientists",
+  "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+  "published": "2026-11-16T17:00:00+00:00",
+  "summary": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+  "score": 0
+ },
+ {
+  "id": "b1c71d07875ac772",
+  "source": "OpenAI",
+  "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+  "url": "https://openai.com/index/strengthening-online-child-safety",
+  "published": "2026-11-16T17:00:00+00:00",
+  "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+  "score": 0
+ },
+ {
+  "id": "f047b899004cf10d",
+  "source": "Hacker News",
+  "title": "Show HN: Fakemetrics.com \u2013 \"build in public\" like a superstar",
+  "url": "https://fakemetrics.com/",
+  "published": "2026-11-16T18:08:04+00:00",
+  "summary": "",
+  "score": 33
+ },
+ {
+  "id": "fbdffdc69848139b",
+  "source": "Hacker News",
+  "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+  "url": "https://openai.com/index/strengthening-online-child-safety/",
+  "published": "2026-11-16T18:12:48+00:00",
+  "summary": "",
+  "score": 66
+ },
+ {
+  "id": "9c493a96e3fa6482",
+  "source": "MIT Tech Review AI",
+  "title": "The open-source movement wants Jensen Huang back",
+  "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+  "published": "2026-11-16T18:38:47+00:00",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+  "score": 0
+ },
+ {
+  "id": "bd7cc537cd570a59",
+  "source": "The Verge AI",
+  "title": "Nvidia\u2019s board is reportedly \u2018not considering\u2019 hiring Jensen Huang back",
+  "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+  "published": "2026-11-16T18:43:35+00:00",
+  "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "5f72fbdc79b9385d",
+  "source": "The Verge AI",
+  "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+  "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+  "published": "2026-11-16T19:23:45+00:00",
+  "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated.",
+  "score": 0
+ },
+ {
+  "id": "cd9a297fa8a4dcbf",
+  "source": "The Verge AI",
+  "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+  "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+  "published": "2026-11-16T19:24:40+00:00",
+  "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "94e979efd7382a51",
+  "source": "The Verge AI",
+  "title": "US data centers now burn more electricity than a midsized country",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+  "published": "2026-11-16T20:27:58+00:00",
+  "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.",
+  "score": 0
+ },
+ {
+  "id": "0873131c018e5da5",
+  "source": "The Verge AI",
+  "title": "Big Nuclear isn\u2019t worried about the Democrats stopping data centers",
+  "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+  "published": "2026-11-16T20:29:37+00:00",
+  "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave.",
+  "score": 0
+ },
+ {
+  "id": "6dc341b82897f439",
+  "source": "The Verge AI",
+  "title": "Sam Altman says he wants everyone \u2018to have a lot of RAM\u2019",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+  "published": "2026-11-16T20:41:28+00:00",
+  "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today.",
+  "score": 0
+ },
+ {
+  "id": "d0b83026be95e613",
+  "source": "The Verge AI",
+  "title": "California sues OpenAI over rogue AI hacking incidents",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+  "published": "2026-11-16T20:46:01+00:00",
+  "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters.",
+  "score": 0
  }
 ]
