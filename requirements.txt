@@ -1,0 +1,6 @@
+feedparser
+httpx
+pyyaml
+numpy
+fastembed
+pytest
