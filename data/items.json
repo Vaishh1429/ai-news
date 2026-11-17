@@ -180,6 +180,15 @@
   "score": 0
  },
  {
+  "id": "638c4d7104de51ad",
+  "source": "Hacker News",
+  "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+  "url": "https://news.ycombinator.com/item?id=50291116",
+  "published": "2026-10-29T15:56:32+00:00",
+  "summary": "",
+  "score": 80
+ },
+ {
   "id": "094c331a98fae894",
   "source": "Google DeepMind",
   "title": "Speeding up planning decisions with AI",
@@ -1518,7 +1527,7 @@
   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
   "published": "2026-11-12T13:52:29+00:00",
   "summary": "",
-  "score": 4054
+  "score": 4055
  },
  {
   "id": "5e16e201bbf4a5e4",
@@ -1527,7 +1536,7 @@
   "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
   "published": "2026-11-12T14:15:28+00:00",
   "summary": "",
-  "score": 80
+  "score": 82
  },
  {
   "id": "2bda7e0ad642bbec",
@@ -1788,7 +1797,7 @@
   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
   "published": "2026-11-15T12:14:06+00:00",
   "summary": "",
-  "score": 241
+  "score": 245
  },
  {
   "id": "4c525e5e54fa3645",
@@ -1878,7 +1887,7 @@
   "url": "https://news.ycombinator.com/item?id=50513451",
   "published": "2026-11-16T02:53:30+00:00",
   "summary": "",
-  "score": 120
+  "score": 122
  },
  {
   "id": "74ef6a281a7e8657",
@@ -2598,7 +2607,7 @@
   "url": "https://pub.cba.mit.edu/863.26/site/",
   "published": "2026-11-16T05:50:37+00:00",
   "summary": "",
-  "score": 801
+  "score": 863
  },
  {
   "id": "b0ded74e06b06613",
@@ -2697,7 +2706,7 @@
   "url": "https://github.com/withcoral/coral",
   "published": "2026-11-16T14:14:51+00:00",
   "summary": "",
-  "score": 50
+  "score": 52
  },
  {
   "id": "25ab9fc0359754cb",
@@ -2706,7 +2715,7 @@
   "url": "https://openai.com/index/introducing-chatgpt-wallet/",
   "published": "2026-11-16T15:17:56+00:00",
   "summary": "",
-  "score": 43
+  "score": 46
  },
  {
   "id": "adba844aff176e0b",
@@ -2716,6 +2725,15 @@
   "published": "2026-11-16T16:04:28+00:00",
   "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn\u2019t.",
   "score": 0
+ },
+ {
+  "id": "6811ffdc22dc0e93",
+  "source": "Hacker News",
+  "title": "First phase of embedded assessments at OpenAI",
+  "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+  "published": "2026-11-16T16:07:20+00:00",
+  "summary": "",
+  "score": 46
  },
  {
   "id": "f26f2a4dfd6b9b95",
@@ -2742,16 +2760,16 @@
   "url": "https://fakemetrics.com/",
   "published": "2026-11-16T18:08:04+00:00",
   "summary": "",
-  "score": 33
+  "score": 44
  },
  {
   "id": "fbdffdc69848139b",
   "source": "Hacker News",
-  "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+  "title": "Strengthening the fight against online child sexual abuse",
   "url": "https://openai.com/index/strengthening-online-child-safety/",
   "published": "2026-11-16T18:12:48+00:00",
   "summary": "",
-  "score": 66
+  "score": 112
  },
  {
   "id": "9c493a96e3fa6482",
@@ -2808,6 +2826,15 @@
   "score": 0
  },
  {
+  "id": "3ad115755ec36d30",
+  "source": "Hacker News",
+  "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
+  "url": "https://news.ycombinator.com/item?id=50522776",
+  "published": "2026-11-16T20:29:48+00:00",
+  "summary": "",
+  "score": 36
+ },
+ {
   "id": "6dc341b82897f439",
   "source": "The Verge AI",
   "title": "Sam Altman says he wants everyone \u2018to have a lot of RAM\u2019",
@@ -2822,7 +2849,25 @@
   "title": "California sues OpenAI over rogue AI hacking incidents",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
   "published": "2026-11-16T20:46:01+00:00",
-  "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters.",
+  "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters.",
   "score": 0
+ },
+ {
+  "id": "a59424729711a810",
+  "source": "The Verge AI",
+  "title": "Tech leaders are convinced that Jensen Huang\u2019s exit was a plot against him",
+  "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+  "published": "2026-11-16T23:17:34+00:00",
+  "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO.",
+  "score": 0
+ },
+ {
+  "id": "851a72a5bbe14594",
+  "source": "Hacker News",
+  "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+  "published": "2026-11-17T01:35:16+00:00",
+  "summary": "",
+  "score": 34
  }
 ]
