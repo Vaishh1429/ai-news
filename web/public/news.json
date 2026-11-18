@@ -1,6 +1,227 @@
 {
- "generated": "2026-11-17T15:13:15.040470+00:00",
+ "generated": "2026-11-18T00:15:25.613280+00:00",
  "stories": [
+  {
+   "id": "19bce111d0ee6096",
+   "title": "Satya Nadella says he\u2019s AGI-pilled now",
+   "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked [\u2026]",
+   "published": "2026-11-17T23:41:18+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+     "published": "2026-11-17T23:41:18+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "7465bbc4c963251d",
+   "title": "Nvidia\u2019s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [\u2026]",
+   "published": "2026-11-17T21:40:59+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+     "published": "2026-11-17T21:40:59+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "859fe7425ca0830b",
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent.",
+   "published": "2026-11-17T21:00:55+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+     "published": "2026-11-17T21:00:55+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "5eaf6a92f38a3220",
+   "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+   "summary": "",
+   "published": "2026-11-17T19:08:45+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+     "published": "2026-11-17T19:08:45+00:00"
+    }
+   ],
+   "score": 3.1399999999999997
+  },
+  {
+   "id": "ad7d3ed495e3c46f",
+   "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+   "summary": "",
+   "published": "2026-11-17T19:01:43+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://starsling.dev",
+     "published": "2026-11-17T19:01:43+00:00"
+    }
+   ],
+   "score": 2.88
+  },
+  {
+   "id": "72284a47c9d975a2",
+   "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+   "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need.",
+   "published": "2026-11-17T18:58:01+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+     "published": "2026-11-17T18:58:01+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "b0ded74e06b06613",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "summary": "",
+   "published": "2026-11-17T18:26:05+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+     "published": "2026-11-16T06:00:00+00:00"
+    },
+    {
+     "name": "Hacker News",
+     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+     "published": "2026-11-17T18:26:05+00:00"
+    }
+   ],
+   "score": 4.7
+  },
+  {
+   "id": "930d2827a809551f",
+   "title": "MAI Code 2 and Code 2 Flash",
+   "summary": "",
+   "published": "2026-11-17T18:25:13+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+     "published": "2026-11-17T18:25:13+00:00"
+    }
+   ],
+   "score": 7.3
+  },
+  {
+   "id": "b8930a9a56df63fc",
+   "title": "Not Everything Needs an LLM",
+   "summary": "",
+   "published": "2026-11-17T18:16:18+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://newsletter.posthog.com/p/decision-models",
+     "published": "2026-11-17T18:16:18+00:00"
+    }
+   ],
+   "score": 3.48
+  },
+  {
+   "id": "549a77347d5e1e5f",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "published": "2026-11-17T17:46:43+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "published": "2026-11-17T17:45:00+00:00"
+    },
+    {
+     "name": "Hacker News",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+     "published": "2026-11-17T17:46:43+00:00"
+    }
+   ],
+   "score": 24.86
+  },
+  {
+   "id": "357d085ae06f4ca2",
+   "title": "Put Gemini to work for you",
+   "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+   "published": "2026-11-17T17:00:00+00:00",
+   "sources": [
+    {
+     "name": "Google AI",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+     "published": "2026-11-17T17:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "cb8293f821d94f0d",
+   "title": "The DOJ says it\u2019s investigating Megaspeed",
+   "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address [\u2026]",
+   "published": "2026-11-17T16:19:03+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+     "published": "2026-11-17T16:19:03+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "627c324df106de1b",
+   "title": "What\u2019s really at stake in the Jensen Huang saga",
+   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold.",
+   "published": "2026-11-17T16:09:57+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+     "published": "2026-11-13T14:47:16+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+     "published": "2026-11-16T18:43:35+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+     "published": "2026-11-16T23:17:34+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+     "published": "2026-11-17T16:09:57+00:00"
+    }
+   ],
+   "score": 8.0
+  },
+  {
+   "id": "39e9943447463a62",
+   "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
+   "summary": "",
+   "published": "2026-11-17T16:01:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/RunanywhereAI/trnrt",
+     "published": "2026-11-17T16:01:04+00:00"
+    }
+   ],
+   "score": 2.82
+  },
   {
    "id": "86f07be892b022f0",
    "title": "Research Reports",
@@ -27,7 +248,21 @@
      "published": "2026-11-17T12:21:57+00:00"
     }
    ],
-   "score": 4.52
+   "score": 4.76
+  },
+  {
+   "id": "c6c361c53bc4ce2d",
+   "title": "Introducing ChatGPT for Sales",
+   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "published": "2026-11-17T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+     "published": "2026-11-17T08:00:00+00:00"
+    }
+   ],
+   "score": 2.0
   },
   {
    "id": "ad100a83202427c0",
@@ -1168,7 +1403,7 @@
      "published": "2026-11-17T01:35:16+00:00"
     }
    ],
-   "score": 3.0
+   "score": 3.04
   },
   {
    "id": "590cb0b9c5dd23f2",
@@ -1199,28 +1434,18 @@
    "score": 2.0
   },
   {
-   "id": "627c324df106de1b",
-   "title": "What\u2019s really at stake in the Jensen Huang saga",
-   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold.",
-   "published": "2026-11-16T23:17:34+00:00",
+   "id": "0604bc2b50fc0c3b",
+   "title": "Astra for Law leads in legal intelligence",
+   "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+   "published": "2026-11-17T00:00:00+00:00",
    "sources": [
     {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-     "published": "2026-11-13T14:47:16+00:00"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-     "published": "2026-11-16T18:43:35+00:00"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-     "published": "2026-11-16T23:17:34+00:00"
+     "name": "OpenAI",
+     "url": "https://openai.com/index/astra-law-6-2",
+     "published": "2026-11-17T00:00:00+00:00"
     }
    ],
-   "score": 6.0
+   "score": 2.0
   },
   {
    "id": "d0b83026be95e613",
@@ -1262,7 +1487,7 @@
      "published": "2026-11-16T20:29:48+00:00"
     }
    ],
-   "score": 3.02
+   "score": 3.1
   },
   {
    "id": "0873131c018e5da5",
@@ -1351,7 +1576,7 @@
      "published": "2026-11-16T18:12:48+00:00"
     }
    ],
-   "score": 6.4
+   "score": 6.5
   },
   {
    "id": "f047b899004cf10d",
@@ -1365,7 +1590,7 @@
      "published": "2026-11-16T18:08:04+00:00"
     }
    ],
-   "score": 2.94
+   "score": 3.0
   },
   {
    "id": "f26f2a4dfd6b9b95",
@@ -1398,7 +1623,7 @@
      "published": "2026-11-16T16:07:20+00:00"
     }
    ],
-   "score": 5.12
+   "score": 5.14
   },
   {
    "id": "adba844aff176e0b",
@@ -1560,20 +1785,6 @@
    "score": 2.0
   },
   {
-   "id": "b0ded74e06b06613",
-   "title": "Advancing computer-use agents for healthcare teams",
-   "summary": "",
-   "published": "2026-11-16T06:00:00+00:00",
-   "sources": [
-    {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-     "published": "2026-11-16T06:00:00+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
    "id": "cfcc7acb02e9ca79",
    "title": "More ways to move care forward with ChatGPT for Healthcare",
    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
@@ -1599,7 +1810,7 @@
      "published": "2026-11-16T05:50:37+00:00"
     }
    ],
-   "score": 19.8
+   "score": 20.1
   },
   {
    "id": "74ef6a281a7e8657",
@@ -2911,7 +3122,7 @@
      "published": "2026-11-13T17:55:23+00:00"
     }
    ],
-   "score": 5.58
+   "score": 5.6
   },
   {
    "id": "8400bdfe1e2afd49",
@@ -3131,7 +3342,7 @@
      "published": "2026-11-12T15:23:10+00:00"
     }
    ],
-   "score": 11.66
+   "score": 11.68
   },
   {
    "id": "2bda7e0ad642bbec",
@@ -3173,7 +3384,7 @@
      "published": "2026-11-12T13:52:29+00:00"
     }
    ],
-   "score": 83.12
+   "score": 83.16
   },
   {
    "id": "90d79223706ea3ab",
@@ -3206,7 +3417,7 @@
      "published": "2026-11-12T11:46:41+00:00"
     }
    ],
-   "score": 25.78
+   "score": 25.82
   },
   {
    "id": "0990939c7d6ea9f7",
@@ -3279,6 +3490,20 @@
    "score": 2.0
   },
   {
+   "id": "a045ec708b22e25e",
+   "title": "ChatGPT Ads increases its market presence in 44 countries",
+   "summary": "Aleph selected as ChatGPT Ads\u2019 exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+   "published": "2026-11-12T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+     "published": "2026-11-12T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
    "id": "8e4104a923ec61a4",
    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
@@ -3318,7 +3543,7 @@
      "published": "2026-11-11T16:57:45+00:00"
     }
    ],
-   "score": 6.82
+   "score": 6.84
   },
   {
    "id": "b8e33e17317c667c",
@@ -3402,7 +3627,7 @@
      "published": "2026-11-11T15:33:06+00:00"
     }
    ],
-   "score": 8.1
+   "score": 8.120000000000001
   },
   {
    "id": "5b916f1bea878c9c",
@@ -3500,7 +3725,7 @@
      "published": "2026-11-11T04:56:47+00:00"
     }
    ],
-   "score": 5.0600000000000005
+   "score": 5.08
   },
   {
    "id": "8ca61cccea22d732",
@@ -3528,7 +3753,7 @@
      "published": "2026-11-11T00:37:05+00:00"
     }
    ],
-   "score": 3.92
+   "score": 3.94
   },
   {
    "id": "8c999d6885d24711",
@@ -4027,7 +4252,7 @@
   },
   {
    "id": "b044ec790c182bd0",
-   "title": "Innovating with AI in the special chemicals industry",
+   "title": "Innovating with AI in the specialty chemicals industry",
    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, ",
    "published": "2026-11-09T13:00:00+00:00",
    "sources": [
@@ -4124,6 +4349,20 @@
    "score": 4.52
   },
   {
+   "id": "041eb172e023ffb6",
+   "title": "How VistaPrint helps small businesses get the word out",
+   "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+   "published": "2026-11-09T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/ads/customers/vistaprint",
+     "published": "2026-11-09T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
    "id": "df19d1541d64dae5",
    "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
    "summary": "",
@@ -4149,7 +4388,7 @@
      "published": "2026-11-08T14:49:23+00:00"
     }
    ],
-   "score": 5.8
+   "score": 5.82
   },
   {
    "id": "d4758dafd35c6d76",
@@ -4687,7 +4926,7 @@
      "published": "2026-11-04T15:21:21+00:00"
     }
    ],
-   "score": 9.3
+   "score": 9.32
   },
   {
    "id": "f5f168ec4f0cd17b",
@@ -4785,7 +5024,7 @@
      "published": "2026-11-03T19:32:13+00:00"
     }
    ],
-   "score": 6.7
+   "score": 6.76
   },
   {
    "id": "7b04a568c5adccd6",
@@ -5353,23 +5592,18 @@
    "score": 2.0
   },
   {
-   "id": "9dbc0d55ff9123c6",
-   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+   "id": "f9b499debdda31c0",
+   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
    "summary": "",
    "published": "2026-10-21T16:04:43+00:00",
    "sources": [
-    {
-     "name": "Hugging Face",
-     "url": "https://huggingface.co/blog/hf-torchneuron",
-     "published": "2026-10-19T00:00:00+00:00"
-    },
     {
      "name": "Hugging Face",
      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
      "published": "2026-10-21T16:04:43+00:00"
     }
    ],
-   "score": 4.0
+   "score": 2.0
   },
   {
    "id": "1778fb273dbb6c0b",
