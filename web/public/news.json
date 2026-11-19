@@ -1,6 +1,76 @@
 {
- "generated": "2026-11-18T19:46:17.659869+00:00",
+ "generated": "2026-11-19T02:08:40.755980+00:00",
  "stories": [
+  {
+   "id": "909b75797cd1319b",
+   "title": "Anthropic prices initial public offering",
+   "summary": "",
+   "published": "2026-11-18T23:30:09+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "published": "2026-11-18T23:30:09+00:00"
+    }
+   ],
+   "score": 3.16
+  },
+  {
+   "id": "b429cb510b698793",
+   "title": "The nation\u2019s largest school districts consider ditching Google Search",
+   "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search.",
+   "published": "2026-11-18T23:18:35+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+     "published": "2026-11-18T23:18:35+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "f00d83341f65cba8",
+   "title": "LLM assisted reverse engineering",
+   "summary": "",
+   "published": "2026-11-18T22:29:13+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+     "published": "2026-11-18T22:29:13+00:00"
+    }
+   ],
+   "score": 3.3
+  },
+  {
+   "id": "0c3c8b23c6caec3f",
+   "title": "Introducing Gemini 4 Neon",
+   "summary": "",
+   "published": "2026-11-18T21:35:43+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+     "published": "2026-11-18T21:35:43+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "f689168723dc030d",
+   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+   "summary": "",
+   "published": "2026-11-18T19:54:56+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+     "published": "2026-11-18T19:54:56+00:00"
+    }
+   ],
+   "score": 2.0
+  },
   {
    "id": "66574755f6b392c2",
    "title": "Trump\u2019s latest land grab is an AI hub in the Philippines",
@@ -17,7 +87,7 @@
   },
   {
    "id": "d0d45b2248dd790b",
-   "title": "What\u2019s next for Nvidia? Whatever doesn\u2019t rock the mind-bogglingly profitable boat",
+   "title": "Nvidia\u2019s rise, visualized",
    "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes.",
    "published": "2026-11-18T19:30:00+00:00",
    "sources": [
@@ -111,7 +181,26 @@
      "published": "2026-11-18T17:45:47+00:00"
     }
    ],
-   "score": 2.98
+   "score": 5.279999999999999
+  },
+  {
+   "id": "638c4d7104de51ad",
+   "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+   "summary": "",
+   "published": "2026-11-18T17:26:28+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50291116",
+     "published": "2026-10-29T15:56:32+00:00"
+    },
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50549188",
+     "published": "2026-11-18T17:26:28+00:00"
+    }
+   ],
+   "score": 6.48
   },
   {
    "id": "03ca256a4adf4087",
@@ -128,6 +217,20 @@
    "score": 2.0
   },
   {
+   "id": "21efcf41c872beed",
+   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+   "summary": "",
+   "published": "2026-11-18T16:53:42+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50548660",
+     "published": "2026-11-18T16:53:42+00:00"
+    }
+   ],
+   "score": 3.6399999999999997
+  },
+  {
    "id": "eccc011a6ed5dbde",
    "title": "\"Anthropic Is Not a Safe AI Company\" \u2013 Coalition Challenges Anthropic Safety",
    "summary": "",
@@ -139,7 +242,21 @@
      "published": "2026-11-18T16:41:22+00:00"
     }
    ],
-   "score": 4.34
+   "score": 4.48
+  },
+  {
+   "id": "6908e71926e8ed83",
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "summary": "",
+   "published": "2026-11-18T15:59:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+     "published": "2026-11-18T15:59:04+00:00"
+    }
+   ],
+   "score": 2.92
   },
   {
    "id": "d4ec4820484976f5",
@@ -167,7 +284,7 @@
      "published": "2026-11-18T15:08:21+00:00"
     }
    ],
-   "score": 2.7
+   "score": 2.9
   },
   {
    "id": "bf1424b145e4fc73",
@@ -254,6 +371,20 @@
    "score": 2.0
   },
   {
+   "id": "e683d40fba103b5f",
+   "title": "The Silent Consensus",
+   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "published": "2026-11-18T10:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/the-silent-consensus",
+     "published": "2026-11-18T10:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
    "id": "53f2a14376dda94d",
    "title": "Inside the Codex sandbox",
    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
@@ -263,6 +394,48 @@
      "name": "OpenAI",
      "url": "https://openai.com/index/inside-the-codex-sandbox",
      "published": "2026-11-18T08:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "9fa731b0ef6c1da9",
+   "title": "Research acceleration: The jagged frontier",
+   "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "published": "2026-11-18T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+     "published": "2026-11-18T08:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "b527b6f0ddceafec",
+   "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+   "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+   "published": "2026-11-18T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/sumitomo-life",
+     "published": "2026-11-18T08:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "8b6ac2940fdc0d0e",
+   "title": "Managing frontier AI risk: From training to deployment",
+   "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+   "published": "2026-11-18T06:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/managing-frontier-ai-risk",
+     "published": "2026-11-18T06:00:00+00:00"
     }
    ],
    "score": 2.0
@@ -1408,20 +1581,6 @@
    "score": 2.0
   },
   {
-   "id": "e683d40fba103b5f",
-   "title": "The Silent Consensus",
-   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "published": "2026-11-18T00:00:00+00:00",
-   "sources": [
-    {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/the-silent-consensus",
-     "published": "2026-11-18T00:00:00+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
    "id": "c7d3ecb006439a13",
    "title": "Advancing chip design with OpenAI models",
    "summary": "OpenAI models optimized circuits used in Jalape\u00f1o silicon and improved RISC\u2011V core designs, showing progress in AI-assisted chip design with GPT\u20116 Astra.",
@@ -1583,7 +1742,7 @@
      "published": "2026-11-17T18:25:13+00:00"
     }
    ],
-   "score": 10.28
+   "score": 10.34
   },
   {
    "id": "b8930a9a56df63fc",
@@ -1597,7 +1756,7 @@
      "published": "2026-11-17T18:16:18+00:00"
     }
    ],
-   "score": 5.5
+   "score": 5.6
   },
   {
    "id": "549a77347d5e1e5f",
@@ -1616,7 +1775,7 @@
      "published": "2026-11-17T17:46:43+00:00"
     }
    ],
-   "score": 30.64
+   "score": 30.74
   },
   {
    "id": "357d085ae06f4ca2",
@@ -3277,7 +3436,7 @@
      "published": "2026-11-16T05:50:37+00:00"
     }
    ],
-   "score": 20.3
+   "score": 20.32
   },
   {
    "id": "a3c4846598c88dcf",
@@ -4776,7 +4935,7 @@
      "published": "2026-11-12T15:23:10+00:00"
     }
    ],
-   "score": 11.68
+   "score": 11.7
   },
   {
    "id": "2bda7e0ad642bbec",
@@ -5299,7 +5458,7 @@
      "published": "2026-11-10T17:21:48+00:00"
     }
    ],
-   "score": 4.12
+   "score": 4.140000000000001
   },
   {
    "id": "9a6164117272b000",
@@ -6970,20 +7129,6 @@
    "score": 2.0
   },
   {
-   "id": "638c4d7104de51ad",
-   "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
-   "summary": "",
-   "published": "2026-10-29T15:56:32+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://news.ycombinator.com/item?id=50291116",
-     "published": "2026-10-29T15:56:32+00:00"
-    }
-   ],
-   "score": 3.6
-  },
-  {
    "id": "f3538b6fb36f4f58",
    "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
    "summary": "",
@@ -7175,48 +7320,6 @@
      "name": "Google AI",
      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
      "published": "2026-10-21T04:00:00+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
-   "id": "84cd8d44e9825e73",
-   "title": "Hugging Face \u2764\ufe0f TorchTPU: TPUs, Natively",
-   "summary": "",
-   "published": "2026-10-20T00:00:00+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face",
-     "url": "https://huggingface.co/blog/hf-torchtpu",
-     "published": "2026-10-20T00:00:00+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
-   "id": "2596ff929aeef557",
-   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-   "summary": "",
-   "published": "2026-10-20T00:00:00+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face",
-     "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-     "published": "2026-10-20T00:00:00+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
-   "id": "3eb18e5ff7f2a0ef",
-   "title": "MPS in PyTorch 2.15",
-   "summary": "",
-   "published": "2026-10-20T00:00:00+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face",
-     "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-     "published": "2026-10-20T00:00:00+00:00"
     }
    ],
    "score": 2.0

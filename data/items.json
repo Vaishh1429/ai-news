@@ -1,32 +1,5 @@
 [
  {
-  "id": "84cd8d44e9825e73",
-  "source": "Hugging Face",
-  "title": "Hugging Face \u2764\ufe0f TorchTPU: TPUs, Natively",
-  "url": "https://huggingface.co/blog/hf-torchtpu",
-  "published": "2026-10-20T00:00:00+00:00",
-  "summary": "",
-  "score": 0
- },
- {
-  "id": "2596ff929aeef557",
-  "source": "Hugging Face",
-  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-  "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-  "published": "2026-10-20T00:00:00+00:00",
-  "summary": "",
-  "score": 0
- },
- {
-  "id": "3eb18e5ff7f2a0ef",
-  "source": "Hugging Face",
-  "title": "MPS in PyTorch 2.15",
-  "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-  "published": "2026-10-20T00:00:00+00:00",
-  "summary": "",
-  "score": 0
- },
- {
   "id": "1778fb273dbb6c0b",
   "source": "Google AI",
   "title": "Southeast Asia\u2019s digital economy to hit $368 billion",
@@ -1302,7 +1275,7 @@
   "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
   "published": "2026-11-10T17:21:48+00:00",
   "summary": "",
-  "score": 106
+  "score": 107
  },
  {
   "id": "3588ceed41552e46",
@@ -1635,7 +1608,7 @@
   "url": "https://github.com/hyperionaidev/smolmaxxing/",
   "published": "2026-11-12T15:23:10+00:00",
   "summary": "",
-  "score": 484
+  "score": 485
  },
  {
   "id": "089e249fb74d4122",
@@ -2688,7 +2661,7 @@
   "url": "https://pub.cba.mit.edu/863.26/site/",
   "published": "2026-11-16T05:50:37+00:00",
   "summary": "",
-  "score": 915
+  "score": 916
  },
  {
   "id": "b0ded74e06b06613",
@@ -3786,7 +3759,7 @@
   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
   "published": "2026-11-17T17:46:43+00:00",
   "summary": "",
-  "score": 1332
+  "score": 1337
  },
  {
   "id": "b8930a9a56df63fc",
@@ -3795,7 +3768,7 @@
   "url": "https://newsletter.posthog.com/p/decision-models",
   "published": "2026-11-17T18:16:18+00:00",
   "summary": "",
-  "score": 175
+  "score": 180
  },
  {
   "id": "930d2827a809551f",
@@ -3804,7 +3777,7 @@
   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
   "published": "2026-11-17T18:25:13+00:00",
   "summary": "",
-  "score": 414
+  "score": 417
  },
  {
   "id": "f9f203e067991655",
@@ -3885,15 +3858,6 @@
   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
   "published": "2026-11-18T00:00:00+00:00",
   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-  "score": 0
- },
- {
-  "id": "e683d40fba103b5f",
-  "source": "OpenAI",
-  "title": "The Silent Consensus",
-  "url": "https://openai.com/index/the-silent-consensus",
-  "published": "2026-11-18T00:00:00+00:00",
-  "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
   "score": 0
  },
  {
@@ -4644,12 +4608,48 @@
   "score": 0
  },
  {
+  "id": "8b6ac2940fdc0d0e",
+  "source": "OpenAI",
+  "title": "Managing frontier AI risk: From training to deployment",
+  "url": "https://openai.com/index/managing-frontier-ai-risk",
+  "published": "2026-11-18T06:00:00+00:00",
+  "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+  "score": 0
+ },
+ {
   "id": "53f2a14376dda94d",
   "source": "OpenAI",
   "title": "Inside the Codex sandbox",
   "url": "https://openai.com/index/inside-the-codex-sandbox",
   "published": "2026-11-18T08:00:00+00:00",
   "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+  "score": 0
+ },
+ {
+  "id": "9fa731b0ef6c1da9",
+  "source": "OpenAI",
+  "title": "Research acceleration: The jagged frontier",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "published": "2026-11-18T08:00:00+00:00",
+  "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+  "score": 0
+ },
+ {
+  "id": "b527b6f0ddceafec",
+  "source": "OpenAI",
+  "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+  "url": "https://openai.com/business/customer-stories/sumitomo-life",
+  "published": "2026-11-18T08:00:00+00:00",
+  "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+  "score": 0
+ },
+ {
+  "id": "e683d40fba103b5f",
+  "source": "OpenAI",
+  "title": "The Silent Consensus",
+  "url": "https://openai.com/index/the-silent-consensus",
+  "published": "2026-11-18T10:00:00+00:00",
+  "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
   "score": 0
  },
  {
@@ -4713,7 +4713,7 @@
   "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5",
   "published": "2026-11-18T15:08:21+00:00",
   "summary": "",
-  "score": 35
+  "score": 45
  },
  {
   "id": "d4ec4820484976f5",
@@ -4725,13 +4725,31 @@
   "score": 0
  },
  {
+  "id": "6908e71926e8ed83",
+  "source": "Hacker News",
+  "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+  "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+  "published": "2026-11-18T15:59:04+00:00",
+  "summary": "",
+  "score": 46
+ },
+ {
   "id": "eccc011a6ed5dbde",
   "source": "Hacker News",
   "title": "\"Anthropic Is Not a Safe AI Company\" \u2013 Coalition Challenges Anthropic Safety",
   "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
   "published": "2026-11-18T16:41:22+00:00",
   "summary": "",
-  "score": 117
+  "score": 124
+ },
+ {
+  "id": "21efcf41c872beed",
+  "source": "Hacker News",
+  "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+  "url": "https://news.ycombinator.com/item?id=50548660",
+  "published": "2026-11-18T16:53:42+00:00",
+  "summary": "",
+  "score": 82
  },
  {
   "id": "03ca256a4adf4087",
@@ -4743,13 +4761,22 @@
   "score": 0
  },
  {
+  "id": "724823e096fd2a66",
+  "source": "Hacker News",
+  "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
+  "url": "https://news.ycombinator.com/item?id=50549188",
+  "published": "2026-11-18T17:26:28+00:00",
+  "summary": "",
+  "score": 44
+ },
+ {
   "id": "0d576c5fe887eecc",
   "source": "Hacker News",
   "title": "Advancing chip design with OpenAI models",
   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
   "published": "2026-11-18T17:45:47+00:00",
   "summary": "",
-  "score": 49
+  "score": 164
  },
  {
   "id": "00a34e9a7fe6f28e",
@@ -4799,7 +4826,7 @@
  {
   "id": "d0d45b2248dd790b",
   "source": "The Verge AI",
-  "title": "What\u2019s next for Nvidia? Whatever doesn\u2019t rock the mind-bogglingly profitable boat",
+  "title": "Nvidia\u2019s rise, visualized",
   "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
   "published": "2026-11-18T19:30:00+00:00",
   "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes.",
@@ -4813,5 +4840,50 @@
   "published": "2026-11-18T19:40:36+00:00",
   "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags.",
   "score": 0
+ },
+ {
+  "id": "f689168723dc030d",
+  "source": "Hugging Face",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "published": "2026-11-18T19:54:56+00:00",
+  "summary": "",
+  "score": 0
+ },
+ {
+  "id": "0c3c8b23c6caec3f",
+  "source": "Google DeepMind",
+  "title": "Introducing Gemini 4 Neon",
+  "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+  "published": "2026-11-18T21:35:43+00:00",
+  "summary": "",
+  "score": 0
+ },
+ {
+  "id": "f00d83341f65cba8",
+  "source": "Hacker News",
+  "title": "LLM assisted reverse engineering",
+  "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+  "published": "2026-11-18T22:29:13+00:00",
+  "summary": "",
+  "score": 65
+ },
+ {
+  "id": "b429cb510b698793",
+  "source": "The Verge AI",
+  "title": "The nation\u2019s largest school districts consider ditching Google Search",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+  "published": "2026-11-18T23:18:35+00:00",
+  "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search.",
+  "score": 0
+ },
+ {
+  "id": "909b75797cd1319b",
+  "source": "Hacker News",
+  "title": "Anthropic prices initial public offering",
+  "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+  "published": "2026-11-18T23:30:09+00:00",
+  "summary": "",
+  "score": 58
  }
 ]
