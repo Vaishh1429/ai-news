@@ -1,6 +1,212 @@
 {
- "generated": "2026-11-19T10:56:50.881078+00:00",
+ "generated": "2026-11-19T19:46:16.635832+00:00",
  "stories": [
+  {
+   "id": "a628e3d51eab8a75",
+   "title": "Gemini on Mac can now use your computer",
+   "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.",
+   "published": "2026-11-19T18:21:13+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+     "published": "2026-11-19T18:21:13+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "57728669e04868ae",
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "summary": "Gemini spark on a space background",
+   "published": "2026-11-19T18:00:00+00:00",
+   "sources": [
+    {
+     "name": "Google AI",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+     "published": "2026-11-19T18:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "122be7cf5dd94362",
+   "title": "Claude solves two open problems in the physics of black holes",
+   "summary": "",
+   "published": "2026-11-19T17:30:44+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+     "published": "2026-11-19T17:30:44+00:00"
+    }
+   ],
+   "score": 5.5
+  },
+  {
+   "id": "450b4071a471de36",
+   "title": "Anthropic hits $2T in Nasdaq debut",
+   "summary": "",
+   "published": "2026-11-19T17:02:40+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+     "published": "2026-11-19T17:02:40+00:00"
+    }
+   ],
+   "score": 10.42
+  },
+  {
+   "id": "c3e7758a237362e2",
+   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+   "summary": "Walter Isaacson joins Google to discuss how history\u2019s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+   "published": "2026-11-19T17:00:00+00:00",
+   "sources": [
+    {
+     "name": "Google AI",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+     "published": "2026-11-19T17:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "909b75797cd1319b",
+   "title": "Anthropic prices initial public offering",
+   "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
+   "published": "2026-11-19T16:52:01+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "published": "2026-11-18T23:30:09+00:00"
+    },
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50562528",
+     "published": "2026-11-19T16:47:32+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+     "published": "2026-11-19T16:52:01+00:00"
+    }
+   ],
+   "score": 14.9
+  },
+  {
+   "id": "5d7ae07855bb5adc",
+   "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+   "summary": "",
+   "published": "2026-11-19T16:34:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/onlook-dev/onlook/",
+     "published": "2026-11-19T16:34:04+00:00"
+    }
+   ],
+   "score": 2.96
+  },
+  {
+   "id": "2600860578f34aa5",
+   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+   "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps.",
+   "published": "2026-11-19T15:16:45+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+     "published": "2026-11-19T15:16:45+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "0b3a38ae0a194f39",
+   "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+   "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.",
+   "published": "2026-11-19T14:25:37+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+     "published": "2026-11-19T14:25:37+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "749c670c97387dc6",
+   "title": "OpenAI still has a WebRTC Problem",
+   "summary": "",
+   "published": "2026-11-19T14:20:08+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+     "published": "2026-11-19T14:20:08+00:00"
+    }
+   ],
+   "score": 3.66
+  },
+  {
+   "id": "029ded4e9a8f172f",
+   "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
+   "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4.",
+   "published": "2026-11-19T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+     "published": "2026-11-19T13:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "fdfefb89d61360e3",
+   "title": "Canva adds an AI \u2018off\u2019 button",
+   "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot.",
+   "published": "2026-11-19T12:30:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+     "published": "2026-11-19T12:30:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "0af76e5f43d6b072",
+   "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
+   "summary": "",
+   "published": "2026-11-19T10:10:20+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
+     "published": "2026-11-19T10:10:20+00:00"
+    }
+   ],
+   "score": 2.8
+  },
+  {
+   "id": "6687f7be62c34e4a",
+   "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+   "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+   "published": "2026-11-19T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+     "published": "2026-11-19T08:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
   {
    "id": "c9b6c856d86e32f8",
    "title": "Tracing Knowledge and Reasoning in LLM",
@@ -1163,20 +1369,6 @@
    "score": 2.92
   },
   {
-   "id": "909b75797cd1319b",
-   "title": "Anthropic prices initial public offering",
-   "summary": "",
-   "published": "2026-11-18T23:30:09+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-     "published": "2026-11-18T23:30:09+00:00"
-    }
-   ],
-   "score": 6.82
-  },
-  {
    "id": "b429cb510b698793",
    "title": "The nation\u2019s largest school districts consider ditching Google Search",
    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search.",
@@ -1202,7 +1394,7 @@
      "published": "2026-11-18T22:29:13+00:00"
     }
    ],
-   "score": 6.46
+   "score": 7.86
   },
   {
    "id": "0c3c8b23c6caec3f",
@@ -1230,7 +1422,7 @@
      "published": "2026-11-18T21:08:47+00:00"
     }
    ],
-   "score": 2.62
+   "score": 2.64
   },
   {
    "id": "f689168723dc030d",
@@ -1356,7 +1548,7 @@
      "published": "2026-11-18T17:45:47+00:00"
     }
    ],
-   "score": 6.24
+   "score": 6.38
   },
   {
    "id": "638c4d7104de51ad",
@@ -1375,7 +1567,7 @@
      "published": "2026-11-18T17:26:28+00:00"
     }
    ],
-   "score": 6.68
+   "score": 6.74
   },
   {
    "id": "03ca256a4adf4087",
@@ -1403,7 +1595,7 @@
      "published": "2026-11-18T16:53:42+00:00"
     }
    ],
-   "score": 4.0600000000000005
+   "score": 4.66
   },
   {
    "id": "eccc011a6ed5dbde",
@@ -1417,7 +1609,7 @@
      "published": "2026-11-18T16:41:22+00:00"
     }
    ],
-   "score": 4.68
+   "score": 4.720000000000001
   },
   {
    "id": "6908e71926e8ed83",
@@ -1431,7 +1623,7 @@
      "published": "2026-11-18T15:59:04+00:00"
     }
    ],
-   "score": 3.0
+   "score": 3.02
   },
   {
    "id": "d4ec4820484976f5",
@@ -2889,7 +3081,7 @@
      "published": "2026-11-17T18:25:13+00:00"
     }
    ],
-   "score": 10.38
+   "score": 10.42
   },
   {
    "id": "b8930a9a56df63fc",
@@ -2903,7 +3095,7 @@
      "published": "2026-11-17T18:16:18+00:00"
     }
    ],
-   "score": 5.68
+   "score": 5.720000000000001
   },
   {
    "id": "549a77347d5e1e5f",
@@ -2922,7 +3114,7 @@
      "published": "2026-11-17T17:46:43+00:00"
     }
    ],
-   "score": 30.78
+   "score": 30.9
   },
   {
    "id": "357d085ae06f4ca2",
@@ -2994,6 +3186,20 @@
     }
    ],
    "score": 3.08
+  },
+  {
+   "id": "9a971a5e364094cd",
+   "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+   "summary": "",
+   "published": "2026-11-17T15:16:45+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://quebec.yarn.so",
+     "published": "2026-11-17T15:16:45+00:00"
+    }
+   ],
+   "score": 2.66
   },
   {
    "id": "86f07be892b022f0",
@@ -6086,7 +6292,7 @@
      "published": "2026-11-12T11:46:41+00:00"
     }
    ],
-   "score": 25.82
+   "score": 25.84
   },
   {
    "id": "0990939c7d6ea9f7",
@@ -6226,7 +6432,7 @@
      "published": "2026-11-11T16:38:44+00:00"
     }
    ],
-   "score": 13.78
+   "score": 13.8
   },
   {
    "id": "8577b206c4472fd5",
@@ -6296,7 +6502,7 @@
      "published": "2026-11-11T15:33:06+00:00"
     }
    ],
-   "score": 8.120000000000001
+   "score": 8.14
   },
   {
    "id": "5b916f1bea878c9c",

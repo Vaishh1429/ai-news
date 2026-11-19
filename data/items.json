@@ -1428,7 +1428,7 @@
   "url": "https://github.com/FrigadeHQ/yogurt",
   "published": "2026-11-11T15:33:06+00:00",
   "summary": "",
-  "score": 306
+  "score": 307
  },
  {
   "id": "b3a9a700521b4bba",
@@ -1473,7 +1473,7 @@
   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
   "published": "2026-11-11T16:38:44+00:00",
   "summary": "",
-  "score": 589
+  "score": 590
  },
  {
   "id": "7a69c1b89eda0814",
@@ -1563,7 +1563,7 @@
   "url": "https://ipo.anthropic.com/us/",
   "published": "2026-11-12T11:46:41+00:00",
   "summary": "",
-  "score": 1007
+  "score": 1008
  },
  {
   "id": "90d79223706ea3ab",
@@ -3708,6 +3708,15 @@
   "score": 0
  },
  {
+  "id": "9a971a5e364094cd",
+  "source": "Hacker News",
+  "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+  "url": "https://quebec.yarn.so",
+  "published": "2026-11-17T15:16:45+00:00",
+  "summary": "",
+  "score": 33
+ },
+ {
   "id": "39e9943447463a62",
   "source": "Hacker News",
   "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
@@ -3759,7 +3768,7 @@
   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
   "published": "2026-11-17T17:46:43+00:00",
   "summary": "",
-  "score": 1339
+  "score": 1345
  },
  {
   "id": "b8930a9a56df63fc",
@@ -3768,7 +3777,7 @@
   "url": "https://newsletter.posthog.com/p/decision-models",
   "published": "2026-11-17T18:16:18+00:00",
   "summary": "",
-  "score": 184
+  "score": 186
  },
  {
   "id": "930d2827a809551f",
@@ -3777,7 +3786,7 @@
   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
   "published": "2026-11-17T18:25:13+00:00",
   "summary": "",
-  "score": 419
+  "score": 421
  },
  {
   "id": "f9f203e067991655",
@@ -4731,7 +4740,7 @@
   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
   "published": "2026-11-18T15:59:04+00:00",
   "summary": "",
-  "score": 50
+  "score": 51
  },
  {
   "id": "eccc011a6ed5dbde",
@@ -4740,7 +4749,7 @@
   "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
   "published": "2026-11-18T16:41:22+00:00",
   "summary": "",
-  "score": 134
+  "score": 136
  },
  {
   "id": "21efcf41c872beed",
@@ -4749,7 +4758,7 @@
   "url": "https://news.ycombinator.com/item?id=50548660",
   "published": "2026-11-18T16:53:42+00:00",
   "summary": "",
-  "score": 103
+  "score": 133
  },
  {
   "id": "03ca256a4adf4087",
@@ -4767,7 +4776,7 @@
   "url": "https://news.ycombinator.com/item?id=50549188",
   "published": "2026-11-18T17:26:28+00:00",
   "summary": "",
-  "score": 54
+  "score": 57
  },
  {
   "id": "0d576c5fe887eecc",
@@ -4776,7 +4785,7 @@
   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
   "published": "2026-11-18T17:45:47+00:00",
   "summary": "",
-  "score": 212
+  "score": 219
  },
  {
   "id": "00a34e9a7fe6f28e",
@@ -4857,7 +4866,7 @@
   "url": "https://springcraft-ai.github.io/springrep/",
   "published": "2026-11-18T21:08:47+00:00",
   "summary": "",
-  "score": 31
+  "score": 32
  },
  {
   "id": "0c3c8b23c6caec3f",
@@ -4875,7 +4884,7 @@
   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
   "published": "2026-11-18T22:29:13+00:00",
   "summary": "",
-  "score": 223
+  "score": 293
  },
  {
   "id": "b429cb510b698793",
@@ -4893,7 +4902,7 @@
   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
   "published": "2026-11-18T23:30:09+00:00",
   "summary": "",
-  "score": 241
+  "score": 407
  },
  {
   "id": "7d99e1aa81cc1163",
@@ -5622,6 +5631,141 @@
   "url": "https://arxiv.org/abs/2611.24844",
   "published": "2026-11-19T05:00:00+00:00",
   "summary": "arXiv:2611.24844v1 Announce Type: new Abstract: Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capability, and how much data is needed to acquire it later, is unknown.",
+  "score": 0
+ },
+ {
+  "id": "6687f7be62c34e4a",
+  "source": "OpenAI",
+  "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+  "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "published": "2026-11-19T08:00:00+00:00",
+  "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+  "score": 0
+ },
+ {
+  "id": "0af76e5f43d6b072",
+  "source": "Hacker News",
+  "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
+  "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
+  "published": "2026-11-19T10:10:20+00:00",
+  "summary": "",
+  "score": 40
+ },
+ {
+  "id": "fdfefb89d61360e3",
+  "source": "The Verge AI",
+  "title": "Canva adds an AI \u2018off\u2019 button",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+  "published": "2026-11-19T12:30:00+00:00",
+  "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot.",
+  "score": 0
+ },
+ {
+  "id": "029ded4e9a8f172f",
+  "source": "The Verge AI",
+  "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
+  "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+  "published": "2026-11-19T13:00:00+00:00",
+  "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4.",
+  "score": 0
+ },
+ {
+  "id": "749c670c97387dc6",
+  "source": "Hacker News",
+  "title": "OpenAI still has a WebRTC Problem",
+  "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+  "published": "2026-11-19T14:20:08+00:00",
+  "summary": "",
+  "score": 83
+ },
+ {
+  "id": "0b3a38ae0a194f39",
+  "source": "The Verge AI",
+  "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+  "published": "2026-11-19T14:25:37+00:00",
+  "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.",
+  "score": 0
+ },
+ {
+  "id": "2600860578f34aa5",
+  "source": "The Verge AI",
+  "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+  "published": "2026-11-19T15:16:45+00:00",
+  "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps.",
+  "score": 0
+ },
+ {
+  "id": "5d7ae07855bb5adc",
+  "source": "Hacker News",
+  "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+  "url": "https://github.com/onlook-dev/onlook/",
+  "published": "2026-11-19T16:34:04+00:00",
+  "summary": "",
+  "score": 48
+ },
+ {
+  "id": "2a92e8f73fe8e796",
+  "source": "Hacker News",
+  "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
+  "url": "https://news.ycombinator.com/item?id=50562528",
+  "published": "2026-11-19T16:47:32+00:00",
+  "summary": "",
+  "score": 38
+ },
+ {
+  "id": "d0946e26531ae61b",
+  "source": "The Verge AI",
+  "title": "Anthropic starts trading on Wall Street",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+  "published": "2026-11-19T16:52:01+00:00",
+  "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
+  "score": 0
+ },
+ {
+  "id": "c3e7758a237362e2",
+  "source": "Google AI",
+  "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+  "published": "2026-11-19T17:00:00+00:00",
+  "summary": "Walter Isaacson joins Google to discuss how history\u2019s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+  "score": 0
+ },
+ {
+  "id": "450b4071a471de36",
+  "source": "Hacker News",
+  "title": "Anthropic hits $2T in Nasdaq debut",
+  "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+  "published": "2026-11-19T17:02:40+00:00",
+  "summary": "",
+  "score": 421
+ },
+ {
+  "id": "122be7cf5dd94362",
+  "source": "Hacker News",
+  "title": "Claude solves two open problems in the physics of black holes",
+  "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+  "published": "2026-11-19T17:30:44+00:00",
+  "summary": "",
+  "score": 175
+ },
+ {
+  "id": "57728669e04868ae",
+  "source": "Google AI",
+  "title": "Introducing Tool Retrieval in the Gemini API",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "published": "2026-11-19T18:00:00+00:00",
+  "summary": "Gemini spark on a space background",
+  "score": 0
+ },
+ {
+  "id": "a628e3d51eab8a75",
+  "source": "The Verge AI",
+  "title": "Gemini on Mac can now use your computer",
+  "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+  "published": "2026-11-19T18:21:13+00:00",
+  "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.",
   "score": 0
  }
 ]
