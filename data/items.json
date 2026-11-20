@@ -1,23 +1,5 @@
 [
  {
-  "id": "f9b499debdda31c0",
-  "source": "Hugging Face",
-  "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-  "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-  "published": "2026-10-21T16:04:43+00:00",
-  "summary": "",
-  "score": 0
- },
- {
-  "id": "354f89a6c7dbf10c",
-  "source": "Hugging Face",
-  "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-  "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-  "published": "2026-10-21T17:35:36+00:00",
-  "summary": "",
-  "score": 0
- },
- {
   "id": "e66e9796ba6be5e9",
   "source": "Google DeepMind",
   "title": "Beyond tree cover: mapping the world\u2019s forest types",
@@ -1482,7 +1464,7 @@
   "url": "https://news.ycombinator.com/item?id=50455811",
   "published": "2026-11-11T17:11:56+00:00",
   "summary": "",
-  "score": 64
+  "score": 65
  },
  {
   "id": "8e4104a923ec61a4",
@@ -1599,7 +1581,7 @@
   "url": "https://github.com/hyperionaidev/smolmaxxing/",
   "published": "2026-11-12T15:23:10+00:00",
   "summary": "",
-  "score": 485
+  "score": 486
  },
  {
   "id": "089e249fb74d4122",
@@ -1932,7 +1914,7 @@
   "url": "https://news.ycombinator.com/item?id=50513451",
   "published": "2026-11-16T02:53:30+00:00",
   "summary": "",
-  "score": 123
+  "score": 124
  },
  {
   "id": "74ef6a281a7e8657",
@@ -2652,7 +2634,7 @@
   "url": "https://pub.cba.mit.edu/863.26/site/",
   "published": "2026-11-16T05:50:37+00:00",
   "summary": "",
-  "score": 916
+  "score": 919
  },
  {
   "id": "b0ded74e06b06613",
@@ -2754,6 +2736,15 @@
   "score": 0
  },
  {
+  "id": "862f2dd49595bba2",
+  "source": "Import AI",
+  "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+  "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+  "published": "2026-11-16T14:01:15+00:00",
+  "summary": "Plus: CucumberVision!",
+  "score": 0
+ },
+ {
   "id": "7cc4bd0d8db8c788",
   "source": "Hacker News",
   "title": "Show HN: Coral \u2013 Open-source gateway where agents write their own tools",
@@ -2832,7 +2823,7 @@
   "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
   "published": "2026-11-16T18:34:37+00:00",
   "summary": "",
-  "score": 36
+  "score": 43
  },
  {
   "id": "9c493a96e3fa6482",
@@ -3687,7 +3678,7 @@
   "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
   "published": "2026-11-17T06:29:57+00:00",
   "summary": "",
-  "score": 270
+  "score": 370
  },
  {
   "id": "c6c361c53bc4ce2d",
@@ -3777,7 +3768,7 @@
   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
   "published": "2026-11-17T17:46:43+00:00",
   "summary": "",
-  "score": 1345
+  "score": 1346
  },
  {
   "id": "b8930a9a56df63fc",
@@ -4758,7 +4749,7 @@
   "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
   "published": "2026-11-18T16:41:22+00:00",
   "summary": "",
-  "score": 146
+  "score": 148
  },
  {
   "id": "21efcf41c872beed",
@@ -4767,7 +4758,7 @@
   "url": "https://news.ycombinator.com/item?id=50548660",
   "published": "2026-11-18T16:53:42+00:00",
   "summary": "",
-  "score": 148
+  "score": 153
  },
  {
   "id": "03ca256a4adf4087",
@@ -4794,7 +4785,7 @@
   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
   "published": "2026-11-18T17:45:47+00:00",
   "summary": "",
-  "score": 222
+  "score": 223
  },
  {
   "id": "00a34e9a7fe6f28e",
@@ -4893,7 +4884,7 @@
   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
   "published": "2026-11-18T22:29:13+00:00",
   "summary": "",
-  "score": 304
+  "score": 311
  },
  {
   "id": "b429cb510b698793",
@@ -5694,7 +5685,7 @@
   "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
   "published": "2026-11-19T10:10:20+00:00",
   "summary": "",
-  "score": 51
+  "score": 53
  },
  {
   "id": "fdfefb89d61360e3",
@@ -5721,7 +5712,7 @@
   "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
   "published": "2026-11-19T14:20:08+00:00",
   "summary": "",
-  "score": 97
+  "score": 98
  },
  {
   "id": "0b3a38ae0a194f39",
@@ -5731,6 +5722,15 @@
   "published": "2026-11-19T14:25:37+00:00",
   "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.",
   "score": 0
+ },
+ {
+  "id": "153eadaaf7dceb6d",
+  "source": "Hacker News",
+  "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+  "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+  "published": "2026-11-19T15:16:02+00:00",
+  "summary": "",
+  "score": 109
  },
  {
   "id": "2600860578f34aa5",
@@ -5748,7 +5748,7 @@
   "url": "https://tabbyml.github.io/weight-space-playground/",
   "published": "2026-11-19T15:32:47+00:00",
   "summary": "",
-  "score": 35
+  "score": 38
  },
  {
   "id": "5d7ae07855bb5adc",
@@ -5757,7 +5757,7 @@
   "url": "https://github.com/onlook-dev/onlook/",
   "published": "2026-11-19T16:34:04+00:00",
   "summary": "",
-  "score": 119
+  "score": 122
  },
  {
   "id": "2a92e8f73fe8e796",
@@ -5793,7 +5793,7 @@
   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
   "published": "2026-11-19T17:02:40+00:00",
   "summary": "",
-  "score": 1085
+  "score": 1123
  },
  {
   "id": "122be7cf5dd94362",
@@ -5802,7 +5802,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 505
+  "score": 546
  },
  {
   "id": "57728669e04868ae",
@@ -5829,7 +5829,7 @@
   "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
   "published": "2026-11-19T18:42:13+00:00",
   "summary": "",
-  "score": 47
+  "score": 50
  },
  {
   "id": "6900f6014b2aa0cd",
@@ -5864,7 +5864,25 @@
   "title": "Apple is hiring engineers to build its own AI agent",
   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
   "published": "2026-11-19T22:31:41+00:00",
-  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.",
+  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "f4784c30400364a2",
+  "source": "OpenAI",
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "url": "https://openai.com/index/introducing-medchembench",
+  "published": "2026-11-20T00:00:00+00:00",
+  "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+  "score": 0
+ },
+ {
+  "id": "211fbe8009a45ecd",
+  "source": "Hugging Face",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "published": "2026-11-20T00:00:00+00:00",
+  "summary": "",
   "score": 0
  },
  {
@@ -6585,6 +6603,69 @@
   "url": "https://arxiv.org/abs/2611.25862",
   "published": "2026-11-20T05:00:00+00:00",
   "summary": "arXiv:2611.25862v1 Announce Type: new Abstract: Automated hate speech detection degrades over time as everyday vocabulary is weaponized into covert slurs while retaining original benign meanings (polysemy retention). Existing lexical semantic change detection (LSCD) frameworks struggle with this phenomenon due to a lack of standardized, sense-delineated diachronic resources.",
+  "score": 0
+ },
+ {
+  "id": "779ccf54081cfd88",
+  "source": "The Verge AI",
+  "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+  "published": "2026-11-20T12:30:47+00:00",
+  "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "fd2811614640e90d",
+  "source": "Hacker News",
+  "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+  "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+  "published": "2026-11-20T13:29:59+00:00",
+  "summary": "",
+  "score": 169
+ },
+ {
+  "id": "299291fdd5181a56",
+  "source": "The Verge AI",
+  "title": "The week everything fell apart",
+  "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+  "published": "2026-11-20T14:06:59+00:00",
+  "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years.",
+  "score": 0
+ },
+ {
+  "id": "859ee3ec8c206bcf",
+  "source": "The Verge AI",
+  "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+  "published": "2026-11-20T16:34:13+00:00",
+  "summary": "Anthropic mathematician Levent Alp\u00f6ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "32a6def5ca5575b8",
+  "source": "Hacker News",
+  "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+  "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+  "published": "2026-11-20T17:44:01+00:00",
+  "summary": "",
+  "score": 97
+ },
+ {
+  "id": "01449c61c8b86a22",
+  "source": "MIT Tech Review AI",
+  "title": "The most misunderstood graph in AI just got a major update",
+  "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+  "published": "2026-11-20T18:15:15+00:00",
+  "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization\u2019s time horizon plot, which was widely\u2026",
+  "score": 0
+ },
+ {
+  "id": "3a0cb236fd3220da",
+  "source": "The Verge AI",
+  "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+  "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+  "published": "2026-11-20T18:50:19+00:00",
+  "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [\u2026]",
   "score": 0
  }
 ]
