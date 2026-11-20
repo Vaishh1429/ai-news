@@ -897,7 +897,7 @@
   "url": "https://www.anthropic.com/research/components-of-agent-memory",
   "published": "2026-11-07T06:39:04+00:00",
   "summary": "",
-  "score": 189
+  "score": 190
  },
  {
   "id": "63afb5aa91d054fe",
@@ -1797,7 +1797,7 @@
   "url": "https://claude.com/resources/articles/projects-redesigned",
   "published": "2026-11-14T00:28:11+00:00",
   "summary": "",
-  "score": 100
+  "score": 101
  },
  {
   "id": "4d0c29e8f59af820",
@@ -2835,6 +2835,15 @@
   "score": 125
  },
  {
+  "id": "73e25ae46341a1ad",
+  "source": "Hacker News",
+  "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+  "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+  "published": "2026-11-16T18:34:37+00:00",
+  "summary": "",
+  "score": 36
+ },
+ {
   "id": "9c493a96e3fa6482",
   "source": "MIT Tech Review AI",
   "title": "The open-source movement wants Jensen Huang back",
@@ -3681,6 +3690,15 @@
   "score": 0
  },
  {
+  "id": "5cc5cb9eef83c609",
+  "source": "Hacker News",
+  "title": "How to CAD Almost Anything",
+  "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+  "published": "2026-11-17T06:29:57+00:00",
+  "summary": "",
+  "score": 128
+ },
+ {
   "id": "c6c361c53bc4ce2d",
   "source": "OpenAI",
   "title": "Introducing ChatGPT for Sales",
@@ -3714,7 +3732,7 @@
   "url": "https://quebec.yarn.so",
   "published": "2026-11-17T15:16:45+00:00",
   "summary": "",
-  "score": 33
+  "score": 36
  },
  {
   "id": "39e9943447463a62",
@@ -3786,7 +3804,7 @@
   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
   "published": "2026-11-17T18:25:13+00:00",
   "summary": "",
-  "score": 421
+  "score": 422
  },
  {
   "id": "f9f203e067991655",
@@ -4740,7 +4758,7 @@
   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
   "published": "2026-11-18T15:59:04+00:00",
   "summary": "",
-  "score": 51
+  "score": 53
  },
  {
   "id": "eccc011a6ed5dbde",
@@ -4749,7 +4767,7 @@
   "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
   "published": "2026-11-18T16:41:22+00:00",
   "summary": "",
-  "score": 136
+  "score": 145
  },
  {
   "id": "21efcf41c872beed",
@@ -4758,7 +4776,7 @@
   "url": "https://news.ycombinator.com/item?id=50548660",
   "published": "2026-11-18T16:53:42+00:00",
   "summary": "",
-  "score": 133
+  "score": 140
  },
  {
   "id": "03ca256a4adf4087",
@@ -4776,7 +4794,7 @@
   "url": "https://news.ycombinator.com/item?id=50549188",
   "published": "2026-11-18T17:26:28+00:00",
   "summary": "",
-  "score": 57
+  "score": 58
  },
  {
   "id": "0d576c5fe887eecc",
@@ -4785,7 +4803,7 @@
   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
   "published": "2026-11-18T17:45:47+00:00",
   "summary": "",
-  "score": 219
+  "score": 220
  },
  {
   "id": "00a34e9a7fe6f28e",
@@ -4866,7 +4884,7 @@
   "url": "https://springcraft-ai.github.io/springrep/",
   "published": "2026-11-18T21:08:47+00:00",
   "summary": "",
-  "score": 32
+  "score": 33
  },
  {
   "id": "0c3c8b23c6caec3f",
@@ -4884,7 +4902,7 @@
   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
   "published": "2026-11-18T22:29:13+00:00",
   "summary": "",
-  "score": 293
+  "score": 299
  },
  {
   "id": "b429cb510b698793",
@@ -4902,7 +4920,43 @@
   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
   "published": "2026-11-18T23:30:09+00:00",
   "summary": "",
-  "score": 407
+  "score": 411
+ },
+ {
+  "id": "4b08ec50268e04a4",
+  "source": "OpenAI",
+  "title": "Deploying Daybreak Red",
+  "url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "published": "2026-11-19T00:00:00+00:00",
+  "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+  "score": 0
+ },
+ {
+  "id": "cb99e2baa62e7866",
+  "source": "OpenAI",
+  "title": "See PR scans in action",
+  "url": "https://openai.com/business/learn/pr-scans-demo",
+  "published": "2026-11-19T00:00:00+00:00",
+  "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+  "score": 0
+ },
+ {
+  "id": "e29ac258c013c12c",
+  "source": "OpenAI",
+  "title": "Explore the Codex Security Plugin",
+  "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "published": "2026-11-19T00:00:00+00:00",
+  "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+  "score": 0
+ },
+ {
+  "id": "a2fb00344062975f",
+  "source": "OpenAI",
+  "title": "Get started with Daybreak Blue",
+  "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+  "published": "2026-11-19T00:00:00+00:00",
+  "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+  "score": 0
  },
  {
   "id": "7d99e1aa81cc1163",
@@ -4911,7 +4965,7 @@
   "url": "https://arxiv.org/abs/2607.29378",
   "published": "2026-11-19T01:27:02+00:00",
   "summary": "",
-  "score": 46
+  "score": 47
  },
  {
   "id": "68f14fafc9ad693d",
@@ -5649,7 +5703,7 @@
   "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
   "published": "2026-11-19T10:10:20+00:00",
   "summary": "",
-  "score": 40
+  "score": 48
  },
  {
   "id": "fdfefb89d61360e3",
@@ -5676,7 +5730,7 @@
   "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
   "published": "2026-11-19T14:20:08+00:00",
   "summary": "",
-  "score": 83
+  "score": 92
  },
  {
   "id": "0b3a38ae0a194f39",
@@ -5697,13 +5751,22 @@
   "score": 0
  },
  {
+  "id": "c5a788d7efb7df80",
+  "source": "Hacker News",
+  "title": "Show HN: Watch weight-space programming in action with WebGPU",
+  "url": "https://tabbyml.github.io/weight-space-playground/",
+  "published": "2026-11-19T15:32:47+00:00",
+  "summary": "",
+  "score": 33
+ },
+ {
   "id": "5d7ae07855bb5adc",
   "source": "Hacker News",
   "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
   "url": "https://github.com/onlook-dev/onlook/",
   "published": "2026-11-19T16:34:04+00:00",
   "summary": "",
-  "score": 48
+  "score": 85
  },
  {
   "id": "2a92e8f73fe8e796",
@@ -5712,7 +5775,7 @@
   "url": "https://news.ycombinator.com/item?id=50562528",
   "published": "2026-11-19T16:47:32+00:00",
   "summary": "",
-  "score": 38
+  "score": 39
  },
  {
   "id": "d0946e26531ae61b",
@@ -5735,11 +5798,11 @@
  {
   "id": "450b4071a471de36",
   "source": "Hacker News",
-  "title": "Anthropic hits $2T in Nasdaq debut",
+  "title": "Anthropic\u2019s Nasdaq debut",
   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
   "published": "2026-11-19T17:02:40+00:00",
   "summary": "",
-  "score": 421
+  "score": 912
  },
  {
   "id": "122be7cf5dd94362",
@@ -5748,7 +5811,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 175
+  "score": 387
  },
  {
   "id": "57728669e04868ae",
@@ -5766,6 +5829,51 @@
   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
   "published": "2026-11-19T18:21:13+00:00",
   "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.",
+  "score": 0
+ },
+ {
+  "id": "87c903673df20405",
+  "source": "Hacker News",
+  "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+  "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+  "published": "2026-11-19T18:42:13+00:00",
+  "summary": "",
+  "score": 39
+ },
+ {
+  "id": "6900f6014b2aa0cd",
+  "source": "The Verge AI",
+  "title": "Google is putting AI chats right on the homepage",
+  "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+  "published": "2026-11-19T20:05:06+00:00",
+  "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.",
+  "score": 0
+ },
+ {
+  "id": "b0341a0ae375085e",
+  "source": "The Verge AI",
+  "title": "Meta\u2019s Muse Charm might cost $300",
+  "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+  "published": "2026-11-19T20:22:17+00:00",
+  "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "74e2df77898470ff",
+  "source": "The Verge AI",
+  "title": "A brief history of Nvidia\u2019s recent stock fluctuations",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+  "published": "2026-11-19T21:59:35+00:00",
+  "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "a22c687c439c6aed",
+  "source": "The Verge AI",
+  "title": "Apple is hiring engineers to build its own AI agent",
+  "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "published": "2026-11-19T22:31:41+00:00",
+  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.",
   "score": 0
  }
 ]

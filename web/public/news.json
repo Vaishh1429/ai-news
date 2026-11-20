@@ -1,6 +1,76 @@
 {
- "generated": "2026-11-19T19:46:16.635832+00:00",
+ "generated": "2026-11-20T01:57:41.077659+00:00",
  "stories": [
+  {
+   "id": "a22c687c439c6aed",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.",
+   "published": "2026-11-19T22:31:41+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+     "published": "2026-11-19T22:31:41+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "74e2df77898470ff",
+   "title": "A brief history of Nvidia\u2019s recent stock fluctuations",
+   "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [\u2026]",
+   "published": "2026-11-19T21:59:35+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+     "published": "2026-11-19T21:59:35+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "b0341a0ae375085e",
+   "title": "Meta\u2019s Muse Charm might cost $300",
+   "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [\u2026]",
+   "published": "2026-11-19T20:22:17+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+     "published": "2026-11-19T20:22:17+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "6900f6014b2aa0cd",
+   "title": "Google is putting AI chats right on the homepage",
+   "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.",
+   "published": "2026-11-19T20:05:06+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+     "published": "2026-11-19T20:05:06+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "87c903673df20405",
+   "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+   "summary": "",
+   "published": "2026-11-19T18:42:13+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+     "published": "2026-11-19T18:42:13+00:00"
+    }
+   ],
+   "score": 2.7800000000000002
+  },
   {
    "id": "a628e3d51eab8a75",
    "title": "Gemini on Mac can now use your computer",
@@ -41,21 +111,36 @@
      "published": "2026-11-19T17:30:44+00:00"
     }
    ],
-   "score": 5.5
+   "score": 9.74
   },
   {
-   "id": "450b4071a471de36",
-   "title": "Anthropic hits $2T in Nasdaq debut",
-   "summary": "",
+   "id": "909b75797cd1319b",
+   "title": "Anthropic prices initial public offering",
+   "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
    "published": "2026-11-19T17:02:40+00:00",
    "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "published": "2026-11-18T23:30:09+00:00"
+    },
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50562528",
+     "published": "2026-11-19T16:47:32+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+     "published": "2026-11-19T16:52:01+00:00"
+    },
     {
      "name": "Hacker News",
      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
      "published": "2026-11-19T17:02:40+00:00"
     }
    ],
-   "score": 10.42
+   "score": 35.239999999999995
   },
   {
    "id": "c3e7758a237362e2",
@@ -72,30 +157,6 @@
    "score": 2.0
   },
   {
-   "id": "909b75797cd1319b",
-   "title": "Anthropic prices initial public offering",
-   "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
-   "published": "2026-11-19T16:52:01+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-     "published": "2026-11-18T23:30:09+00:00"
-    },
-    {
-     "name": "Hacker News",
-     "url": "https://news.ycombinator.com/item?id=50562528",
-     "published": "2026-11-19T16:47:32+00:00"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-     "published": "2026-11-19T16:52:01+00:00"
-    }
-   ],
-   "score": 14.9
-  },
-  {
    "id": "5d7ae07855bb5adc",
    "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
    "summary": "",
@@ -107,7 +168,21 @@
      "published": "2026-11-19T16:34:04+00:00"
     }
    ],
-   "score": 2.96
+   "score": 3.7
+  },
+  {
+   "id": "c5a788d7efb7df80",
+   "title": "Show HN: Watch weight-space programming in action with WebGPU",
+   "summary": "",
+   "published": "2026-11-19T15:32:47+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://tabbyml.github.io/weight-space-playground/",
+     "published": "2026-11-19T15:32:47+00:00"
+    }
+   ],
+   "score": 2.66
   },
   {
    "id": "2600860578f34aa5",
@@ -149,7 +224,7 @@
      "published": "2026-11-19T14:20:08+00:00"
     }
    ],
-   "score": 3.66
+   "score": 3.84
   },
   {
    "id": "029ded4e9a8f172f",
@@ -191,7 +266,7 @@
      "published": "2026-11-19T10:10:20+00:00"
     }
    ],
-   "score": 2.8
+   "score": 2.96
   },
   {
    "id": "6687f7be62c34e4a",
@@ -1366,7 +1441,63 @@
      "published": "2026-11-19T01:27:02+00:00"
     }
    ],
-   "score": 2.92
+   "score": 2.94
+  },
+  {
+   "id": "4b08ec50268e04a4",
+   "title": "Deploying Daybreak Red",
+   "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+   "published": "2026-11-19T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/learn/deploying-daybreak-red",
+     "published": "2026-11-19T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "cb99e2baa62e7866",
+   "title": "See PR scans in action",
+   "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+   "published": "2026-11-19T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/learn/pr-scans-demo",
+     "published": "2026-11-19T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "e29ac258c013c12c",
+   "title": "Explore the Codex Security Plugin",
+   "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+   "published": "2026-11-19T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+     "published": "2026-11-19T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "a2fb00344062975f",
+   "title": "Get started with Daybreak Blue",
+   "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+   "published": "2026-11-19T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+     "published": "2026-11-19T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
   },
   {
    "id": "b429cb510b698793",
@@ -1394,7 +1525,7 @@
      "published": "2026-11-18T22:29:13+00:00"
     }
    ],
-   "score": 7.86
+   "score": 7.98
   },
   {
    "id": "0c3c8b23c6caec3f",
@@ -1422,7 +1553,7 @@
      "published": "2026-11-18T21:08:47+00:00"
     }
    ],
-   "score": 2.64
+   "score": 2.66
   },
   {
    "id": "f689168723dc030d",
@@ -1548,7 +1679,7 @@
      "published": "2026-11-18T17:45:47+00:00"
     }
    ],
-   "score": 6.38
+   "score": 6.4
   },
   {
    "id": "638c4d7104de51ad",
@@ -1567,7 +1698,7 @@
      "published": "2026-11-18T17:26:28+00:00"
     }
    ],
-   "score": 6.74
+   "score": 6.76
   },
   {
    "id": "03ca256a4adf4087",
@@ -1595,7 +1726,7 @@
      "published": "2026-11-18T16:53:42+00:00"
     }
    ],
-   "score": 4.66
+   "score": 4.8
   },
   {
    "id": "eccc011a6ed5dbde",
@@ -1609,7 +1740,7 @@
      "published": "2026-11-18T16:41:22+00:00"
     }
    ],
-   "score": 4.720000000000001
+   "score": 4.9
   },
   {
    "id": "6908e71926e8ed83",
@@ -1623,7 +1754,7 @@
      "published": "2026-11-18T15:59:04+00:00"
     }
    ],
-   "score": 3.02
+   "score": 3.06
   },
   {
    "id": "d4ec4820484976f5",
@@ -3081,7 +3212,7 @@
      "published": "2026-11-17T18:25:13+00:00"
     }
    ],
-   "score": 10.42
+   "score": 10.44
   },
   {
    "id": "b8930a9a56df63fc",
@@ -3199,7 +3330,7 @@
      "published": "2026-11-17T15:16:45+00:00"
     }
    ],
-   "score": 2.66
+   "score": 2.7199999999999998
   },
   {
    "id": "86f07be892b022f0",
@@ -3242,6 +3373,20 @@
     }
    ],
    "score": 2.0
+  },
+  {
+   "id": "5cc5cb9eef83c609",
+   "title": "How to CAD Almost Anything",
+   "summary": "",
+   "published": "2026-11-17T06:29:57+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+     "published": "2026-11-17T06:29:57+00:00"
+    }
+   ],
+   "score": 4.5600000000000005
   },
   {
    "id": "ad100a83202427c0",
@@ -4466,6 +4611,20 @@
     }
    ],
    "score": 2.0
+  },
+  {
+   "id": "73e25ae46341a1ad",
+   "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+   "summary": "",
+   "published": "2026-11-16T18:34:37+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+     "published": "2026-11-16T18:34:37+00:00"
+    }
+   ],
+   "score": 2.7199999999999998
   },
   {
    "id": "b1c71d07875ac772",
@@ -5941,7 +6100,7 @@
      "published": "2026-11-14T00:28:11+00:00"
     }
    ],
-   "score": 4.0
+   "score": 4.02
   },
   {
    "id": "04367a7d0b10c58a",
@@ -7319,7 +7478,7 @@
      "published": "2026-11-07T06:39:04+00:00"
     }
    ],
-   "score": 5.779999999999999
+   "score": 5.8
   },
   {
    "id": "dc54a120bc62aee9",
