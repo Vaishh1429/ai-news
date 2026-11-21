@@ -1,6 +1,39 @@
 {
- "generated": "2026-11-20T19:27:14.919152+00:00",
+ "generated": "2026-11-21T01:53:22.571864+00:00",
  "stories": [
+  {
+   "id": "6f232f6bc5905fbc",
+   "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+   "summary": "",
+   "published": "2026-11-20T21:18:46+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+     "published": "2026-11-20T21:18:46+00:00"
+    }
+   ],
+   "score": 2.76
+  },
+  {
+   "id": "3ea993db7e3c60d1",
+   "title": "Combatting adversarial distillation",
+   "summary": "OpenAI\u2019s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "published": "2026-11-20T20:11:14+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/combatting-adversarial-distillation",
+     "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+     "name": "Hacker News",
+     "url": "https://openai.com/index/combatting-adversarial-distillation/",
+     "published": "2026-11-20T20:11:14+00:00"
+    }
+   ],
+   "score": 4.68
+  },
   {
    "id": "3a0cb236fd3220da",
    "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
@@ -41,7 +74,7 @@
      "published": "2026-11-20T17:44:01+00:00"
     }
    ],
-   "score": 3.94
+   "score": 5.62
   },
   {
    "id": "859ee3ec8c206bcf",
@@ -83,7 +116,7 @@
      "published": "2026-11-20T13:29:59+00:00"
     }
    ],
-   "score": 5.38
+   "score": 5.84
   },
   {
    "id": "779ccf54081cfd88",
@@ -1289,6 +1322,34 @@
    "score": 2.0
   },
   {
+   "id": "d15c45643214b444",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "published": "2026-11-20T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/hebbia",
+     "published": "2026-11-20T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "80d31a6dee298bbd",
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "summary": "",
+   "published": "2026-11-20T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/inkling2mini",
+     "published": "2026-11-20T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
    "id": "a22c687c439c6aed",
    "title": "Apple is hiring engineers to build its own AI agent",
    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI [\u2026]",
@@ -1356,7 +1417,7 @@
      "published": "2026-11-19T18:42:13+00:00"
     }
    ],
-   "score": 3.0
+   "score": 3.02
   },
   {
    "id": "a628e3d51eab8a75",
@@ -1398,7 +1459,7 @@
      "published": "2026-11-19T17:30:44+00:00"
     }
    ],
-   "score": 12.92
+   "score": 13.06
   },
   {
    "id": "909b75797cd1319b",
@@ -1427,7 +1488,7 @@
      "published": "2026-11-19T17:02:40+00:00"
     }
    ],
-   "score": 39.58
+   "score": 39.78
   },
   {
    "id": "c3e7758a237362e2",
@@ -1455,7 +1516,7 @@
      "published": "2026-11-19T16:34:04+00:00"
     }
    ],
-   "score": 4.4399999999999995
+   "score": 4.48
   },
   {
    "id": "c5a788d7efb7df80",
@@ -1469,7 +1530,7 @@
      "published": "2026-11-19T15:32:47+00:00"
     }
    ],
-   "score": 2.76
+   "score": 2.8
   },
   {
    "id": "2600860578f34aa5",
@@ -1497,7 +1558,7 @@
      "published": "2026-11-19T15:16:02+00:00"
     }
    ],
-   "score": 4.18
+   "score": 4.46
   },
   {
    "id": "0b3a38ae0a194f39",
@@ -1525,7 +1586,7 @@
      "published": "2026-11-19T14:20:08+00:00"
     }
    ],
-   "score": 3.96
+   "score": 4.0
   },
   {
    "id": "029ded4e9a8f172f",
@@ -2798,7 +2859,7 @@
      "published": "2026-11-18T22:29:13+00:00"
     }
    ],
-   "score": 8.219999999999999
+   "score": 8.3
   },
   {
    "id": "0c3c8b23c6caec3f",
@@ -2952,7 +3013,7 @@
      "published": "2026-11-18T17:45:47+00:00"
     }
    ],
-   "score": 6.46
+   "score": 6.48
   },
   {
    "id": "638c4d7104de51ad",
@@ -2999,7 +3060,7 @@
      "published": "2026-11-18T16:53:42+00:00"
     }
    ],
-   "score": 5.0600000000000005
+   "score": 5.08
   },
   {
    "id": "eccc011a6ed5dbde",
@@ -4405,7 +4466,7 @@
      "published": "2026-11-17T19:01:43+00:00"
     }
    ],
-   "score": 6.62
+   "score": 6.66
   },
   {
    "id": "72284a47c9d975a2",
@@ -4466,7 +4527,7 @@
      "published": "2026-11-17T18:16:18+00:00"
     }
    ],
-   "score": 5.720000000000001
+   "score": 5.74
   },
   {
    "id": "549a77347d5e1e5f",
@@ -4570,7 +4631,7 @@
      "published": "2026-11-17T15:16:45+00:00"
     }
    ],
-   "score": 2.7800000000000002
+   "score": 3.2199999999999998
   },
   {
    "id": "86f07be892b022f0",
@@ -4626,7 +4687,7 @@
      "published": "2026-11-17T06:29:57+00:00"
     }
    ],
-   "score": 9.4
+   "score": 9.559999999999999
   },
   {
    "id": "ad100a83202427c0",
@@ -5803,7 +5864,7 @@
      "published": "2026-11-16T18:34:37+00:00"
     }
    ],
-   "score": 2.86
+   "score": 2.9
   },
   {
    "id": "b1c71d07875ac772",
@@ -6070,7 +6131,7 @@
      "published": "2026-11-16T05:50:37+00:00"
     }
    ],
-   "score": 20.38
+   "score": 20.4
   },
   {
    "id": "a3c4846598c88dcf",
@@ -7279,7 +7340,7 @@
      "published": "2026-11-14T06:56:42+00:00"
     }
    ],
-   "score": 3.8600000000000003
+   "score": 3.88
   },
   {
    "id": "a9dc79e6aa5b9d32",
@@ -7784,7 +7845,7 @@
      "published": "2026-11-11T16:38:44+00:00"
     }
    ],
-   "score": 13.8
+   "score": 13.82
   },
   {
    "id": "8577b206c4472fd5",

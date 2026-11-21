@@ -1446,7 +1446,7 @@
   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
   "published": "2026-11-11T16:38:44+00:00",
   "summary": "",
-  "score": 590
+  "score": 591
  },
  {
   "id": "7a69c1b89eda0814",
@@ -1779,7 +1779,7 @@
   "url": "https://news.ycombinator.com/item?id=50494696",
   "published": "2026-11-14T06:56:42+00:00",
   "summary": "",
-  "score": 93
+  "score": 94
  },
  {
   "id": "567fa298898a17ca",
@@ -2634,7 +2634,7 @@
   "url": "https://pub.cba.mit.edu/863.26/site/",
   "published": "2026-11-16T05:50:37+00:00",
   "summary": "",
-  "score": 919
+  "score": 920
  },
  {
   "id": "b0ded74e06b06613",
@@ -2823,7 +2823,7 @@
   "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
   "published": "2026-11-16T18:34:37+00:00",
   "summary": "",
-  "score": 43
+  "score": 45
  },
  {
   "id": "9c493a96e3fa6482",
@@ -3678,7 +3678,7 @@
   "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
   "published": "2026-11-17T06:29:57+00:00",
   "summary": "",
-  "score": 370
+  "score": 378
  },
  {
   "id": "c6c361c53bc4ce2d",
@@ -3714,7 +3714,7 @@
   "url": "https://quebec.yarn.so",
   "published": "2026-11-17T15:16:45+00:00",
   "summary": "",
-  "score": 39
+  "score": 61
  },
  {
   "id": "39e9943447463a62",
@@ -3777,7 +3777,7 @@
   "url": "https://newsletter.posthog.com/p/decision-models",
   "published": "2026-11-17T18:16:18+00:00",
   "summary": "",
-  "score": 186
+  "score": 187
  },
  {
   "id": "930d2827a809551f",
@@ -3822,7 +3822,7 @@
   "url": "https://news.ycombinator.com/item?id=50536468",
   "published": "2026-11-17T19:01:43+00:00",
   "summary": "",
-  "score": 87
+  "score": 89
  },
  {
   "id": "5eaf6a92f38a3220",
@@ -4758,7 +4758,7 @@
   "url": "https://news.ycombinator.com/item?id=50548660",
   "published": "2026-11-18T16:53:42+00:00",
   "summary": "",
-  "score": 153
+  "score": 154
  },
  {
   "id": "03ca256a4adf4087",
@@ -4785,7 +4785,7 @@
   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
   "published": "2026-11-18T17:45:47+00:00",
   "summary": "",
-  "score": 223
+  "score": 224
  },
  {
   "id": "00a34e9a7fe6f28e",
@@ -4884,7 +4884,7 @@
   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
   "published": "2026-11-18T22:29:13+00:00",
   "summary": "",
-  "score": 311
+  "score": 315
  },
  {
   "id": "b429cb510b698793",
@@ -4902,7 +4902,7 @@
   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
   "published": "2026-11-18T23:30:09+00:00",
   "summary": "",
-  "score": 417
+  "score": 420
  },
  {
   "id": "4b08ec50268e04a4",
@@ -5712,7 +5712,7 @@
   "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
   "published": "2026-11-19T14:20:08+00:00",
   "summary": "",
-  "score": 98
+  "score": 100
  },
  {
   "id": "0b3a38ae0a194f39",
@@ -5730,7 +5730,7 @@
   "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
   "published": "2026-11-19T15:16:02+00:00",
   "summary": "",
-  "score": 109
+  "score": 123
  },
  {
   "id": "2600860578f34aa5",
@@ -5748,7 +5748,7 @@
   "url": "https://tabbyml.github.io/weight-space-playground/",
   "published": "2026-11-19T15:32:47+00:00",
   "summary": "",
-  "score": 38
+  "score": 40
  },
  {
   "id": "5d7ae07855bb5adc",
@@ -5757,7 +5757,7 @@
   "url": "https://github.com/onlook-dev/onlook/",
   "published": "2026-11-19T16:34:04+00:00",
   "summary": "",
-  "score": 122
+  "score": 124
  },
  {
   "id": "2a92e8f73fe8e796",
@@ -5793,7 +5793,7 @@
   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
   "published": "2026-11-19T17:02:40+00:00",
   "summary": "",
-  "score": 1123
+  "score": 1130
  },
  {
   "id": "122be7cf5dd94362",
@@ -5802,7 +5802,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 546
+  "score": 553
  },
  {
   "id": "57728669e04868ae",
@@ -5829,7 +5829,7 @@
   "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
   "published": "2026-11-19T18:42:13+00:00",
   "summary": "",
-  "score": 50
+  "score": 51
  },
  {
   "id": "6900f6014b2aa0cd",
@@ -5881,6 +5881,24 @@
   "source": "Hugging Face",
   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "published": "2026-11-20T00:00:00+00:00",
+  "summary": "",
+  "score": 0
+ },
+ {
+  "id": "d15c45643214b444",
+  "source": "OpenAI",
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "url": "https://openai.com/business/customer-stories/hebbia",
+  "published": "2026-11-20T00:00:00+00:00",
+  "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+  "score": 0
+ },
+ {
+  "id": "80d31a6dee298bbd",
+  "source": "Hugging Face",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "url": "https://huggingface.co/blog/inkling2mini",
   "published": "2026-11-20T00:00:00+00:00",
   "summary": "",
   "score": 0
@@ -6606,6 +6624,15 @@
   "score": 0
  },
  {
+  "id": "3ea993db7e3c60d1",
+  "source": "OpenAI",
+  "title": "Combatting adversarial distillation",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "published": "2026-11-20T10:00:00+00:00",
+  "summary": "OpenAI\u2019s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+  "score": 0
+ },
+ {
   "id": "779ccf54081cfd88",
   "source": "The Verge AI",
   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -6621,7 +6648,7 @@
   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "published": "2026-11-20T13:29:59+00:00",
   "summary": "",
-  "score": 169
+  "score": 192
  },
  {
   "id": "299291fdd5181a56",
@@ -6648,7 +6675,7 @@
   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
   "published": "2026-11-20T17:44:01+00:00",
   "summary": "",
-  "score": 97
+  "score": 181
  },
  {
   "id": "01449c61c8b86a22",
@@ -6667,5 +6694,23 @@
   "published": "2026-11-20T18:50:19+00:00",
   "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [\u2026]",
   "score": 0
+ },
+ {
+  "id": "a53e8ede7ebdf855",
+  "source": "Hacker News",
+  "title": "Combatting Adversarial Distillation",
+  "url": "https://openai.com/index/combatting-adversarial-distillation/",
+  "published": "2026-11-20T20:11:14+00:00",
+  "summary": "",
+  "score": 34
+ },
+ {
+  "id": "6f232f6bc5905fbc",
+  "source": "Hacker News",
+  "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+  "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+  "published": "2026-11-20T21:18:46+00:00",
+  "summary": "",
+  "score": 38
  }
 ]
