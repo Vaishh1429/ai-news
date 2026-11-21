@@ -1,14 +1,5 @@
 [
  {
-  "id": "e66e9796ba6be5e9",
-  "source": "Google DeepMind",
-  "title": "Beyond tree cover: mapping the world\u2019s forest types",
-  "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-  "published": "2026-10-22T14:30:24+00:00",
-  "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-  "score": 0
- },
- {
   "id": "95eb6975ad245049",
   "source": "Hugging Face",
   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -2634,7 +2625,7 @@
   "url": "https://pub.cba.mit.edu/863.26/site/",
   "published": "2026-11-16T05:50:37+00:00",
   "summary": "",
-  "score": 920
+  "score": 921
  },
  {
   "id": "b0ded74e06b06613",
@@ -3678,7 +3669,7 @@
   "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
   "published": "2026-11-17T06:29:57+00:00",
   "summary": "",
-  "score": 383
+  "score": 386
  },
  {
   "id": "c6c361c53bc4ce2d",
@@ -3714,7 +3705,7 @@
   "url": "https://quebec.yarn.so",
   "published": "2026-11-17T15:16:45+00:00",
   "summary": "",
-  "score": 75
+  "score": 78
  },
  {
   "id": "39e9943447463a62",
@@ -3768,7 +3759,7 @@
   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
   "published": "2026-11-17T17:46:43+00:00",
   "summary": "",
-  "score": 1346
+  "score": 1347
  },
  {
   "id": "b8930a9a56df63fc",
@@ -3777,7 +3768,7 @@
   "url": "https://newsletter.posthog.com/p/decision-models",
   "published": "2026-11-17T18:16:18+00:00",
   "summary": "",
-  "score": 187
+  "score": 188
  },
  {
   "id": "930d2827a809551f",
@@ -3903,7 +3894,7 @@
   "url": "https://trynotched.com/find",
   "published": "2026-11-18T03:40:01+00:00",
   "summary": "",
-  "score": 179
+  "score": 206
  },
  {
   "id": "c0373bce587955a8",
@@ -4707,6 +4698,15 @@
   "score": 0
  },
  {
+  "id": "bf623f2575d90ce5",
+  "source": "Hacker News",
+  "title": "LLMs can read and write executables byte by byte from a hex dump",
+  "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+  "published": "2026-11-18T14:15:58+00:00",
+  "summary": "",
+  "score": 105
+ },
+ {
   "id": "bb3ee1cf50e29f40",
   "source": "MIT Tech Review AI",
   "title": "The AI Hype Index: AI is everywhere",
@@ -4731,7 +4731,7 @@
   "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5",
   "published": "2026-11-18T15:08:21+00:00",
   "summary": "",
-  "score": 46
+  "score": 47
  },
  {
   "id": "d4ec4820484976f5",
@@ -4767,7 +4767,7 @@
   "url": "https://news.ycombinator.com/item?id=50548660",
   "published": "2026-11-18T16:53:42+00:00",
   "summary": "",
-  "score": 154
+  "score": 156
  },
  {
   "id": "03ca256a4adf4087",
@@ -4911,7 +4911,7 @@
   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
   "published": "2026-11-18T23:30:09+00:00",
   "summary": "",
-  "score": 421
+  "score": 422
  },
  {
   "id": "4b08ec50268e04a4",
@@ -5739,7 +5739,7 @@
   "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
   "published": "2026-11-19T15:16:02+00:00",
   "summary": "",
-  "score": 130
+  "score": 136
  },
  {
   "id": "2600860578f34aa5",
@@ -5766,7 +5766,7 @@
   "url": "https://github.com/onlook-dev/onlook/",
   "published": "2026-11-19T16:34:04+00:00",
   "summary": "",
-  "score": 124
+  "score": 125
  },
  {
   "id": "2a92e8f73fe8e796",
@@ -5802,7 +5802,7 @@
   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
   "published": "2026-11-19T17:02:40+00:00",
   "summary": "",
-  "score": 1133
+  "score": 1137
  },
  {
   "id": "122be7cf5dd94362",
@@ -5811,7 +5811,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 557
+  "score": 565
  },
  {
   "id": "57728669e04868ae",
@@ -6297,7 +6297,7 @@
   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "published": "2026-11-20T13:29:59+00:00",
   "summary": "",
-  "score": 319
+  "score": 455
  },
  {
   "id": "d77b5546421e2909",
@@ -6333,7 +6333,7 @@
   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
   "published": "2026-11-20T17:44:01+00:00",
   "summary": "",
-  "score": 191
+  "score": 196
  },
  {
   "id": "01449c61c8b86a22",
@@ -6369,7 +6369,7 @@
   "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
   "published": "2026-11-20T21:18:46+00:00",
   "summary": "",
-  "score": 56
+  "score": 63
  },
  {
   "id": "956f406f46c11332",
@@ -6378,7 +6378,7 @@
   "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
   "published": "2026-11-20T22:18:20+00:00",
   "summary": "",
-  "score": 42
+  "score": 48
  },
  {
   "id": "35f854dd7615d7ab",
@@ -6387,7 +6387,7 @@
   "url": "https://news.ycombinator.com/item?id=50583761",
   "published": "2026-11-20T23:18:32+00:00",
   "summary": "",
-  "score": 196
+  "score": 468
  },
  {
   "id": "6ec7e83ef4a3ec87",
@@ -6756,6 +6756,24 @@
   "url": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
   "published": "2026-11-21T08:41:43+00:00",
   "summary": "Anthropic's $81B IPO, AI stocks enter a correction, Huang resigns from Nvidia, Trump and Xi agree on military AI",
+  "score": 0
+ },
+ {
+  "id": "e74727ec8af70116",
+  "source": "The Verge AI",
+  "title": "Chess.com\u2019s next move is a new hub for classic games, from mahjong to sudoku",
+  "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+  "published": "2026-11-21T14:00:00+00:00",
+  "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word.",
+  "score": 0
+ },
+ {
+  "id": "a9f34b76fcc6d54c",
+  "source": "The Verge AI",
+  "title": "Can Anthropic afford to put safety first?",
+  "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+  "published": "2026-11-21T15:00:00+00:00",
+  "summary": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
   "score": 0
  }
 ]

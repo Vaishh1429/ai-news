@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-21T10:28:50.536407+00:00",
+ "generated": "2026-11-21T18:29:11.981071+00:00",
  "stories": [
+  {
+   "id": "a9f34b76fcc6d54c",
+   "title": "Can Anthropic afford to put safety first?",
+   "summary": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
+   "published": "2026-11-21T15:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+     "published": "2026-11-21T15:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "e74727ec8af70116",
+   "title": "Chess.com\u2019s next move is a new hub for classic games, from mahjong to sudoku",
+   "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word.",
+   "published": "2026-11-21T14:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+     "published": "2026-11-21T14:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
   {
    "id": "9a109a2f46a7df50",
    "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
@@ -597,7 +625,7 @@
      "published": "2026-11-20T23:18:32+00:00"
     }
    ],
-   "score": 5.92
+   "score": 11.36
   },
   {
    "id": "956f406f46c11332",
@@ -611,7 +639,7 @@
      "published": "2026-11-20T22:18:20+00:00"
     }
    ],
-   "score": 2.84
+   "score": 2.96
   },
   {
    "id": "6f232f6bc5905fbc",
@@ -625,7 +653,7 @@
      "published": "2026-11-20T21:18:46+00:00"
     }
    ],
-   "score": 3.12
+   "score": 3.26
   },
   {
    "id": "3ea993db7e3c60d1",
@@ -686,7 +714,7 @@
      "published": "2026-11-20T17:44:01+00:00"
     }
    ],
-   "score": 5.82
+   "score": 5.92
   },
   {
    "id": "859ee3ec8c206bcf",
@@ -742,7 +770,7 @@
      "published": "2026-11-20T13:29:59+00:00"
     }
    ],
-   "score": 8.379999999999999
+   "score": 11.1
   },
   {
    "id": "779ccf54081cfd88",
@@ -1520,7 +1548,7 @@
      "published": "2026-11-19T17:30:44+00:00"
     }
    ],
-   "score": 13.14
+   "score": 13.3
   },
   {
    "id": "909b75797cd1319b",
@@ -1549,7 +1577,7 @@
      "published": "2026-11-19T17:02:40+00:00"
     }
    ],
-   "score": 39.86
+   "score": 39.96
   },
   {
    "id": "c3e7758a237362e2",
@@ -1577,7 +1605,7 @@
      "published": "2026-11-19T16:34:04+00:00"
     }
    ],
-   "score": 4.48
+   "score": 4.5
   },
   {
    "id": "c5a788d7efb7df80",
@@ -1619,7 +1647,7 @@
      "published": "2026-11-19T15:16:02+00:00"
     }
    ],
-   "score": 4.6
+   "score": 4.720000000000001
   },
   {
    "id": "0b3a38ae0a194f39",
@@ -3121,7 +3149,7 @@
      "published": "2026-11-18T16:53:42+00:00"
     }
    ],
-   "score": 5.08
+   "score": 5.12
   },
   {
    "id": "eccc011a6ed5dbde",
@@ -3177,7 +3205,7 @@
      "published": "2026-11-18T15:08:21+00:00"
     }
    ],
-   "score": 2.92
+   "score": 2.94
   },
   {
    "id": "bf1424b145e4fc73",
@@ -3206,6 +3234,20 @@
     }
    ],
    "score": 2.0
+  },
+  {
+   "id": "bf623f2575d90ce5",
+   "title": "LLMs can read and write executables byte by byte from a hex dump",
+   "summary": "",
+   "published": "2026-11-18T14:15:58+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+     "published": "2026-11-18T14:15:58+00:00"
+    }
+   ],
+   "score": 4.1
   },
   {
    "id": "84d2fa603ef696ee",
@@ -4410,7 +4452,7 @@
      "published": "2026-11-18T03:40:01+00:00"
     }
    ],
-   "score": 5.58
+   "score": 6.12
   },
   {
    "id": "6cab9c8cd38347e3",
@@ -4602,7 +4644,7 @@
      "published": "2026-11-17T18:16:18+00:00"
     }
    ],
-   "score": 5.74
+   "score": 5.76
   },
   {
    "id": "549a77347d5e1e5f",
@@ -4621,7 +4663,7 @@
      "published": "2026-11-17T17:46:43+00:00"
     }
    ],
-   "score": 30.92
+   "score": 30.94
   },
   {
    "id": "357d085ae06f4ca2",
@@ -4706,7 +4748,7 @@
      "published": "2026-11-17T15:16:45+00:00"
     }
    ],
-   "score": 3.5
+   "score": 3.56
   },
   {
    "id": "86f07be892b022f0",
@@ -4762,7 +4804,7 @@
      "published": "2026-11-17T06:29:57+00:00"
     }
    ],
-   "score": 9.66
+   "score": 9.719999999999999
   },
   {
    "id": "ad100a83202427c0",
@@ -6206,7 +6248,7 @@
      "published": "2026-11-16T05:50:37+00:00"
     }
    ],
-   "score": 20.4
+   "score": 20.42
   },
   {
    "id": "a3c4846598c88dcf",
@@ -10020,20 +10062,6 @@
      "name": "Hugging Face",
      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
      "published": "2026-10-22T22:24:34+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
-   "id": "e66e9796ba6be5e9",
-   "title": "Beyond tree cover: mapping the world\u2019s forest types",
-   "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-   "published": "2026-10-22T14:30:24+00:00",
-   "sources": [
-    {
-     "name": "Google DeepMind",
-     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-     "published": "2026-10-22T14:30:24+00:00"
     }
    ],
    "score": 2.0
