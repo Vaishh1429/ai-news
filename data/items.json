@@ -1,23 +1,5 @@
 [
  {
-  "id": "95eb6975ad245049",
-  "source": "Hugging Face",
-  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-  "published": "2026-10-22T22:24:34+00:00",
-  "summary": "",
-  "score": 0
- },
- {
-  "id": "6430909168b58685",
-  "source": "Hugging Face",
-  "title": "Does Your Model Run on AWS Trainium? Look It Up",
-  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-  "published": "2026-10-23T00:00:00+00:00",
-  "summary": "",
-  "score": 0
- },
- {
   "id": "22611d0210bf9c9b",
   "source": "Import AI",
   "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
@@ -1770,7 +1752,7 @@
   "url": "https://news.ycombinator.com/item?id=50494696",
   "published": "2026-11-14T06:56:42+00:00",
   "summary": "",
-  "score": 94
+  "score": 95
  },
  {
   "id": "567fa298898a17ca",
@@ -1788,7 +1770,7 @@
   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
   "published": "2026-11-14T14:09:25+00:00",
   "summary": "",
-  "score": 149
+  "score": 150
  },
  {
   "id": "d46b516a4c8344dc",
@@ -3669,7 +3651,7 @@
   "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
   "published": "2026-11-17T06:29:57+00:00",
   "summary": "",
-  "score": 386
+  "score": 387
  },
  {
   "id": "c6c361c53bc4ce2d",
@@ -3705,7 +3687,7 @@
   "url": "https://quebec.yarn.so",
   "published": "2026-11-17T15:16:45+00:00",
   "summary": "",
-  "score": 78
+  "score": 81
  },
  {
   "id": "39e9943447463a62",
@@ -3888,13 +3870,22 @@
   "score": 0
  },
  {
+  "id": "d7d27f4b54e77533",
+  "source": "Hacker News",
+  "title": "Show HN: An ASCII cell aquarium for your terminal",
+  "url": "https://github.com/kborer/cells/",
+  "published": "2026-11-18T02:18:29+00:00",
+  "summary": "",
+  "score": 51
+ },
+ {
   "id": "cfcfa15bcde99b54",
   "source": "Hacker News",
   "title": "Show HN: Tinnitus frequency finder and audio notch tool",
   "url": "https://trynotched.com/find",
   "published": "2026-11-18T03:40:01+00:00",
   "summary": "",
-  "score": 206
+  "score": 218
  },
  {
   "id": "c0373bce587955a8",
@@ -4704,7 +4695,7 @@
   "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
   "published": "2026-11-18T14:15:58+00:00",
   "summary": "",
-  "score": 105
+  "score": 186
  },
  {
   "id": "bb3ee1cf50e29f40",
@@ -4794,7 +4785,7 @@
   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
   "published": "2026-11-18T17:45:47+00:00",
   "summary": "",
-  "score": 224
+  "score": 225
  },
  {
   "id": "00a34e9a7fe6f28e",
@@ -5802,7 +5793,7 @@
   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
   "published": "2026-11-19T17:02:40+00:00",
   "summary": "",
-  "score": 1137
+  "score": 1139
  },
  {
   "id": "122be7cf5dd94362",
@@ -5811,7 +5802,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 565
+  "score": 568
  },
  {
   "id": "57728669e04868ae",
@@ -6297,7 +6288,7 @@
   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "published": "2026-11-20T13:29:59+00:00",
   "summary": "",
-  "score": 455
+  "score": 494
  },
  {
   "id": "d77b5546421e2909",
@@ -6369,7 +6360,7 @@
   "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
   "published": "2026-11-20T21:18:46+00:00",
   "summary": "",
-  "score": 63
+  "score": 66
  },
  {
   "id": "956f406f46c11332",
@@ -6378,7 +6369,7 @@
   "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
   "published": "2026-11-20T22:18:20+00:00",
   "summary": "",
-  "score": 48
+  "score": 53
  },
  {
   "id": "35f854dd7615d7ab",
@@ -6387,7 +6378,7 @@
   "url": "https://news.ycombinator.com/item?id=50583761",
   "published": "2026-11-20T23:18:32+00:00",
   "summary": "",
-  "score": 468
+  "score": 604
  },
  {
   "id": "6ec7e83ef4a3ec87",
@@ -6759,6 +6750,15 @@
   "score": 0
  },
  {
+  "id": "c1a70eb7e7cb5ada",
+  "source": "Hacker News",
+  "title": "Anthropic's IPO bank closed position meant to stabilize stock",
+  "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
+  "published": "2026-11-21T12:43:24+00:00",
+  "summary": "",
+  "score": 31
+ },
+ {
   "id": "e74727ec8af70116",
   "source": "The Verge AI",
   "title": "Chess.com\u2019s next move is a new hub for classic games, from mahjong to sudoku",
@@ -6774,6 +6774,15 @@
   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
   "published": "2026-11-21T15:00:00+00:00",
   "summary": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
+  "score": 0
+ },
+ {
+  "id": "234da3fc18675af9",
+  "source": "The Verge AI",
+  "title": "The UN fails to agree on rules regulating \u2018killer robots\u2019",
+  "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+  "published": "2026-11-21T20:03:37+00:00",
+  "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [\u2026]",
   "score": 0
  }
 ]
