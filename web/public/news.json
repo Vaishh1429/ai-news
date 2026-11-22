@@ -1,6 +1,20 @@
 {
- "generated": "2026-11-22T00:48:39.603849+00:00",
+ "generated": "2026-11-22T10:32:01.078008+00:00",
  "stories": [
+  {
+   "id": "bf1d56f79e0821ae",
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "summary": "",
+   "published": "2026-11-22T08:57:34+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+     "published": "2026-11-22T08:57:34+00:00"
+    }
+   ],
+   "score": 3.94
+  },
   {
    "id": "234da3fc18675af9",
    "title": "The UN fails to agree on rules regulating \u2018killer robots\u2019",
@@ -55,7 +69,7 @@
      "published": "2026-11-21T12:43:24+00:00"
     }
    ],
-   "score": 2.62
+   "score": 2.66
   },
   {
    "id": "9a109a2f46a7df50",
@@ -653,7 +667,7 @@
      "published": "2026-11-20T23:18:32+00:00"
     }
    ],
-   "score": 14.08
+   "score": 15.72
   },
   {
    "id": "956f406f46c11332",
@@ -742,7 +756,7 @@
      "published": "2026-11-20T17:44:01+00:00"
     }
    ],
-   "score": 5.92
+   "score": 5.96
   },
   {
    "id": "859ee3ec8c206bcf",
@@ -798,7 +812,7 @@
      "published": "2026-11-20T13:29:59+00:00"
     }
    ],
-   "score": 11.88
+   "score": 12.22
   },
   {
    "id": "779ccf54081cfd88",
@@ -1576,7 +1590,7 @@
      "published": "2026-11-19T17:30:44+00:00"
     }
    ],
-   "score": 13.36
+   "score": 13.44
   },
   {
    "id": "909b75797cd1319b",
@@ -1605,7 +1619,7 @@
      "published": "2026-11-19T17:02:40+00:00"
     }
    ],
-   "score": 40.0
+   "score": 40.02
   },
   {
    "id": "c3e7758a237362e2",
@@ -2892,7 +2906,7 @@
      "published": "2026-11-19T01:27:02+00:00"
     }
    ],
-   "score": 2.94
+   "score": 2.96
   },
   {
    "id": "4b08ec50268e04a4",
@@ -2976,7 +2990,7 @@
      "published": "2026-11-18T22:29:13+00:00"
     }
    ],
-   "score": 8.3
+   "score": 8.32
   },
   {
    "id": "0c3c8b23c6caec3f",
@@ -3275,7 +3289,7 @@
      "published": "2026-11-18T14:15:58+00:00"
     }
    ],
-   "score": 5.720000000000001
+   "score": 6.92
   },
   {
    "id": "84d2fa603ef696ee",
@@ -4480,7 +4494,7 @@
      "published": "2026-11-18T03:40:01+00:00"
     }
    ],
-   "score": 6.36
+   "score": 6.52
   },
   {
    "id": "d7d27f4b54e77533",
@@ -4494,7 +4508,7 @@
      "published": "2026-11-18T02:18:29+00:00"
     }
    ],
-   "score": 3.02
+   "score": 3.2199999999999998
   },
   {
    "id": "6cab9c8cd38347e3",

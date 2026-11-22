@@ -3876,7 +3876,7 @@
   "url": "https://github.com/kborer/cells/",
   "published": "2026-11-18T02:18:29+00:00",
   "summary": "",
-  "score": 51
+  "score": 61
  },
  {
   "id": "cfcfa15bcde99b54",
@@ -3885,7 +3885,7 @@
   "url": "https://trynotched.com/find",
   "published": "2026-11-18T03:40:01+00:00",
   "summary": "",
-  "score": 218
+  "score": 226
  },
  {
   "id": "c0373bce587955a8",
@@ -4695,7 +4695,7 @@
   "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
   "published": "2026-11-18T14:15:58+00:00",
   "summary": "",
-  "score": 186
+  "score": 246
  },
  {
   "id": "bb3ee1cf50e29f40",
@@ -4884,7 +4884,7 @@
   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
   "published": "2026-11-18T22:29:13+00:00",
   "summary": "",
-  "score": 315
+  "score": 316
  },
  {
   "id": "b429cb510b698793",
@@ -4947,7 +4947,7 @@
   "url": "https://arxiv.org/abs/2607.29378",
   "published": "2026-11-19T01:27:02+00:00",
   "summary": "",
-  "score": 47
+  "score": 48
  },
  {
   "id": "68f14fafc9ad693d",
@@ -5793,7 +5793,7 @@
   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
   "published": "2026-11-19T17:02:40+00:00",
   "summary": "",
-  "score": 1139
+  "score": 1140
  },
  {
   "id": "122be7cf5dd94362",
@@ -5802,7 +5802,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 568
+  "score": 572
  },
  {
   "id": "57728669e04868ae",
@@ -6288,7 +6288,7 @@
   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "published": "2026-11-20T13:29:59+00:00",
   "summary": "",
-  "score": 494
+  "score": 511
  },
  {
   "id": "d77b5546421e2909",
@@ -6324,7 +6324,7 @@
   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
   "published": "2026-11-20T17:44:01+00:00",
   "summary": "",
-  "score": 196
+  "score": 198
  },
  {
   "id": "01449c61c8b86a22",
@@ -6378,7 +6378,7 @@
   "url": "https://news.ycombinator.com/item?id=50583761",
   "published": "2026-11-20T23:18:32+00:00",
   "summary": "",
-  "score": 604
+  "score": 686
  },
  {
   "id": "6ec7e83ef4a3ec87",
@@ -6756,7 +6756,7 @@
   "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
   "published": "2026-11-21T12:43:24+00:00",
   "summary": "",
-  "score": 31
+  "score": 33
  },
  {
   "id": "e74727ec8af70116",
@@ -6784,5 +6784,14 @@
   "published": "2026-11-21T20:03:37+00:00",
   "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [\u2026]",
   "score": 0
+ },
+ {
+  "id": "bf1d56f79e0821ae",
+  "source": "Hacker News",
+  "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+  "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+  "published": "2026-11-22T08:57:34+00:00",
+  "summary": "",
+  "score": 97
  }
 ]
