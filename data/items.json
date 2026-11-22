@@ -2607,7 +2607,7 @@
   "url": "https://pub.cba.mit.edu/863.26/site/",
   "published": "2026-11-16T05:50:37+00:00",
   "summary": "",
-  "score": 921
+  "score": 922
  },
  {
   "id": "b0ded74e06b06613",
@@ -3651,7 +3651,7 @@
   "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
   "published": "2026-11-17T06:29:57+00:00",
   "summary": "",
-  "score": 387
+  "score": 388
  },
  {
   "id": "c6c361c53bc4ce2d",
@@ -3687,7 +3687,7 @@
   "url": "https://quebec.yarn.so",
   "published": "2026-11-17T15:16:45+00:00",
   "summary": "",
-  "score": 81
+  "score": 82
  },
  {
   "id": "39e9943447463a62",
@@ -3876,7 +3876,7 @@
   "url": "https://github.com/kborer/cells/",
   "published": "2026-11-18T02:18:29+00:00",
   "summary": "",
-  "score": 61
+  "score": 63
  },
  {
   "id": "cfcfa15bcde99b54",
@@ -3885,7 +3885,7 @@
   "url": "https://trynotched.com/find",
   "published": "2026-11-18T03:40:01+00:00",
   "summary": "",
-  "score": 226
+  "score": 228
  },
  {
   "id": "c0373bce587955a8",
@@ -4695,7 +4695,7 @@
   "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
   "published": "2026-11-18T14:15:58+00:00",
   "summary": "",
-  "score": 246
+  "score": 306
  },
  {
   "id": "bb3ee1cf50e29f40",
@@ -4749,7 +4749,7 @@
   "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
   "published": "2026-11-18T16:41:22+00:00",
   "summary": "",
-  "score": 148
+  "score": 149
  },
  {
   "id": "21efcf41c872beed",
@@ -4758,7 +4758,7 @@
   "url": "https://news.ycombinator.com/item?id=50548660",
   "published": "2026-11-18T16:53:42+00:00",
   "summary": "",
-  "score": 156
+  "score": 157
  },
  {
   "id": "03ca256a4adf4087",
@@ -4948,6 +4948,15 @@
   "published": "2026-11-19T01:27:02+00:00",
   "summary": "",
   "score": 48
+ },
+ {
+  "id": "5f16696a8573af30",
+  "source": "Hacker News",
+  "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+  "url": "https://news.ycombinator.com/item?id=50555002",
+  "published": "2026-11-19T01:37:45+00:00",
+  "summary": "",
+  "score": 58
  },
  {
   "id": "68f14fafc9ad693d",
@@ -5730,7 +5739,7 @@
   "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
   "published": "2026-11-19T15:16:02+00:00",
   "summary": "",
-  "score": 136
+  "score": 137
  },
  {
   "id": "2600860578f34aa5",
@@ -5802,7 +5811,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 572
+  "score": 574
  },
  {
   "id": "57728669e04868ae",
@@ -6288,7 +6297,7 @@
   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "published": "2026-11-20T13:29:59+00:00",
   "summary": "",
-  "score": 511
+  "score": 523
  },
  {
   "id": "d77b5546421e2909",
@@ -6324,7 +6333,7 @@
   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
   "published": "2026-11-20T17:44:01+00:00",
   "summary": "",
-  "score": 198
+  "score": 199
  },
  {
   "id": "01449c61c8b86a22",
@@ -6369,7 +6378,7 @@
   "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
   "published": "2026-11-20T22:18:20+00:00",
   "summary": "",
-  "score": 53
+  "score": 55
  },
  {
   "id": "35f854dd7615d7ab",
@@ -6378,7 +6387,7 @@
   "url": "https://news.ycombinator.com/item?id=50583761",
   "published": "2026-11-20T23:18:32+00:00",
   "summary": "",
-  "score": 686
+  "score": 713
  },
  {
   "id": "6ec7e83ef4a3ec87",
@@ -6756,7 +6765,7 @@
   "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
   "published": "2026-11-21T12:43:24+00:00",
   "summary": "",
-  "score": 33
+  "score": 34
  },
  {
   "id": "e74727ec8af70116",
@@ -6786,12 +6795,75 @@
   "score": 0
  },
  {
+  "id": "de5cd1a6d51dc917",
+  "source": "OpenAI",
+  "title": "Perplexity and Intelligence",
+  "url": "https://openai.com/index/perplexity-and-intelligence",
+  "published": "2026-11-22T00:00:00+00:00",
+  "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+  "score": 0
+ },
+ {
   "id": "bf1d56f79e0821ae",
   "source": "Hacker News",
   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
   "published": "2026-11-22T08:57:34+00:00",
   "summary": "",
-  "score": 97
+  "score": 603
+ },
+ {
+  "id": "77bc9c5c53f0bd7e",
+  "source": "Hacker News",
+  "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+  "url": "https://arxiv.org/abs/2606.14068",
+  "published": "2026-11-22T09:18:36+00:00",
+  "summary": "",
+  "score": 86
+ },
+ {
+  "id": "0f50037c76f25ff3",
+  "source": "The Verge AI",
+  "title": "The vibe-coding revolution is coming to all the gadgets",
+  "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+  "published": "2026-11-22T13:00:00+00:00",
+  "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce.",
+  "score": 0
+ },
+ {
+  "id": "3c4f4993adcaa465",
+  "source": "Hacker News",
+  "title": "Show HN: I built a game where you are an LLM's subagent",
+  "url": "https://github.com/gulivan/worker755",
+  "published": "2026-11-22T13:56:58+00:00",
+  "summary": "",
+  "score": 163
+ },
+ {
+  "id": "3482c58c624c53d1",
+  "source": "Hacker News",
+  "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+  "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+  "published": "2026-11-22T15:42:40+00:00",
+  "summary": "",
+  "score": 101
+ },
+ {
+  "id": "b0ef78d25e983c42",
+  "source": "Hacker News",
+  "title": "Perplexity and Intelligence",
+  "url": "https://openai.com/index/perplexity-and-intelligence/",
+  "published": "2026-11-22T17:06:27+00:00",
+  "summary": "",
+  "score": 163
+ },
+ {
+  "id": "265c68ec3a4cc76b",
+  "source": "The Verge AI",
+  "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+  "published": "2026-11-22T17:25:20+00:00",
+  "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
+  "score": 0
  }
 ]

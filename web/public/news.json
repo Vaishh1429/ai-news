@@ -1,6 +1,90 @@
 {
- "generated": "2026-11-22T10:32:01.078008+00:00",
+ "generated": "2026-11-22T18:51:43.775031+00:00",
  "stories": [
+  {
+   "id": "265c68ec3a4cc76b",
+   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
+   "published": "2026-11-22T17:25:20+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+     "published": "2026-11-22T17:25:20+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "b0ef78d25e983c42",
+   "title": "Perplexity and Intelligence",
+   "summary": "",
+   "published": "2026-11-22T17:06:27+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://openai.com/index/perplexity-and-intelligence/",
+     "published": "2026-11-22T17:06:27+00:00"
+    }
+   ],
+   "score": 5.26
+  },
+  {
+   "id": "3482c58c624c53d1",
+   "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+   "summary": "",
+   "published": "2026-11-22T15:42:40+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+     "published": "2026-11-22T15:42:40+00:00"
+    }
+   ],
+   "score": 4.02
+  },
+  {
+   "id": "3c4f4993adcaa465",
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "summary": "",
+   "published": "2026-11-22T13:56:58+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/gulivan/worker755",
+     "published": "2026-11-22T13:56:58+00:00"
+    }
+   ],
+   "score": 5.26
+  },
+  {
+   "id": "0f50037c76f25ff3",
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce.",
+   "published": "2026-11-22T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+     "published": "2026-11-22T13:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "77bc9c5c53f0bd7e",
+   "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+   "summary": "",
+   "published": "2026-11-22T09:18:36+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://arxiv.org/abs/2606.14068",
+     "published": "2026-11-22T09:18:36+00:00"
+    }
+   ],
+   "score": 3.7199999999999998
+  },
   {
    "id": "bf1d56f79e0821ae",
    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
@@ -13,7 +97,21 @@
      "published": "2026-11-22T08:57:34+00:00"
     }
    ],
-   "score": 3.94
+   "score": 14.06
+  },
+  {
+   "id": "de5cd1a6d51dc917",
+   "title": "Perplexity and Intelligence",
+   "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "published": "2026-11-22T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/perplexity-and-intelligence",
+     "published": "2026-11-22T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
   },
   {
    "id": "234da3fc18675af9",
@@ -69,7 +167,7 @@
      "published": "2026-11-21T12:43:24+00:00"
     }
    ],
-   "score": 2.66
+   "score": 2.68
   },
   {
    "id": "9a109a2f46a7df50",
@@ -667,7 +765,7 @@
      "published": "2026-11-20T23:18:32+00:00"
     }
    ],
-   "score": 15.72
+   "score": 16.259999999999998
   },
   {
    "id": "956f406f46c11332",
@@ -681,7 +779,7 @@
      "published": "2026-11-20T22:18:20+00:00"
     }
    ],
-   "score": 3.06
+   "score": 3.1
   },
   {
    "id": "6f232f6bc5905fbc",
@@ -756,7 +854,7 @@
      "published": "2026-11-20T17:44:01+00:00"
     }
    ],
-   "score": 5.96
+   "score": 5.98
   },
   {
    "id": "859ee3ec8c206bcf",
@@ -812,7 +910,7 @@
      "published": "2026-11-20T13:29:59+00:00"
     }
    ],
-   "score": 12.22
+   "score": 12.46
   },
   {
    "id": "779ccf54081cfd88",
@@ -1590,7 +1688,7 @@
      "published": "2026-11-19T17:30:44+00:00"
     }
    ],
-   "score": 13.44
+   "score": 13.48
   },
   {
    "id": "909b75797cd1319b",
@@ -1689,7 +1787,7 @@
      "published": "2026-11-19T15:16:02+00:00"
     }
    ],
-   "score": 4.720000000000001
+   "score": 4.74
   },
   {
    "id": "0b3a38ae0a194f39",
@@ -2895,6 +2993,20 @@
    "score": 2.0
   },
   {
+   "id": "5f16696a8573af30",
+   "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+   "summary": "",
+   "published": "2026-11-19T01:37:45+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50555002",
+     "published": "2026-11-19T01:37:45+00:00"
+    }
+   ],
+   "score": 3.16
+  },
+  {
    "id": "7d99e1aa81cc1163",
    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
    "summary": "",
@@ -3191,7 +3303,7 @@
      "published": "2026-11-18T16:53:42+00:00"
     }
    ],
-   "score": 5.12
+   "score": 5.140000000000001
   },
   {
    "id": "eccc011a6ed5dbde",
@@ -3205,7 +3317,7 @@
      "published": "2026-11-18T16:41:22+00:00"
     }
    ],
-   "score": 4.96
+   "score": 4.98
   },
   {
    "id": "6908e71926e8ed83",
@@ -3289,7 +3401,7 @@
      "published": "2026-11-18T14:15:58+00:00"
     }
    ],
-   "score": 6.92
+   "score": 8.120000000000001
   },
   {
    "id": "84d2fa603ef696ee",
@@ -4494,7 +4606,7 @@
      "published": "2026-11-18T03:40:01+00:00"
     }
    ],
-   "score": 6.52
+   "score": 6.56
   },
   {
    "id": "d7d27f4b54e77533",
@@ -4508,7 +4620,7 @@
      "published": "2026-11-18T02:18:29+00:00"
     }
    ],
-   "score": 3.2199999999999998
+   "score": 3.26
   },
   {
    "id": "6cab9c8cd38347e3",
@@ -4804,7 +4916,7 @@
      "published": "2026-11-17T15:16:45+00:00"
     }
    ],
-   "score": 3.62
+   "score": 3.6399999999999997
   },
   {
    "id": "86f07be892b022f0",
@@ -4860,7 +4972,7 @@
      "published": "2026-11-17T06:29:57+00:00"
     }
    ],
-   "score": 9.74
+   "score": 9.76
   },
   {
    "id": "ad100a83202427c0",
@@ -6304,7 +6416,7 @@
      "published": "2026-11-16T05:50:37+00:00"
     }
    ],
-   "score": 20.42
+   "score": 20.44
   },
   {
    "id": "a3c4846598c88dcf",
