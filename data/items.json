@@ -2607,7 +2607,7 @@
   "url": "https://pub.cba.mit.edu/863.26/site/",
   "published": "2026-11-16T05:50:37+00:00",
   "summary": "",
-  "score": 922
+  "score": 924
  },
  {
   "id": "b0ded74e06b06613",
@@ -3876,7 +3876,7 @@
   "url": "https://github.com/kborer/cells/",
   "published": "2026-11-18T02:18:29+00:00",
   "summary": "",
-  "score": 63
+  "score": 66
  },
  {
   "id": "cfcfa15bcde99b54",
@@ -3885,7 +3885,7 @@
   "url": "https://trynotched.com/find",
   "published": "2026-11-18T03:40:01+00:00",
   "summary": "",
-  "score": 228
+  "score": 229
  },
  {
   "id": "c0373bce587955a8",
@@ -4695,7 +4695,7 @@
   "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
   "published": "2026-11-18T14:15:58+00:00",
   "summary": "",
-  "score": 306
+  "score": 310
  },
  {
   "id": "bb3ee1cf50e29f40",
@@ -4758,7 +4758,7 @@
   "url": "https://news.ycombinator.com/item?id=50548660",
   "published": "2026-11-18T16:53:42+00:00",
   "summary": "",
-  "score": 157
+  "score": 158
  },
  {
   "id": "03ca256a4adf4087",
@@ -4956,7 +4956,7 @@
   "url": "https://news.ycombinator.com/item?id=50555002",
   "published": "2026-11-19T01:37:45+00:00",
   "summary": "",
-  "score": 58
+  "score": 116
  },
  {
   "id": "68f14fafc9ad693d",
@@ -5739,7 +5739,7 @@
   "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
   "published": "2026-11-19T15:16:02+00:00",
   "summary": "",
-  "score": 137
+  "score": 138
  },
  {
   "id": "2600860578f34aa5",
@@ -5758,6 +5758,15 @@
   "published": "2026-11-19T15:32:47+00:00",
   "summary": "",
   "score": 40
+ },
+ {
+  "id": "5098d22408063b73",
+  "source": "Hacker News",
+  "title": "Inside PyPy: First Contact with RPython",
+  "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+  "published": "2026-11-19T16:26:51+00:00",
+  "summary": "",
+  "score": 61
  },
  {
   "id": "5d7ae07855bb5adc",
@@ -5811,7 +5820,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 574
+  "score": 575
  },
  {
   "id": "57728669e04868ae",
@@ -6297,7 +6306,7 @@
   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "published": "2026-11-20T13:29:59+00:00",
   "summary": "",
-  "score": 523
+  "score": 527
  },
  {
   "id": "d77b5546421e2909",
@@ -6387,7 +6396,7 @@
   "url": "https://news.ycombinator.com/item?id=50583761",
   "published": "2026-11-20T23:18:32+00:00",
   "summary": "",
-  "score": 713
+  "score": 725
  },
  {
   "id": "6ec7e83ef4a3ec87",
@@ -6765,7 +6774,7 @@
   "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
   "published": "2026-11-21T12:43:24+00:00",
   "summary": "",
-  "score": 34
+  "score": 35
  },
  {
   "id": "e74727ec8af70116",
@@ -6810,7 +6819,7 @@
   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
   "published": "2026-11-22T08:57:34+00:00",
   "summary": "",
-  "score": 603
+  "score": 878
  },
  {
   "id": "77bc9c5c53f0bd7e",
@@ -6819,7 +6828,7 @@
   "url": "https://arxiv.org/abs/2606.14068",
   "published": "2026-11-22T09:18:36+00:00",
   "summary": "",
-  "score": 86
+  "score": 89
  },
  {
   "id": "0f50037c76f25ff3",
@@ -6837,7 +6846,7 @@
   "url": "https://github.com/gulivan/worker755",
   "published": "2026-11-22T13:56:58+00:00",
   "summary": "",
-  "score": 163
+  "score": 268
  },
  {
   "id": "3482c58c624c53d1",
@@ -6846,7 +6855,7 @@
   "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
   "published": "2026-11-22T15:42:40+00:00",
   "summary": "",
-  "score": 101
+  "score": 153
  },
  {
   "id": "b0ef78d25e983c42",
@@ -6855,7 +6864,7 @@
   "url": "https://openai.com/index/perplexity-and-intelligence/",
   "published": "2026-11-22T17:06:27+00:00",
   "summary": "",
-  "score": 163
+  "score": 471
  },
  {
   "id": "265c68ec3a4cc76b",
@@ -6864,6 +6873,15 @@
   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
   "published": "2026-11-22T17:25:20+00:00",
   "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
+  "score": 0
+ },
+ {
+  "id": "e7090200216ed533",
+  "source": "The Verge AI",
+  "title": "We haven\u2019t seen the last of the major tech outages",
+  "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+  "published": "2026-11-22T22:48:02+00:00",
+  "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come.",
   "score": 0
  }
 ]
