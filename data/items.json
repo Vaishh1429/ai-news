@@ -3876,7 +3876,7 @@
   "url": "https://github.com/kborer/cells/",
   "published": "2026-11-18T02:18:29+00:00",
   "summary": "",
-  "score": 66
+  "score": 68
  },
  {
   "id": "cfcfa15bcde99b54",
@@ -3885,7 +3885,7 @@
   "url": "https://trynotched.com/find",
   "published": "2026-11-18T03:40:01+00:00",
   "summary": "",
-  "score": 232
+  "score": 235
  },
  {
   "id": "c0373bce587955a8",
@@ -4695,7 +4695,7 @@
   "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
   "published": "2026-11-18T14:15:58+00:00",
   "summary": "",
-  "score": 314
+  "score": 316
  },
  {
   "id": "bb3ee1cf50e29f40",
@@ -4758,7 +4758,7 @@
   "url": "https://news.ycombinator.com/item?id=50548660",
   "published": "2026-11-18T16:53:42+00:00",
   "summary": "",
-  "score": 158
+  "score": 159
  },
  {
   "id": "03ca256a4adf4087",
@@ -4956,7 +4956,7 @@
   "url": "https://news.ycombinator.com/item?id=50555002",
   "published": "2026-11-19T01:37:45+00:00",
   "summary": "",
-  "score": 141
+  "score": 151
  },
  {
   "id": "68f14fafc9ad693d",
@@ -5739,7 +5739,7 @@
   "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
   "published": "2026-11-19T15:16:02+00:00",
   "summary": "",
-  "score": 140
+  "score": 142
  },
  {
   "id": "2600860578f34aa5",
@@ -5766,7 +5766,7 @@
   "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
   "published": "2026-11-19T16:26:51+00:00",
   "summary": "",
-  "score": 65
+  "score": 68
  },
  {
   "id": "5d7ae07855bb5adc",
@@ -5811,7 +5811,7 @@
   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
   "published": "2026-11-19T17:02:40+00:00",
   "summary": "",
-  "score": 1143
+  "score": 1144
  },
  {
   "id": "122be7cf5dd94362",
@@ -5820,7 +5820,7 @@
   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
   "published": "2026-11-19T17:30:44+00:00",
   "summary": "",
-  "score": 577
+  "score": 579
  },
  {
   "id": "57728669e04868ae",
@@ -6396,7 +6396,7 @@
   "url": "https://news.ycombinator.com/item?id=50583761",
   "published": "2026-11-20T23:18:32+00:00",
   "summary": "",
-  "score": 736
+  "score": 741
  },
  {
   "id": "6ec7e83ef4a3ec87",
@@ -6813,13 +6813,22 @@
   "score": 0
  },
  {
+  "id": "57d63e6098415d73",
+  "source": "Hacker News",
+  "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+  "url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
+  "published": "2026-11-22T07:31:41+00:00",
+  "summary": "",
+  "score": 31
+ },
+ {
   "id": "bf1d56f79e0821ae",
   "source": "Hacker News",
   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
   "published": "2026-11-22T08:57:34+00:00",
   "summary": "",
-  "score": 975
+  "score": 1025
  },
  {
   "id": "77bc9c5c53f0bd7e",
@@ -6828,7 +6837,7 @@
   "url": "https://arxiv.org/abs/2606.14068",
   "published": "2026-11-22T09:18:36+00:00",
   "summary": "",
-  "score": 93
+  "score": 94
  },
  {
   "id": "0f50037c76f25ff3",
@@ -6846,7 +6855,7 @@
   "url": "https://github.com/gulivan/worker755",
   "published": "2026-11-22T13:56:58+00:00",
   "summary": "",
-  "score": 326
+  "score": 356
  },
  {
   "id": "3482c58c624c53d1",
@@ -6855,7 +6864,7 @@
   "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
   "published": "2026-11-22T15:42:40+00:00",
   "summary": "",
-  "score": 166
+  "score": 173
  },
  {
   "id": "b0ef78d25e983c42",
@@ -6864,7 +6873,7 @@
   "url": "https://openai.com/index/perplexity-and-intelligence/",
   "published": "2026-11-22T17:06:27+00:00",
   "summary": "",
-  "score": 602
+  "score": 693
  },
  {
   "id": "265c68ec3a4cc76b",
@@ -6882,6 +6891,15 @@
   "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
   "published": "2026-11-22T22:48:02+00:00",
   "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come.",
+  "score": 0
+ },
+ {
+  "id": "6fd4c32fe34a4cba",
+  "source": "Hugging Face",
+  "title": "How to build and maintain an agentic evaluation",
+  "url": "https://huggingface.co/blog/agentic-evals",
+  "published": "2026-11-23T00:00:00+00:00",
+  "summary": "",
   "score": 0
  },
  {
@@ -7620,16 +7638,34 @@
   "url": "https://twitter.com/Zai_org/status/2124719658074825004",
   "published": "2026-11-23T07:48:45+00:00",
   "summary": "",
-  "score": 35
+  "score": 58
+ },
+ {
+  "id": "f8a4e02f42124693",
+  "source": "OpenAI",
+  "title": "Connected intelligence for in-house legal",
+  "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "published": "2026-11-23T08:00:00+00:00",
+  "summary": "Watch OpenAI\u2019s Stacey Wang and Craig Bruney, Mary O\u2019Carroll of LECG, and Cooley\u2019s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+  "score": 0
+ },
+ {
+  "id": "680b35173b971311",
+  "source": "OpenAI",
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+  "published": "2026-11-23T08:00:00+00:00",
+  "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+  "score": 0
  },
  {
   "id": "5094532b4e2e63d2",
   "source": "Hacker News",
-  "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+  "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
   "url": "https://z.ai/blog/glm-5.4",
   "published": "2026-11-23T10:06:43+00:00",
   "summary": "",
-  "score": 99
+  "score": 1008
  },
  {
   "id": "106e5d1cffec6462",
@@ -7638,6 +7674,168 @@
   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
   "published": "2026-11-23T11:00:00+00:00",
   "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "81ecb7742efe5383",
+  "source": "Hacker News",
+  "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+  "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+  "published": "2026-11-23T13:42:38+00:00",
+  "summary": "",
+  "score": 102
+ },
+ {
+  "id": "de36b121eed67039",
+  "source": "The Verge AI",
+  "title": "Tech leaders are celebrating Jensen Huang\u2019s return",
+  "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+  "published": "2026-11-23T16:14:04+00:00",
+  "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company.",
+  "score": 0
+ },
+ {
+  "id": "1cb78417896f91c9",
+  "source": "The Verge AI",
+  "title": "White House brags that Trump was \u2018totally involved\u2019 in getting Jensen reinstated",
+  "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+  "published": "2026-11-23T16:30:11+00:00",
+  "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "9dddeb89e408dae0",
+  "source": "Google DeepMind",
+  "title": "Finding faster quantum algorithms with agents and formal verification",
+  "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+  "published": "2026-11-23T16:59:40+00:00",
+  "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+  "score": 0
+ },
+ {
+  "id": "c5903c8754bbbfd5",
+  "source": "Google AI",
+  "title": "A more tailored Google Search that\u2019s uniquely yours",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "published": "2026-11-23T17:00:00+00:00",
+  "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+  "score": 0
+ },
+ {
+  "id": "cb793a567b2e9fcf",
+  "source": "Hacker News",
+  "title": "How should an LLM see a computer?",
+  "url": "https://www.greptile.com/blog/trex-computer-use",
+  "published": "2026-11-23T17:19:25+00:00",
+  "summary": "",
+  "score": 35
+ },
+ {
+  "id": "ca38829e73128713",
+  "source": "Hugging Face",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "published": "2026-11-23T17:20:37+00:00",
+  "summary": "",
+  "score": 0
+ },
+ {
+  "id": "02839082ff9ffa67",
+  "source": "MIT Tech Review AI",
+  "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
+  "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+  "published": "2026-11-23T17:36:08+00:00",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+  "score": 0
+ },
+ {
+  "id": "786a4f32021c11f8",
+  "source": "The Verge AI",
+  "title": "Oregon and Virginia sue SpaceX over Grok\u2019s porn deepfakes",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+  "published": "2026-11-23T18:26:47+00:00",
+  "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "44fe677fd46c23c4",
+  "source": "The Verge AI",
+  "title": "Nothing\u2019s upcoming Ear Note is a pair of earbuds with AI transcription",
+  "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+  "published": "2026-11-23T19:04:52+00:00",
+  "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "47b1648bdb930a3d",
+  "source": "The Verge AI",
+  "title": "How Jensen Huang ended up as Nvidia CEO again",
+  "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+  "published": "2026-11-23T19:57:18+00:00",
+  "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs.",
+  "score": 0
+ },
+ {
+  "id": "49ef9cf5084cd81b",
+  "source": "The Verge AI",
+  "title": "Claude AI can review pull requests and ship fixes on its own now",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+  "published": "2026-11-23T20:00:00+00:00",
+  "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
+  "score": 0
+ },
+ {
+  "id": "0cd17937bdc8feaa",
+  "source": "The Verge AI",
+  "title": "AI data centers throw another wrench into chaotic UN climate talks",
+  "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+  "published": "2026-11-23T21:09:37+00:00",
+  "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday.",
+  "score": 0
+ },
+ {
+  "id": "1d0c151fefed0dea",
+  "source": "OpenAI",
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "url": "https://openai.com/index/introducing-shirudo",
+  "published": "2026-11-23T21:20:00+00:00",
+  "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+  "score": 0
+ },
+ {
+  "id": "7e689a2455fd0b6d",
+  "source": "Hacker News",
+  "title": "VP \u2260 VNP over Every Field",
+  "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+  "published": "2026-11-23T22:09:10+00:00",
+  "summary": "",
+  "score": 92
+ },
+ {
+  "id": "8ab70d6f89cfc96b",
+  "source": "The Verge AI",
+  "title": "Welcome to elite impunity, Jensen Huang",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+  "published": "2026-11-23T22:09:26+00:00",
+  "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.",
+  "score": 0
+ },
+ {
+  "id": "15c28179b2dc3ec9",
+  "source": "The Verge AI",
+  "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+  "published": "2026-11-23T22:10:32+00:00",
+  "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "049542555c2cb3db",
+  "source": "The Verge AI",
+  "title": "Trump engineered a risky comeback for Jensen Huang",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+  "published": "2026-11-23T22:25:12+00:00",
+  "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A.",
   "score": 0
  }
 ]

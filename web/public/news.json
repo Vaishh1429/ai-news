@@ -1,6 +1,265 @@
 {
- "generated": "2026-11-23T11:32:24.573540+00:00",
+ "generated": "2026-11-23T23:06:29.311226+00:00",
  "stories": [
+  {
+   "id": "1cb78417896f91c9",
+   "title": "White House brags that Trump was \u2018totally involved\u2019 in getting Jensen reinstated",
+   "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, [\u2026]",
+   "published": "2026-11-23T22:25:12+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+     "published": "2026-11-23T16:30:11+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+     "published": "2026-11-23T22:25:12+00:00"
+    }
+   ],
+   "score": 4.0
+  },
+  {
+   "id": "627c324df106de1b",
+   "title": "What\u2019s really at stake in the Jensen Huang saga",
+   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold.",
+   "published": "2026-11-23T22:10:32+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+     "published": "2026-11-13T14:47:16+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+     "published": "2026-11-16T18:43:35+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+     "published": "2026-11-16T23:17:34+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+     "published": "2026-11-17T16:09:57+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+     "published": "2026-11-23T19:57:18+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "published": "2026-11-23T22:10:32+00:00"
+    }
+   ],
+   "score": 12.0
+  },
+  {
+   "id": "2b2bb87b4857660b",
+   "title": "The Nvidia scandal isn\u2019t slowing down",
+   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at [\u2026]",
+   "published": "2026-11-23T22:09:26+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+     "published": "2026-11-16T13:00:00+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+     "published": "2026-11-23T22:09:26+00:00"
+    }
+   ],
+   "score": 4.0
+  },
+  {
+   "id": "7e689a2455fd0b6d",
+   "title": "VP \u2260 VNP over Every Field",
+   "summary": "",
+   "published": "2026-11-23T22:09:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+     "published": "2026-11-23T22:09:10+00:00"
+    }
+   ],
+   "score": 3.84
+  },
+  {
+   "id": "1d0c151fefed0dea",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "published": "2026-11-23T21:20:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-shirudo",
+     "published": "2026-11-23T21:20:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "0cd17937bdc8feaa",
+   "title": "AI data centers throw another wrench into chaotic UN climate talks",
+   "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday.",
+   "published": "2026-11-23T21:09:37+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+     "published": "2026-11-23T21:09:37+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "49ef9cf5084cd81b",
+   "title": "Claude AI can review pull requests and ship fixes on its own now",
+   "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
+   "published": "2026-11-23T20:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+     "published": "2026-11-23T20:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "44fe677fd46c23c4",
+   "title": "Nothing\u2019s upcoming Ear Note is a pair of earbuds with AI transcription",
+   "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device [\u2026]",
+   "published": "2026-11-23T19:04:52+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+     "published": "2026-11-23T19:04:52+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "786a4f32021c11f8",
+   "title": "Oregon and Virginia sue SpaceX over Grok\u2019s porn deepfakes",
+   "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully [\u2026]",
+   "published": "2026-11-23T18:26:47+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+     "published": "2026-11-23T18:26:47+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "02839082ff9ffa67",
+   "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+   "published": "2026-11-23T17:36:08+00:00",
+   "sources": [
+    {
+     "name": "MIT Tech Review AI",
+     "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+     "published": "2026-11-23T17:36:08+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "ca38829e73128713",
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "summary": "",
+   "published": "2026-11-23T17:20:37+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/allenai/robotrack",
+     "published": "2026-11-23T17:20:37+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "cb793a567b2e9fcf",
+   "title": "How should an LLM see a computer?",
+   "summary": "",
+   "published": "2026-11-23T17:19:25+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.greptile.com/blog/trex-computer-use",
+     "published": "2026-11-23T17:19:25+00:00"
+    }
+   ],
+   "score": 2.7
+  },
+  {
+   "id": "c5903c8754bbbfd5",
+   "title": "A more tailored Google Search that\u2019s uniquely yours",
+   "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+   "published": "2026-11-23T17:00:00+00:00",
+   "sources": [
+    {
+     "name": "Google AI",
+     "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+     "published": "2026-11-23T17:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "9dddeb89e408dae0",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "published": "2026-11-23T16:59:40+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+     "published": "2026-11-23T16:59:40+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "de36b121eed67039",
+   "title": "Tech leaders are celebrating Jensen Huang\u2019s return",
+   "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company.",
+   "published": "2026-11-23T16:14:04+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+     "published": "2026-11-23T16:14:04+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "81ecb7742efe5383",
+   "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+   "summary": "",
+   "published": "2026-11-23T13:42:38+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+     "published": "2026-11-23T13:42:38+00:00"
+    }
+   ],
+   "score": 4.04
+  },
   {
    "id": "106e5d1cffec6462",
    "title": "Meta Muse can now do your Black Friday shopping at Walmart",
@@ -17,7 +276,7 @@
   },
   {
    "id": "5094532b4e2e63d2",
-   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
    "summary": "",
    "published": "2026-11-23T10:06:43+00:00",
    "sources": [
@@ -27,7 +286,35 @@
      "published": "2026-11-23T10:06:43+00:00"
     }
    ],
-   "score": 3.98
+   "score": 22.16
+  },
+  {
+   "id": "f8a4e02f42124693",
+   "title": "Connected intelligence for in-house legal",
+   "summary": "Watch OpenAI\u2019s Stacey Wang and Craig Bruney, Mary O\u2019Carroll of LECG, and Cooley\u2019s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+   "published": "2026-11-23T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+     "published": "2026-11-23T08:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "680b35173b971311",
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+   "published": "2026-11-23T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+     "published": "2026-11-23T08:00:00+00:00"
+    }
+   ],
+   "score": 2.0
   },
   {
    "id": "fc4099107db6d6e5",
@@ -41,7 +328,7 @@
      "published": "2026-11-23T07:48:45+00:00"
     }
    ],
-   "score": 2.7
+   "score": 3.16
   },
   {
    "id": "5a1214e07e2e3edd",
@@ -1214,6 +1501,20 @@
    "score": 2.0
   },
   {
+   "id": "6fd4c32fe34a4cba",
+   "title": "How to build and maintain an agentic evaluation",
+   "summary": "",
+   "published": "2026-11-23T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/agentic-evals",
+     "published": "2026-11-23T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
    "id": "e7090200216ed533",
    "title": "We haven\u2019t seen the last of the major tech outages",
    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come.",
@@ -1253,7 +1554,7 @@
      "published": "2026-11-22T17:06:27+00:00"
     }
    ],
-   "score": 14.04
+   "score": 15.86
   },
   {
    "id": "3482c58c624c53d1",
@@ -1267,7 +1568,7 @@
      "published": "2026-11-22T15:42:40+00:00"
     }
    ],
-   "score": 5.32
+   "score": 5.46
   },
   {
    "id": "3c4f4993adcaa465",
@@ -1281,7 +1582,7 @@
      "published": "2026-11-22T13:56:58+00:00"
     }
    ],
-   "score": 8.52
+   "score": 9.120000000000001
   },
   {
    "id": "0f50037c76f25ff3",
@@ -1309,7 +1610,7 @@
      "published": "2026-11-22T09:18:36+00:00"
     }
    ],
-   "score": 3.8600000000000003
+   "score": 3.88
   },
   {
    "id": "bf1d56f79e0821ae",
@@ -1323,7 +1624,21 @@
      "published": "2026-11-22T08:57:34+00:00"
     }
    ],
-   "score": 21.5
+   "score": 22.5
+  },
+  {
+   "id": "57d63e6098415d73",
+   "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+   "summary": "",
+   "published": "2026-11-22T07:31:41+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
+     "published": "2026-11-22T07:31:41+00:00"
+    }
+   ],
+   "score": 2.62
   },
   {
    "id": "de5cd1a6d51dc917",
@@ -1991,7 +2306,7 @@
      "published": "2026-11-20T23:18:32+00:00"
     }
    ],
-   "score": 16.72
+   "score": 16.82
   },
   {
    "id": "956f406f46c11332",
@@ -2900,7 +3215,7 @@
      "published": "2026-11-19T17:30:44+00:00"
     }
    ],
-   "score": 13.54
+   "score": 13.58
   },
   {
    "id": "909b75797cd1319b",
@@ -2929,7 +3244,7 @@
      "published": "2026-11-19T17:02:40+00:00"
     }
    ],
-   "score": 40.1
+   "score": 40.12
   },
   {
    "id": "c3e7758a237362e2",
@@ -2971,7 +3286,7 @@
      "published": "2026-11-19T16:26:51+00:00"
     }
    ],
-   "score": 3.3
+   "score": 3.3600000000000003
   },
   {
    "id": "c5a788d7efb7df80",
@@ -3013,7 +3328,7 @@
      "published": "2026-11-19T15:16:02+00:00"
     }
    ],
-   "score": 4.8
+   "score": 4.84
   },
   {
    "id": "0b3a38ae0a194f39",
@@ -4206,7 +4521,7 @@
      "published": "2026-11-19T01:37:45+00:00"
     }
    ],
-   "score": 4.82
+   "score": 5.02
   },
   {
    "id": "7d99e1aa81cc1163",
@@ -4505,7 +4820,7 @@
      "published": "2026-11-18T16:53:42+00:00"
     }
    ],
-   "score": 5.16
+   "score": 5.18
   },
   {
    "id": "eccc011a6ed5dbde",
@@ -4603,7 +4918,7 @@
      "published": "2026-11-18T14:15:58+00:00"
     }
    ],
-   "score": 8.280000000000001
+   "score": 8.32
   },
   {
    "id": "84d2fa603ef696ee",
@@ -5780,7 +6095,7 @@
      "published": "2026-11-18T03:40:01+00:00"
     }
    ],
-   "score": 6.64
+   "score": 6.7
   },
   {
    "id": "d7d27f4b54e77533",
@@ -5794,7 +6109,7 @@
      "published": "2026-11-18T02:18:29+00:00"
     }
    ],
-   "score": 3.3200000000000003
+   "score": 3.3600000000000003
   },
   {
    "id": "6cab9c8cd38347e3",
@@ -6034,35 +6349,6 @@
     }
    ],
    "score": 2.0
-  },
-  {
-   "id": "627c324df106de1b",
-   "title": "What\u2019s really at stake in the Jensen Huang saga",
-   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold.",
-   "published": "2026-11-17T16:09:57+00:00",
-   "sources": [
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-     "published": "2026-11-13T14:47:16+00:00"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-     "published": "2026-11-16T18:43:35+00:00"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-     "published": "2026-11-16T23:17:34+00:00"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-     "published": "2026-11-17T16:09:57+00:00"
-    }
-   ],
-   "score": 8.0
   },
   {
    "id": "39e9943447463a62",
@@ -7484,20 +7770,6 @@
     {
      "name": "MIT Tech Review AI",
      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-     "published": "2026-11-16T13:00:00+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
-   "id": "2b2bb87b4857660b",
-   "title": "The Nvidia scandal isn\u2019t slowing down",
-   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at [\u2026]",
-   "published": "2026-11-16T13:00:00+00:00",
-   "sources": [
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
      "published": "2026-11-16T13:00:00+00:00"
     }
    ],
