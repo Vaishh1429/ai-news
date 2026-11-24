@@ -4956,7 +4956,7 @@
   "url": "https://news.ycombinator.com/item?id=50555002",
   "published": "2026-11-19T01:37:45+00:00",
   "summary": "",
-  "score": 151
+  "score": 152
  },
  {
   "id": "68f14fafc9ad693d",
@@ -5766,7 +5766,7 @@
   "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
   "published": "2026-11-19T16:26:51+00:00",
   "summary": "",
-  "score": 68
+  "score": 70
  },
  {
   "id": "5d7ae07855bb5adc",
@@ -6396,7 +6396,7 @@
   "url": "https://news.ycombinator.com/item?id=50583761",
   "published": "2026-11-20T23:18:32+00:00",
   "summary": "",
-  "score": 741
+  "score": 745
  },
  {
   "id": "6ec7e83ef4a3ec87",
@@ -6828,7 +6828,7 @@
   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
   "published": "2026-11-22T08:57:34+00:00",
   "summary": "",
-  "score": 1025
+  "score": 1030
  },
  {
   "id": "77bc9c5c53f0bd7e",
@@ -6855,7 +6855,7 @@
   "url": "https://github.com/gulivan/worker755",
   "published": "2026-11-22T13:56:58+00:00",
   "summary": "",
-  "score": 356
+  "score": 357
  },
  {
   "id": "3482c58c624c53d1",
@@ -6864,7 +6864,7 @@
   "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
   "published": "2026-11-22T15:42:40+00:00",
   "summary": "",
-  "score": 173
+  "score": 174
  },
  {
   "id": "b0ef78d25e983c42",
@@ -6873,7 +6873,7 @@
   "url": "https://openai.com/index/perplexity-and-intelligence/",
   "published": "2026-11-22T17:06:27+00:00",
   "summary": "",
-  "score": 693
+  "score": 702
  },
  {
   "id": "265c68ec3a4cc76b",
@@ -7665,7 +7665,7 @@
   "url": "https://z.ai/blog/glm-5.4",
   "published": "2026-11-23T10:06:43+00:00",
   "summary": "",
-  "score": 1008
+  "score": 1104
  },
  {
   "id": "106e5d1cffec6462",
@@ -7683,7 +7683,7 @@
   "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
   "published": "2026-11-23T13:42:38+00:00",
   "summary": "",
-  "score": 102
+  "score": 159
  },
  {
   "id": "de36b121eed67039",
@@ -7728,7 +7728,7 @@
   "url": "https://www.greptile.com/blog/trex-computer-use",
   "published": "2026-11-23T17:19:25+00:00",
   "summary": "",
-  "score": 35
+  "score": 50
  },
  {
   "id": "ca38829e73128713",
@@ -7803,13 +7803,22 @@
   "score": 0
  },
  {
+  "id": "d17e7b701323446e",
+  "source": "Hacker News",
+  "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+  "url": "https://openai.com/index/introducing-shirudo/",
+  "published": "2026-11-23T21:30:41+00:00",
+  "summary": "",
+  "score": 64
+ },
+ {
   "id": "7e689a2455fd0b6d",
   "source": "Hacker News",
   "title": "VP \u2260 VNP over Every Field",
   "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
   "published": "2026-11-23T22:09:10+00:00",
   "summary": "",
-  "score": 92
+  "score": 315
  },
  {
   "id": "8ab70d6f89cfc96b",
@@ -7837,5 +7846,14 @@
   "published": "2026-11-23T22:25:12+00:00",
   "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A.",
   "score": 0
+ },
+ {
+  "id": "8f20e5199f558b31",
+  "source": "Hacker News",
+  "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+  "url": "https://arxiv.org/abs/2602.20031",
+  "published": "2026-11-23T22:29:48+00:00",
+  "summary": "",
+  "score": 54
  }
 ]

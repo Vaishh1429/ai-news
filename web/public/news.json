@@ -1,6 +1,20 @@
 {
- "generated": "2026-11-23T23:06:29.311226+00:00",
+ "generated": "2026-11-24T07:40:59.364229+00:00",
  "stories": [
+  {
+   "id": "8f20e5199f558b31",
+   "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+   "summary": "",
+   "published": "2026-11-23T22:29:48+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://arxiv.org/abs/2602.20031",
+     "published": "2026-11-23T22:29:48+00:00"
+    }
+   ],
+   "score": 3.08
+  },
   {
    "id": "1cb78417896f91c9",
    "title": "White House brags that Trump was \u2018totally involved\u2019 in getting Jensen reinstated",
@@ -90,7 +104,21 @@
      "published": "2026-11-23T22:09:10+00:00"
     }
    ],
-   "score": 3.84
+   "score": 8.3
+  },
+  {
+   "id": "d17e7b701323446e",
+   "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+   "summary": "",
+   "published": "2026-11-23T21:30:41+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://openai.com/index/introducing-shirudo/",
+     "published": "2026-11-23T21:30:41+00:00"
+    }
+   ],
+   "score": 3.2800000000000002
   },
   {
    "id": "1d0c151fefed0dea",
@@ -202,7 +230,7 @@
      "published": "2026-11-23T17:19:25+00:00"
     }
    ],
-   "score": 2.7
+   "score": 3.0
   },
   {
    "id": "c5903c8754bbbfd5",
@@ -258,7 +286,7 @@
      "published": "2026-11-23T13:42:38+00:00"
     }
    ],
-   "score": 4.04
+   "score": 5.18
   },
   {
    "id": "106e5d1cffec6462",
@@ -286,7 +314,7 @@
      "published": "2026-11-23T10:06:43+00:00"
     }
    ],
-   "score": 22.16
+   "score": 24.08
   },
   {
    "id": "f8a4e02f42124693",
@@ -1554,7 +1582,7 @@
      "published": "2026-11-22T17:06:27+00:00"
     }
    ],
-   "score": 15.86
+   "score": 16.04
   },
   {
    "id": "3482c58c624c53d1",
@@ -1568,7 +1596,7 @@
      "published": "2026-11-22T15:42:40+00:00"
     }
    ],
-   "score": 5.46
+   "score": 5.48
   },
   {
    "id": "3c4f4993adcaa465",
@@ -1582,7 +1610,7 @@
      "published": "2026-11-22T13:56:58+00:00"
     }
    ],
-   "score": 9.120000000000001
+   "score": 9.14
   },
   {
    "id": "0f50037c76f25ff3",
@@ -1624,7 +1652,7 @@
      "published": "2026-11-22T08:57:34+00:00"
     }
    ],
-   "score": 22.5
+   "score": 22.6
   },
   {
    "id": "57d63e6098415d73",
@@ -2306,7 +2334,7 @@
      "published": "2026-11-20T23:18:32+00:00"
     }
    ],
-   "score": 16.82
+   "score": 16.9
   },
   {
    "id": "956f406f46c11332",
@@ -3286,7 +3314,7 @@
      "published": "2026-11-19T16:26:51+00:00"
     }
    ],
-   "score": 3.3600000000000003
+   "score": 3.4
   },
   {
    "id": "c5a788d7efb7df80",
@@ -4521,7 +4549,7 @@
      "published": "2026-11-19T01:37:45+00:00"
     }
    ],
-   "score": 5.02
+   "score": 5.04
   },
   {
    "id": "7d99e1aa81cc1163",
