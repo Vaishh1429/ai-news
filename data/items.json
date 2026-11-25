@@ -1374,7 +1374,7 @@
   "url": "https://github.com/FrigadeHQ/yogurt",
   "published": "2026-11-11T15:33:06+00:00",
   "summary": "",
-  "score": 307
+  "score": 308
  },
  {
   "id": "b3a9a700521b4bba",
@@ -3885,7 +3885,7 @@
   "url": "https://trynotched.com/find",
   "published": "2026-11-18T03:40:01+00:00",
   "summary": "",
-  "score": 235
+  "score": 236
  },
  {
   "id": "c0373bce587955a8",
@@ -6378,7 +6378,7 @@
   "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
   "published": "2026-11-20T21:18:46+00:00",
   "summary": "",
-  "score": 66
+  "score": 67
  },
  {
   "id": "956f406f46c11332",
@@ -6396,7 +6396,7 @@
   "url": "https://news.ycombinator.com/item?id=50583761",
   "published": "2026-11-20T23:18:32+00:00",
   "summary": "",
-  "score": 751
+  "score": 752
  },
  {
   "id": "6ec7e83ef4a3ec87",
@@ -6828,7 +6828,7 @@
   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
   "published": "2026-11-22T08:57:34+00:00",
   "summary": "",
-  "score": 1036
+  "score": 1038
  },
  {
   "id": "77bc9c5c53f0bd7e",
@@ -6873,7 +6873,7 @@
   "url": "https://openai.com/index/perplexity-and-intelligence/",
   "published": "2026-11-22T17:06:27+00:00",
   "summary": "",
-  "score": 715
+  "score": 718
  },
  {
   "id": "265c68ec3a4cc76b",
@@ -7665,7 +7665,7 @@
   "url": "https://z.ai/blog/glm-5.4",
   "published": "2026-11-23T10:06:43+00:00",
   "summary": "",
-  "score": 1159
+  "score": 1169
  },
  {
   "id": "106e5d1cffec6462",
@@ -7683,7 +7683,7 @@
   "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
   "published": "2026-11-23T13:42:38+00:00",
   "summary": "",
-  "score": 190
+  "score": 192
  },
  {
   "id": "de36b121eed67039",
@@ -7818,7 +7818,7 @@
   "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
   "published": "2026-11-23T22:09:10+00:00",
   "summary": "",
-  "score": 352
+  "score": 357
  },
  {
   "id": "8ab70d6f89cfc96b",
@@ -7854,7 +7854,7 @@
   "url": "https://arxiv.org/abs/2602.20031",
   "published": "2026-11-23T22:29:48+00:00",
   "summary": "",
-  "score": 71
+  "score": 72
  },
  {
   "id": "ec442b764e041cd2",
@@ -7872,6 +7872,15 @@
   "url": "https://openai.com/business/customer-stories/ifood",
   "published": "2026-11-24T00:00:00+00:00",
   "summary": "",
+  "score": 0
+ },
+ {
+  "id": "99b93f3e10984935",
+  "source": "OpenAI",
+  "title": "Clay helps sales teams win with Codex and ChatGPT",
+  "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+  "published": "2026-11-24T00:00:00+00:00",
+  "summary": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
   "score": 0
  },
  {
@@ -8610,7 +8619,16 @@
   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
   "published": "2026-11-24T12:40:15+00:00",
   "summary": "",
-  "score": 753
+  "score": 943
+ },
+ {
+  "id": "3c6728c1bfd19879",
+  "source": "OpenAI",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "published": "2026-11-24T13:00:00+00:00",
+  "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+  "score": 0
  },
  {
   "id": "bc9058b8abe3655e",
@@ -8619,7 +8637,7 @@
   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
   "published": "2026-11-24T13:23:47+00:00",
   "summary": "",
-  "score": 180
+  "score": 362
  },
  {
   "id": "0111dfba56a625e8",
@@ -8682,7 +8700,7 @@
   "url": "https://news.ycombinator.com/item?id=50630809",
   "published": "2026-11-24T16:45:44+00:00",
   "summary": "",
-  "score": 78
+  "score": 233
  },
  {
   "id": "4175c83018e7a81b",
@@ -8691,7 +8709,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
   "published": "2026-11-24T17:10:45+00:00",
   "summary": "",
-  "score": 170
+  "score": 204
  },
  {
   "id": "c7d2da5c582fe3f0",
@@ -8718,6 +8736,60 @@
   "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
   "published": "2026-11-24T18:55:12+00:00",
   "summary": "",
-  "score": 66
+  "score": 86
+ },
+ {
+  "id": "32af257829de9696",
+  "source": "The Verge AI",
+  "title": "Jensen Huang reportedly tells Nvidia staff it\u2019s \u2018not true\u2019 Trump got him rehired",
+  "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+  "published": "2026-11-24T20:02:03+00:00",
+  "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "6014a04f08fa1462",
+  "source": "Hacker News",
+  "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+  "url": "https://news.ycombinator.com/item?id=50634426",
+  "published": "2026-11-24T20:44:15+00:00",
+  "summary": "",
+  "score": 75
+ },
+ {
+  "id": "4530af1ba6c28876",
+  "source": "Hacker News",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+  "published": "2026-11-24T21:02:22+00:00",
+  "summary": "",
+  "score": 200
+ },
+ {
+  "id": "07b4e95a07685fe2",
+  "source": "Hacker News",
+  "title": "Working with AI",
+  "url": "https://www.anthropic.com/research/working-with-ai",
+  "published": "2026-11-24T21:07:38+00:00",
+  "summary": "",
+  "score": 64
+ },
+ {
+  "id": "a45934840b902489",
+  "source": "Hacker News",
+  "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+  "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
+  "published": "2026-11-24T22:27:19+00:00",
+  "summary": "",
+  "score": 35
+ },
+ {
+  "id": "5ee45fc63309ecc3",
+  "source": "Hacker News",
+  "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "published": "2026-11-25T01:19:26+00:00",
+  "summary": "",
+  "score": 241
  }
 ]

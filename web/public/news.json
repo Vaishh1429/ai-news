@@ -1,6 +1,105 @@
 {
- "generated": "2026-11-24T19:49:28.776055+00:00",
+ "generated": "2026-11-25T03:53:19.201594+00:00",
  "stories": [
+  {
+   "id": "5ee45fc63309ecc3",
+   "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+   "summary": "",
+   "published": "2026-11-25T01:19:26+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+     "published": "2026-11-25T01:19:26+00:00"
+    }
+   ],
+   "score": 6.82
+  },
+  {
+   "id": "a45934840b902489",
+   "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+   "summary": "",
+   "published": "2026-11-24T22:27:19+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
+     "published": "2026-11-24T22:27:19+00:00"
+    }
+   ],
+   "score": 2.7
+  },
+  {
+   "id": "07b4e95a07685fe2",
+   "title": "Working with AI",
+   "summary": "",
+   "published": "2026-11-24T21:07:38+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/research/working-with-ai",
+     "published": "2026-11-24T21:07:38+00:00"
+    }
+   ],
+   "score": 3.2800000000000002
+  },
+  {
+   "id": "3c6728c1bfd19879",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "published": "2026-11-24T21:02:22+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+     "published": "2026-11-24T13:00:00+00:00"
+    },
+    {
+     "name": "Hacker News",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+     "published": "2026-11-24T21:02:22+00:00"
+    }
+   ],
+   "score": 8.0
+  },
+  {
+   "id": "6014a04f08fa1462",
+   "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+   "summary": "",
+   "published": "2026-11-24T20:44:15+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50634426",
+     "published": "2026-11-24T20:44:15+00:00"
+    }
+   ],
+   "score": 3.5
+  },
+  {
+   "id": "1cb78417896f91c9",
+   "title": "White House brags that Trump was \u2018totally involved\u2019 in getting Jensen reinstated",
+   "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, [\u2026]",
+   "published": "2026-11-24T20:02:03+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+     "published": "2026-11-23T16:30:11+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+     "published": "2026-11-23T22:25:12+00:00"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+     "published": "2026-11-24T20:02:03+00:00"
+    }
+   ],
+   "score": 6.0
+  },
   {
    "id": "d2963dce727becb7",
    "title": "OpenAI reveals they solved VP \u2260 VNP before Anthropic",
@@ -13,7 +112,7 @@
      "published": "2026-11-24T18:55:12+00:00"
     }
    ],
-   "score": 3.3200000000000003
+   "score": 3.7199999999999998
   },
   {
    "id": "3e9a37054bc90542",
@@ -55,7 +154,7 @@
      "published": "2026-11-24T17:10:45+00:00"
     }
    ],
-   "score": 5.4
+   "score": 6.08
   },
   {
    "id": "bbef1e94d167ddf6",
@@ -69,7 +168,7 @@
      "published": "2026-11-24T16:45:44+00:00"
     }
    ],
-   "score": 3.56
+   "score": 6.66
   },
   {
    "id": "16565a3f5dc091b0",
@@ -158,7 +257,7 @@
      "published": "2026-11-24T14:41:15+00:00"
     }
    ],
-   "score": 10.16
+   "score": 13.8
   },
   {
    "id": "5e57d423bc79ab67",
@@ -172,7 +271,7 @@
      "published": "2026-11-24T12:40:15+00:00"
     }
    ],
-   "score": 17.060000000000002
+   "score": 20.86
   },
   {
    "id": "f3aa9260f1094b37",
@@ -1389,6 +1488,20 @@
    "score": 2.0
   },
   {
+   "id": "99b93f3e10984935",
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "summary": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "published": "2026-11-24T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+     "published": "2026-11-24T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
    "id": "8f20e5199f558b31",
    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
    "summary": "",
@@ -1400,26 +1513,7 @@
      "published": "2026-11-23T22:29:48+00:00"
     }
    ],
-   "score": 3.42
-  },
-  {
-   "id": "1cb78417896f91c9",
-   "title": "White House brags that Trump was \u2018totally involved\u2019 in getting Jensen reinstated",
-   "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, [\u2026]",
-   "published": "2026-11-23T22:25:12+00:00",
-   "sources": [
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-     "published": "2026-11-23T16:30:11+00:00"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-     "published": "2026-11-23T22:25:12+00:00"
-    }
-   ],
-   "score": 4.0
+   "score": 3.44
   },
   {
    "id": "627c324df106de1b",
@@ -1491,7 +1585,7 @@
      "published": "2026-11-23T22:09:10+00:00"
     }
    ],
-   "score": 9.04
+   "score": 9.14
   },
   {
    "id": "d17e7b701323446e",
@@ -1673,7 +1767,7 @@
      "published": "2026-11-23T13:42:38+00:00"
     }
    ],
-   "score": 5.8
+   "score": 5.84
   },
   {
    "id": "106e5d1cffec6462",
@@ -1701,7 +1795,7 @@
      "published": "2026-11-23T10:06:43+00:00"
     }
    ],
-   "score": 25.18
+   "score": 25.38
   },
   {
    "id": "f8a4e02f42124693",
@@ -2955,7 +3049,7 @@
      "published": "2026-11-22T17:06:27+00:00"
     }
    ],
-   "score": 16.3
+   "score": 16.36
   },
   {
    "id": "3482c58c624c53d1",
@@ -3025,7 +3119,7 @@
      "published": "2026-11-22T08:57:34+00:00"
     }
    ],
-   "score": 22.72
+   "score": 22.76
   },
   {
    "id": "57d63e6098415d73",
@@ -3707,7 +3801,7 @@
      "published": "2026-11-20T23:18:32+00:00"
     }
    ],
-   "score": 17.02
+   "score": 17.04
   },
   {
    "id": "956f406f46c11332",
@@ -3735,7 +3829,7 @@
      "published": "2026-11-20T21:18:46+00:00"
     }
    ],
-   "score": 3.3200000000000003
+   "score": 3.34
   },
   {
    "id": "3ea993db7e3c60d1",
@@ -7405,7 +7499,7 @@
      "published": "2026-11-18T03:40:01+00:00"
     }
    ],
-   "score": 6.7
+   "score": 6.72
   },
   {
    "id": "d7d27f4b54e77533",
@@ -10895,7 +10989,7 @@
      "published": "2026-11-11T15:33:06+00:00"
     }
    ],
-   "score": 8.14
+   "score": 8.16
   },
   {
    "id": "5b916f1bea878c9c",
