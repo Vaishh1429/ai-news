@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-26T11:43:52.138008+00:00",
+ "generated": "2026-11-26T20:43:40.568088+00:00",
  "stories": [
+  {
+   "id": "1d45997e4997625f",
+   "title": "AMD Specific Patches for Llama.cpp",
+   "summary": "",
+   "published": "2026-11-26T17:11:29+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://devnull.land/amd-specific-llama-cpp",
+     "published": "2026-11-26T17:11:29+00:00"
+    }
+   ],
+   "score": 5.54
+  },
+  {
+   "id": "4fdce5f029afb0e4",
+   "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+   "summary": "",
+   "published": "2026-11-26T16:55:15+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+     "published": "2026-11-26T16:55:15+00:00"
+    }
+   ],
+   "score": 3.08
+  },
   {
    "id": "02a088434703556c",
    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
@@ -28,6 +56,20 @@
     }
    ],
    "score": 2.0
+  },
+  {
+   "id": "9623bbd1d42a7aaa",
+   "title": "OpenAI may be in cost control mode",
+   "summary": "",
+   "published": "2026-11-26T07:33:12+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+     "published": "2026-11-26T07:33:12+00:00"
+    }
+   ],
+   "score": 3.56
   },
   {
    "id": "d3aa48daa62df585",
@@ -1213,7 +1255,21 @@
      "published": "2026-11-26T03:36:58+00:00"
     }
    ],
-   "score": 7.86
+   "score": 10.84
+  },
+  {
+   "id": "c01600d4160315a4",
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "summary": "",
+   "published": "2026-11-26T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/training-swarms",
+     "published": "2026-11-26T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
   },
   {
    "id": "a1356d98cece1a51",
@@ -1227,7 +1283,7 @@
      "published": "2026-11-25T22:15:34+00:00"
     }
    ],
-   "score": 5.32
+   "score": 6.5
   },
   {
    "id": "ceecf9e348f1c1f1",
@@ -1255,7 +1311,7 @@
      "published": "2026-11-25T21:48:10+00:00"
     }
    ],
-   "score": 11.38
+   "score": 12.7
   },
   {
    "id": "37b5c9ba93266751",
@@ -1297,7 +1353,7 @@
      "published": "2026-11-25T17:34:34+00:00"
     }
    ],
-   "score": 5.24
+   "score": 5.54
   },
   {
    "id": "44fe677fd46c23c4",
@@ -1330,7 +1386,7 @@
      "published": "2026-11-25T15:20:15+00:00"
     }
    ],
-   "score": 4.38
+   "score": 4.5
   },
   {
    "id": "11947ff3967edc02",
@@ -1344,7 +1400,21 @@
      "published": "2026-11-25T15:08:44+00:00"
     }
    ],
-   "score": 11.84
+   "score": 12.08
+  },
+  {
+   "id": "38abfa10d7c5c55e",
+   "title": "Limiting Charging to 80 Percent",
+   "summary": "",
+   "published": "2026-11-25T15:00:05+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.jefftk.com/p/limiting-charging-to-80",
+     "published": "2026-11-25T15:00:05+00:00"
+    }
+   ],
+   "score": 2.7
   },
   {
    "id": "e1845ee0b548d25f",
@@ -2652,7 +2722,7 @@
      "published": "2026-11-25T03:04:37+00:00"
     }
    ],
-   "score": 11.1
+   "score": 11.24
   },
   {
    "id": "26adec5d46772a8a",
@@ -2666,7 +2736,7 @@
      "published": "2026-11-25T03:01:36+00:00"
     }
    ],
-   "score": 4.0600000000000005
+   "score": 4.08
   },
   {
    "id": "5ee45fc63309ecc3",
@@ -2680,7 +2750,7 @@
      "published": "2026-11-25T01:19:26+00:00"
     }
    ],
-   "score": 22.88
+   "score": 23.18
   },
   {
    "id": "d8d6777ecf090783",
@@ -2741,7 +2811,7 @@
      "published": "2026-11-24T21:02:22+00:00"
     }
    ],
-   "score": 11.08
+   "score": 11.120000000000001
   },
   {
    "id": "6014a04f08fa1462",
@@ -2793,7 +2863,7 @@
      "published": "2026-11-24T19:51:01+00:00"
     }
    ],
-   "score": 2.7199999999999998
+   "score": 2.74
   },
   {
    "id": "d2963dce727becb7",
@@ -2849,7 +2919,7 @@
      "published": "2026-11-24T17:10:45+00:00"
     }
    ],
-   "score": 6.46
+   "score": 6.48
   },
   {
    "id": "bbef1e94d167ddf6",
@@ -2863,7 +2933,7 @@
      "published": "2026-11-24T16:45:44+00:00"
     }
    ],
-   "score": 11.04
+   "score": 11.22
   },
   {
    "id": "16565a3f5dc091b0",
@@ -2952,7 +3022,7 @@
      "published": "2026-11-24T14:41:15+00:00"
     }
    ],
-   "score": 15.16
+   "score": 15.26
   },
   {
    "id": "7b04a568c5adccd6",
@@ -2985,7 +3055,7 @@
      "published": "2026-11-24T12:40:15+00:00"
     }
    ],
-   "score": 22.34
+   "score": 22.5
   },
   {
    "id": "f3aa9260f1094b37",
@@ -3013,7 +3083,7 @@
      "published": "2026-11-24T06:22:36+00:00"
     }
    ],
-   "score": 7.14
+   "score": 7.38
   },
   {
    "id": "31fc06bc5d028248",
@@ -4273,7 +4343,7 @@
      "published": "2026-11-23T20:50:20+00:00"
     }
    ],
-   "score": 2.92
+   "score": 2.98
   },
   {
    "id": "49ef9cf5084cd81b",
@@ -4427,7 +4497,7 @@
      "published": "2026-11-23T10:06:43+00:00"
     }
    ],
-   "score": 25.58
+   "score": 25.6
   },
   {
    "id": "f8a4e02f42124693",
@@ -5609,7 +5679,7 @@
      "published": "2026-11-22T17:06:27+00:00"
     }
    ],
-   "score": 16.4
+   "score": 16.42
   },
   {
    "id": "5487100b1f610d90",
@@ -5623,7 +5693,7 @@
      "published": "2026-11-22T16:44:48+00:00"
     }
    ],
-   "score": 9.9
+   "score": 11.18
   },
   {
    "id": "3482c58c624c53d1",
@@ -5651,7 +5721,7 @@
      "published": "2026-11-22T13:56:58+00:00"
     }
    ],
-   "score": 9.219999999999999
+   "score": 9.24
   },
   {
    "id": "0f50037c76f25ff3",
@@ -5693,7 +5763,7 @@
      "published": "2026-11-22T08:57:34+00:00"
     }
    ],
-   "score": 22.84
+   "score": 22.86
   },
   {
    "id": "57d63e6098415d73",
@@ -15278,34 +15348,6 @@
      "name": "Hugging Face",
      "url": "https://huggingface.co/blog/anydecisionmodel",
      "published": "2026-10-29T00:00:00+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
-   "id": "db98bf59a6c7e420",
-   "title": "Build specialized multimodal models with LFM3",
-   "summary": "",
-   "published": "2026-10-27T17:16:52+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face",
-     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-     "published": "2026-10-27T17:16:52+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
-   "id": "d17d13a0006a776d",
-   "title": "Genie 4: A new generation of world simulation",
-   "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-   "published": "2026-10-27T16:01:38+00:00",
-   "sources": [
-    {
-     "name": "Google DeepMind",
-     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "published": "2026-10-27T16:01:38+00:00"
     }
    ],
    "score": 2.0

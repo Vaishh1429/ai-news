@@ -1,23 +1,5 @@
 [
  {
-  "id": "d17d13a0006a776d",
-  "source": "Google DeepMind",
-  "title": "Genie 4: A new generation of world simulation",
-  "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-  "published": "2026-10-27T16:01:38+00:00",
-  "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-  "score": 0
- },
- {
-  "id": "db98bf59a6c7e420",
-  "source": "Hugging Face",
-  "title": "Build specialized multimodal models with LFM3",
-  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-  "published": "2026-10-27T17:16:52+00:00",
-  "summary": "",
-  "score": 0
- },
- {
   "id": "b0da25ea6c1a2967",
   "source": "Google DeepMind",
   "title": "Gemini 4 Carbon: Our next frontier model",
@@ -6810,7 +6792,7 @@
   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
   "published": "2026-11-22T08:57:34+00:00",
   "summary": "",
-  "score": 1042
+  "score": 1043
  },
  {
   "id": "77bc9c5c53f0bd7e",
@@ -6837,7 +6819,7 @@
   "url": "https://github.com/gulivan/worker755",
   "published": "2026-11-22T13:56:58+00:00",
   "summary": "",
-  "score": 361
+  "score": 362
  },
  {
   "id": "3482c58c624c53d1",
@@ -6855,7 +6837,7 @@
   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
   "published": "2026-11-22T16:44:48+00:00",
   "summary": "",
-  "score": 395
+  "score": 459
  },
  {
   "id": "b0ef78d25e983c42",
@@ -6864,7 +6846,7 @@
   "url": "https://openai.com/index/perplexity-and-intelligence/",
   "published": "2026-11-22T17:06:27+00:00",
   "summary": "",
-  "score": 720
+  "score": 721
  },
  {
   "id": "265c68ec3a4cc76b",
@@ -7656,7 +7638,7 @@
   "url": "https://z.ai/blog/glm-5.4",
   "published": "2026-11-23T10:06:43+00:00",
   "summary": "",
-  "score": 1179
+  "score": 1180
  },
  {
   "id": "106e5d1cffec6462",
@@ -7782,7 +7764,7 @@
   "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
   "published": "2026-11-23T20:50:20+00:00",
   "summary": "",
-  "score": 46
+  "score": 49
  },
  {
   "id": "0cd17937bdc8feaa",
@@ -8610,7 +8592,7 @@
   "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
   "published": "2026-11-24T06:22:36+00:00",
   "summary": "",
-  "score": 257
+  "score": 269
  },
  {
   "id": "f3aa9260f1094b37",
@@ -8628,7 +8610,7 @@
   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
   "published": "2026-11-24T12:40:15+00:00",
   "summary": "",
-  "score": 1017
+  "score": 1025
  },
  {
   "id": "3c6728c1bfd19879",
@@ -8655,7 +8637,7 @@
   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
   "published": "2026-11-24T13:23:47+00:00",
   "summary": "",
-  "score": 428
+  "score": 433
  },
  {
   "id": "0111dfba56a625e8",
@@ -8718,7 +8700,7 @@
   "url": "https://news.ycombinator.com/item?id=50630809",
   "published": "2026-11-24T16:45:44+00:00",
   "summary": "",
-  "score": 452
+  "score": 461
  },
  {
   "id": "4175c83018e7a81b",
@@ -8727,7 +8709,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
   "published": "2026-11-24T17:10:45+00:00",
   "summary": "",
-  "score": 223
+  "score": 224
  },
  {
   "id": "c7d2da5c582fe3f0",
@@ -8763,7 +8745,7 @@
   "url": "https://news.ycombinator.com/item?id=50633601",
   "published": "2026-11-24T19:51:01+00:00",
   "summary": "",
-  "score": 36
+  "score": 37
  },
  {
   "id": "32af257829de9696",
@@ -8790,7 +8772,7 @@
   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
   "published": "2026-11-24T21:02:22+00:00",
   "summary": "",
-  "score": 354
+  "score": 356
  },
  {
   "id": "07b4e95a07685fe2",
@@ -8826,7 +8808,7 @@
   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
   "published": "2026-11-25T01:19:26+00:00",
   "summary": "",
-  "score": 1044
+  "score": 1059
  },
  {
   "id": "26adec5d46772a8a",
@@ -8835,7 +8817,7 @@
   "url": "https://www.proofatlas.ai/open-problems/",
   "published": "2026-11-25T03:01:36+00:00",
   "summary": "",
-  "score": 103
+  "score": 104
  },
  {
   "id": "777816c50f03e837",
@@ -8844,7 +8826,7 @@
   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
   "published": "2026-11-25T03:04:37+00:00",
   "summary": "",
-  "score": 455
+  "score": 462
  },
  {
   "id": "ebaf1c30665d630c",
@@ -9612,13 +9594,22 @@
   "score": 0
  },
  {
+  "id": "38abfa10d7c5c55e",
+  "source": "Hacker News",
+  "title": "Limiting Charging to 80 Percent",
+  "url": "https://www.jefftk.com/p/limiting-charging-to-80",
+  "published": "2026-11-25T15:00:05+00:00",
+  "summary": "",
+  "score": 35
+ },
+ {
   "id": "11947ff3967edc02",
   "source": "Hacker News",
   "title": "Rumors swirling that labs might have cracked Factoring in P",
   "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
   "published": "2026-11-25T15:08:44+00:00",
   "summary": "",
-  "score": 492
+  "score": 504
  },
  {
   "id": "6b48cdab7a5fdaf1",
@@ -9627,7 +9618,7 @@
   "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
   "published": "2026-11-25T15:20:15+00:00",
   "summary": "",
-  "score": 119
+  "score": 125
  },
  {
   "id": "6b1c4ab3d056003c",
@@ -9645,7 +9636,7 @@
   "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
   "published": "2026-11-25T17:34:34+00:00",
   "summary": "",
-  "score": 162
+  "score": 177
  },
  {
   "id": "6359c2ce09004373",
@@ -9672,7 +9663,7 @@
   "url": "https://github.com/lsernau/grh-lean",
   "published": "2026-11-25T21:48:10+00:00",
   "summary": "",
-  "score": 469
+  "score": 535
  },
  {
   "id": "ceecf9e348f1c1f1",
@@ -9690,7 +9681,16 @@
   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
   "published": "2026-11-25T22:15:34+00:00",
   "summary": "",
-  "score": 166
+  "score": 225
+ },
+ {
+  "id": "c01600d4160315a4",
+  "source": "Hugging Face",
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "url": "https://huggingface.co/blog/training-swarms",
+  "published": "2026-11-26T00:00:00+00:00",
+  "summary": "",
+  "score": 0
  },
  {
   "id": "244a3e8cb4f170fa",
@@ -9699,7 +9699,7 @@
   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
   "published": "2026-11-26T03:36:58+00:00",
   "summary": "",
-  "score": 293
+  "score": 442
  },
  {
   "id": "4ab332767a702d50",
@@ -10431,6 +10431,15 @@
   "score": 0
  },
  {
+  "id": "9623bbd1d42a7aaa",
+  "source": "Hacker News",
+  "title": "OpenAI may be in cost control mode",
+  "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+  "published": "2026-11-26T07:33:12+00:00",
+  "summary": "",
+  "score": 78
+ },
+ {
   "id": "c0f2de19f05669ce",
   "source": "The Verge AI",
   "title": "42 state AGs are trying to stop Character.AI from selling users\u2019 chats",
@@ -10447,5 +10456,23 @@
   "published": "2026-11-26T11:37:17+00:00",
   "summary": "",
   "score": 0
+ },
+ {
+  "id": "4fdce5f029afb0e4",
+  "source": "Hacker News",
+  "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+  "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+  "published": "2026-11-26T16:55:15+00:00",
+  "summary": "",
+  "score": 54
+ },
+ {
+  "id": "1d45997e4997625f",
+  "source": "Hacker News",
+  "title": "AMD Specific Patches for Llama.cpp",
+  "url": "https://devnull.land/amd-specific-llama-cpp",
+  "published": "2026-11-26T17:11:29+00:00",
+  "summary": "",
+  "score": 177
  }
 ]
