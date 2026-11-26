@@ -1,6 +1,90 @@
 {
- "generated": "2026-11-25T16:30:54.225858+00:00",
+ "generated": "2026-11-26T01:21:23.392884+00:00",
  "stories": [
+  {
+   "id": "a1356d98cece1a51",
+   "title": "Bare Metal Qwen",
+   "summary": "",
+   "published": "2026-11-25T22:15:34+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+     "published": "2026-11-25T22:15:34+00:00"
+    }
+   ],
+   "score": 3.12
+  },
+  {
+   "id": "ceecf9e348f1c1f1",
+   "title": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
+   "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [\u2026]",
+   "published": "2026-11-25T21:51:26+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+     "published": "2026-11-25T21:51:26+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "f63f4cad14680799",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "summary": "",
+   "published": "2026-11-25T21:48:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/lsernau/grh-lean",
+     "published": "2026-11-25T21:48:10+00:00"
+    }
+   ],
+   "score": 6.98
+  },
+  {
+   "id": "37b5c9ba93266751",
+   "title": "Where scientists draw the line on AI agents",
+   "summary": "",
+   "published": "2026-11-25T18:52:55+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+     "published": "2026-11-25T18:52:55+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "6359c2ce09004373",
+   "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+   "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [\u2026]",
+   "published": "2026-11-25T17:44:51+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+     "published": "2026-11-25T17:44:51+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "3e11caea3c279159",
+   "title": "The polynomial Hirsch conjecture is false [pdf]",
+   "summary": "",
+   "published": "2026-11-25T17:34:34+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+     "published": "2026-11-25T17:34:34+00:00"
+    }
+   ],
+   "score": 4.38
+  },
   {
    "id": "44fe677fd46c23c4",
    "title": "Nothing\u2019s upcoming Ear Note is a pair of earbuds with AI transcription",
@@ -32,7 +116,7 @@
      "published": "2026-11-25T15:20:15+00:00"
     }
    ],
-   "score": 2.66
+   "score": 4.16
   },
   {
    "id": "11947ff3967edc02",
@@ -46,7 +130,7 @@
      "published": "2026-11-25T15:08:44+00:00"
     }
    ],
-   "score": 4.08
+   "score": 11.22
   },
   {
    "id": "e1845ee0b548d25f",
@@ -1354,7 +1438,7 @@
      "published": "2026-11-25T03:28:06+00:00"
     }
    ],
-   "score": 4.4
+   "score": 4.58
   },
   {
    "id": "777816c50f03e837",
@@ -1368,7 +1452,7 @@
      "published": "2026-11-25T03:04:37+00:00"
     }
    ],
-   "score": 9.14
+   "score": 10.76
   },
   {
    "id": "26adec5d46772a8a",
@@ -1382,11 +1466,11 @@
      "published": "2026-11-25T03:01:36+00:00"
     }
    ],
-   "score": 3.7800000000000002
+   "score": 4.02
   },
   {
    "id": "5ee45fc63309ecc3",
-   "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+   "title": "The matrix multiplication exponent is nine fourths [pdf]",
    "summary": "",
    "published": "2026-11-25T01:19:26+00:00",
    "sources": [
@@ -1396,7 +1480,21 @@
      "published": "2026-11-25T01:19:26+00:00"
     }
    ],
-   "score": 19.24
+   "score": 22.46
+  },
+  {
+   "id": "d8d6777ecf090783",
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "summary": "",
+   "published": "2026-11-25T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+     "published": "2026-11-25T00:00:00+00:00"
+    }
+   ],
+   "score": 2.0
   },
   {
    "id": "a45934840b902489",
@@ -1410,7 +1508,7 @@
      "published": "2026-11-24T22:27:19+00:00"
     }
    ],
-   "score": 3.0
+   "score": 3.04
   },
   {
    "id": "07b4e95a07685fe2",
@@ -1424,7 +1522,7 @@
      "published": "2026-11-24T21:07:38+00:00"
     }
    ],
-   "score": 3.58
+   "score": 3.76
   },
   {
    "id": "3c6728c1bfd19879",
@@ -1443,7 +1541,7 @@
      "published": "2026-11-24T21:02:22+00:00"
     }
    ],
-   "score": 10.52
+   "score": 11.0
   },
   {
    "id": "6014a04f08fa1462",
@@ -1457,7 +1555,7 @@
      "published": "2026-11-24T20:44:15+00:00"
     }
    ],
-   "score": 3.96
+   "score": 4.0600000000000005
   },
   {
    "id": "1cb78417896f91c9",
@@ -1484,6 +1582,20 @@
    "score": 6.0
   },
   {
+   "id": "077b9a7b9f33a990",
+   "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+   "summary": "",
+   "published": "2026-11-24T19:51:01+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50633601",
+     "published": "2026-11-24T19:51:01+00:00"
+    }
+   ],
+   "score": 2.66
+  },
+  {
    "id": "d2963dce727becb7",
    "title": "OpenAI reveals they solved VP \u2260 VNP before Anthropic",
    "summary": "",
@@ -1495,7 +1607,7 @@
      "published": "2026-11-24T18:55:12+00:00"
     }
    ],
-   "score": 3.92
+   "score": 3.98
   },
   {
    "id": "3e9a37054bc90542",
@@ -1537,7 +1649,7 @@
      "published": "2026-11-24T17:10:45+00:00"
     }
    ],
-   "score": 6.44
+   "score": 6.46
   },
   {
    "id": "bbef1e94d167ddf6",
@@ -1551,7 +1663,7 @@
      "published": "2026-11-24T16:45:44+00:00"
     }
    ],
-   "score": 10.16
+   "score": 10.78
   },
   {
    "id": "16565a3f5dc091b0",
@@ -1640,7 +1752,26 @@
      "published": "2026-11-24T14:41:15+00:00"
     }
    ],
-   "score": 14.86
+   "score": 15.04
+  },
+  {
+   "id": "7b04a568c5adccd6",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "published": "2026-11-24T13:07:53+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+     "published": "2026-11-03T17:01:49+00:00"
+    },
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+     "published": "2026-11-24T13:07:53+00:00"
+    }
+   ],
+   "score": 4.0
   },
   {
    "id": "5e57d423bc79ab67",
@@ -1654,7 +1785,7 @@
      "published": "2026-11-24T12:40:15+00:00"
     }
    ],
-   "score": 21.8
+   "score": 22.0
   },
   {
    "id": "f3aa9260f1094b37",
@@ -1669,6 +1800,20 @@
     }
    ],
    "score": 2.0
+  },
+  {
+   "id": "8ee50572f79b5048",
+   "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+   "summary": "",
+   "published": "2026-11-24T06:22:36+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+     "published": "2026-11-24T06:22:36+00:00"
+    }
+   ],
+   "score": 6.42
   },
   {
    "id": "31fc06bc5d028248",
@@ -2915,7 +3060,7 @@
      "published": "2026-11-23T22:09:10+00:00"
     }
    ],
-   "score": 9.3
+   "score": 9.34
   },
   {
    "id": "d17e7b701323446e",
@@ -2929,7 +3074,7 @@
      "published": "2026-11-23T21:30:41+00:00"
     }
    ],
-   "score": 3.7
+   "score": 3.7199999999999998
   },
   {
    "id": "1d0c151fefed0dea",
@@ -2958,6 +3103,20 @@
     }
    ],
    "score": 2.0
+  },
+  {
+   "id": "50fa0fd883a8a5a6",
+   "title": "The undocumented 249-file limit for Googlebot rendering",
+   "summary": "",
+   "published": "2026-11-23T20:50:20+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
+     "published": "2026-11-23T20:50:20+00:00"
+    }
+   ],
+   "score": 2.7
   },
   {
    "id": "49ef9cf5084cd81b",
@@ -3111,7 +3270,7 @@
      "published": "2026-11-23T10:06:43+00:00"
     }
    ],
-   "score": 25.5
+   "score": 25.58
   },
   {
    "id": "f8a4e02f42124693",
@@ -4293,7 +4452,21 @@
      "published": "2026-11-22T17:06:27+00:00"
     }
    ],
-   "score": 16.380000000000003
+   "score": 16.4
+  },
+  {
+   "id": "5487100b1f610d90",
+   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "summary": "",
+   "published": "2026-11-22T16:44:48+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+     "published": "2026-11-22T16:44:48+00:00"
+    }
+   ],
+   "score": 6.72
   },
   {
    "id": "3482c58c624c53d1",
@@ -13615,20 +13788,6 @@
     }
    ],
    "score": 6.76
-  },
-  {
-   "id": "7b04a568c5adccd6",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-   "published": "2026-11-03T17:01:49+00:00",
-   "sources": [
-    {
-     "name": "Google DeepMind",
-     "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-     "published": "2026-11-03T17:01:49+00:00"
-    }
-   ],
-   "score": 2.0
   },
   {
    "id": "bc4177032a04e266",

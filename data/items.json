@@ -6849,13 +6849,22 @@
   "score": 175
  },
  {
+  "id": "5487100b1f610d90",
+  "source": "Hacker News",
+  "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+  "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+  "published": "2026-11-22T16:44:48+00:00",
+  "summary": "",
+  "score": 236
+ },
+ {
   "id": "b0ef78d25e983c42",
   "source": "Hacker News",
   "title": "Perplexity and Intelligence",
   "url": "https://openai.com/index/perplexity-and-intelligence/",
   "published": "2026-11-22T17:06:27+00:00",
   "summary": "",
-  "score": 719
+  "score": 720
  },
  {
   "id": "265c68ec3a4cc76b",
@@ -7647,7 +7656,7 @@
   "url": "https://z.ai/blog/glm-5.4",
   "published": "2026-11-23T10:06:43+00:00",
   "summary": "",
-  "score": 1175
+  "score": 1179
  },
  {
   "id": "106e5d1cffec6462",
@@ -7767,6 +7776,15 @@
   "score": 0
  },
  {
+  "id": "50fa0fd883a8a5a6",
+  "source": "Hacker News",
+  "title": "The undocumented 249-file limit for Googlebot rendering",
+  "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
+  "published": "2026-11-23T20:50:20+00:00",
+  "summary": "",
+  "score": 35
+ },
+ {
   "id": "0cd17937bdc8feaa",
   "source": "The Verge AI",
   "title": "AI data centers throw another wrench into chaotic UN climate talks",
@@ -7791,7 +7809,7 @@
   "url": "https://openai.com/index/introducing-shirudo/",
   "published": "2026-11-23T21:30:41+00:00",
   "summary": "",
-  "score": 85
+  "score": 86
  },
  {
   "id": "7e689a2455fd0b6d",
@@ -7800,7 +7818,7 @@
   "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
   "published": "2026-11-23T22:09:10+00:00",
   "summary": "",
-  "score": 365
+  "score": 367
  },
  {
   "id": "8ab70d6f89cfc96b",
@@ -8586,6 +8604,15 @@
   "score": 0
  },
  {
+  "id": "8ee50572f79b5048",
+  "source": "Hacker News",
+  "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+  "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+  "published": "2026-11-24T06:22:36+00:00",
+  "summary": "",
+  "score": 221
+ },
+ {
   "id": "f3aa9260f1094b37",
   "source": "OpenAI",
   "title": "Searching for distant planets with Astra",
@@ -8601,7 +8628,7 @@
   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
   "published": "2026-11-24T12:40:15+00:00",
   "summary": "",
-  "score": 990
+  "score": 1000
  },
  {
   "id": "3c6728c1bfd19879",
@@ -8613,13 +8640,22 @@
   "score": 0
  },
  {
+  "id": "dd94f7af62fb3fa3",
+  "source": "Google DeepMind",
+  "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+  "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+  "published": "2026-11-24T13:07:53+00:00",
+  "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+  "score": 0
+ },
+ {
   "id": "bc9058b8abe3655e",
   "source": "Hacker News",
   "title": "Anthropic breaks below $83 IPO price",
   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
   "published": "2026-11-24T13:23:47+00:00",
   "summary": "",
-  "score": 414
+  "score": 422
  },
  {
   "id": "0111dfba56a625e8",
@@ -8628,7 +8664,7 @@
   "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
   "published": "2026-11-24T14:41:15+00:00",
   "summary": "",
-  "score": 129
+  "score": 130
  },
  {
   "id": "22d7270e7a589d95",
@@ -8682,7 +8718,7 @@
   "url": "https://news.ycombinator.com/item?id=50630809",
   "published": "2026-11-24T16:45:44+00:00",
   "summary": "",
-  "score": 408
+  "score": 439
  },
  {
   "id": "4175c83018e7a81b",
@@ -8691,7 +8727,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
   "published": "2026-11-24T17:10:45+00:00",
   "summary": "",
-  "score": 222
+  "score": 223
  },
  {
   "id": "c7d2da5c582fe3f0",
@@ -8718,7 +8754,16 @@
   "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
   "published": "2026-11-24T18:55:12+00:00",
   "summary": "",
-  "score": 96
+  "score": 99
+ },
+ {
+  "id": "077b9a7b9f33a990",
+  "source": "Hacker News",
+  "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+  "url": "https://news.ycombinator.com/item?id=50633601",
+  "published": "2026-11-24T19:51:01+00:00",
+  "summary": "",
+  "score": 33
  },
  {
   "id": "32af257829de9696",
@@ -8736,7 +8781,7 @@
   "url": "https://news.ycombinator.com/item?id=50634426",
   "published": "2026-11-24T20:44:15+00:00",
   "summary": "",
-  "score": 98
+  "score": 103
  },
  {
   "id": "4530af1ba6c28876",
@@ -8745,7 +8790,7 @@
   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
   "published": "2026-11-24T21:02:22+00:00",
   "summary": "",
-  "score": 326
+  "score": 350
  },
  {
   "id": "07b4e95a07685fe2",
@@ -8754,7 +8799,7 @@
   "url": "https://www.anthropic.com/research/working-with-ai",
   "published": "2026-11-24T21:07:38+00:00",
   "summary": "",
-  "score": 79
+  "score": 88
  },
  {
   "id": "a45934840b902489",
@@ -8763,16 +8808,25 @@
   "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
   "published": "2026-11-24T22:27:19+00:00",
   "summary": "",
-  "score": 50
+  "score": 52
+ },
+ {
+  "id": "d8d6777ecf090783",
+  "source": "Hugging Face",
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "published": "2026-11-25T00:00:00+00:00",
+  "summary": "",
+  "score": 0
  },
  {
   "id": "5ee45fc63309ecc3",
   "source": "Hacker News",
-  "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+  "title": "The matrix multiplication exponent is nine fourths [pdf]",
   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
   "published": "2026-11-25T01:19:26+00:00",
   "summary": "",
-  "score": 862
+  "score": 1023
  },
  {
   "id": "26adec5d46772a8a",
@@ -8781,7 +8835,7 @@
   "url": "https://www.proofatlas.ai/open-problems/",
   "published": "2026-11-25T03:01:36+00:00",
   "summary": "",
-  "score": 89
+  "score": 101
  },
  {
   "id": "777816c50f03e837",
@@ -8790,7 +8844,7 @@
   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
   "published": "2026-11-25T03:04:37+00:00",
   "summary": "",
-  "score": 357
+  "score": 438
  },
  {
   "id": "ebaf1c30665d630c",
@@ -8799,7 +8853,7 @@
   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
   "published": "2026-11-25T03:28:06+00:00",
   "summary": "",
-  "score": 120
+  "score": 129
  },
  {
   "id": "2411d42d2a7c7e05",
@@ -9564,7 +9618,7 @@
   "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
   "published": "2026-11-25T15:08:44+00:00",
   "summary": "",
-  "score": 104
+  "score": 461
  },
  {
   "id": "6b48cdab7a5fdaf1",
@@ -9573,7 +9627,7 @@
   "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
   "published": "2026-11-25T15:20:15+00:00",
   "summary": "",
-  "score": 33
+  "score": 108
  },
  {
   "id": "6b1c4ab3d056003c",
@@ -9583,5 +9637,59 @@
   "published": "2026-11-25T16:00:59+00:00",
   "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
   "score": 0
+ },
+ {
+  "id": "3e11caea3c279159",
+  "source": "Hacker News",
+  "title": "The polynomial Hirsch conjecture is false [pdf]",
+  "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+  "published": "2026-11-25T17:34:34+00:00",
+  "summary": "",
+  "score": 119
+ },
+ {
+  "id": "6359c2ce09004373",
+  "source": "The Verge AI",
+  "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+  "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "published": "2026-11-25T17:44:51+00:00",
+  "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "37b5c9ba93266751",
+  "source": "Hugging Face",
+  "title": "Where scientists draw the line on AI agents",
+  "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "published": "2026-11-25T18:52:55+00:00",
+  "summary": "",
+  "score": 0
+ },
+ {
+  "id": "f63f4cad14680799",
+  "source": "Hacker News",
+  "title": "Much shorter version of GRH Lean verification from Anthropic",
+  "url": "https://github.com/lsernau/grh-lean",
+  "published": "2026-11-25T21:48:10+00:00",
+  "summary": "",
+  "score": 249
+ },
+ {
+  "id": "ceecf9e348f1c1f1",
+  "source": "The Verge AI",
+  "title": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
+  "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+  "published": "2026-11-25T21:51:26+00:00",
+  "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [\u2026]",
+  "score": 0
+ },
+ {
+  "id": "a1356d98cece1a51",
+  "source": "Hacker News",
+  "title": "Bare Metal Qwen",
+  "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+  "published": "2026-11-25T22:15:34+00:00",
+  "summary": "",
+  "score": 56
  }
 ]
