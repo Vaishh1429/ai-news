@@ -1,9 +1,23 @@
 {
- "generated": "2026-11-26T20:43:40.568088+00:00",
+ "generated": "2026-11-27T03:23:49.006308+00:00",
  "stories": [
   {
+   "id": "f9497730985b0689",
+   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+   "summary": "",
+   "published": "2026-11-26T21:08:05+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+     "published": "2026-11-26T21:08:05+00:00"
+    }
+   ],
+   "score": 7.48
+  },
+  {
    "id": "1d45997e4997625f",
-   "title": "AMD Specific Patches for Llama.cpp",
+   "title": "AMD-specific fork of llama.cpp",
    "summary": "",
    "published": "2026-11-26T17:11:29+00:00",
    "sources": [
@@ -13,7 +27,7 @@
      "published": "2026-11-26T17:11:29+00:00"
     }
    ],
-   "score": 5.54
+   "score": 7.98
   },
   {
    "id": "4fdce5f029afb0e4",
@@ -27,7 +41,21 @@
      "published": "2026-11-26T16:55:15+00:00"
     }
    ],
-   "score": 3.08
+   "score": 3.1399999999999997
+  },
+  {
+   "id": "fc590a80550ef756",
+   "title": "Show HN: I wrote an entire Vim manual over 4 years",
+   "summary": "",
+   "published": "2026-11-26T14:44:22+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "http://themouseless.dev/vim/",
+     "published": "2026-11-26T14:44:22+00:00"
+    }
+   ],
+   "score": 3.52
   },
   {
    "id": "02a088434703556c",
@@ -69,7 +97,7 @@
      "published": "2026-11-26T07:33:12+00:00"
     }
    ],
-   "score": 3.56
+   "score": 7.9
   },
   {
    "id": "d3aa48daa62df585",
@@ -1255,7 +1283,7 @@
      "published": "2026-11-26T03:36:58+00:00"
     }
    ],
-   "score": 10.84
+   "score": 11.38
   },
   {
    "id": "c01600d4160315a4",
@@ -1283,7 +1311,7 @@
      "published": "2026-11-25T22:15:34+00:00"
     }
    ],
-   "score": 6.5
+   "score": 6.56
   },
   {
    "id": "ceecf9e348f1c1f1",
@@ -1311,7 +1339,21 @@
      "published": "2026-11-25T21:48:10+00:00"
     }
    ],
-   "score": 12.7
+   "score": 12.96
+  },
+  {
+   "id": "9e640d54cb607240",
+   "title": "Migrating Our Messages API to Rust",
+   "summary": "",
+   "published": "2026-11-25T19:33:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+     "published": "2026-11-25T19:33:10+00:00"
+    }
+   ],
+   "score": 2.62
   },
   {
    "id": "37b5c9ba93266751",
@@ -1353,7 +1395,7 @@
      "published": "2026-11-25T17:34:34+00:00"
     }
    ],
-   "score": 5.54
+   "score": 5.5600000000000005
   },
   {
    "id": "44fe677fd46c23c4",
@@ -1400,7 +1442,7 @@
      "published": "2026-11-25T15:08:44+00:00"
     }
    ],
-   "score": 12.08
+   "score": 12.1
   },
   {
    "id": "38abfa10d7c5c55e",
@@ -1414,7 +1456,7 @@
      "published": "2026-11-25T15:00:05+00:00"
     }
    ],
-   "score": 2.7
+   "score": 2.96
   },
   {
    "id": "e1845ee0b548d25f",
@@ -2708,7 +2750,7 @@
      "published": "2026-11-25T03:28:06+00:00"
     }
    ],
-   "score": 4.640000000000001
+   "score": 4.66
   },
   {
    "id": "777816c50f03e837",
@@ -2722,7 +2764,7 @@
      "published": "2026-11-25T03:04:37+00:00"
     }
    ],
-   "score": 11.24
+   "score": 11.3
   },
   {
    "id": "26adec5d46772a8a",
@@ -2750,7 +2792,7 @@
      "published": "2026-11-25T01:19:26+00:00"
     }
    ],
-   "score": 23.18
+   "score": 23.28
   },
   {
    "id": "d8d6777ecf090783",
@@ -2919,7 +2961,7 @@
      "published": "2026-11-24T17:10:45+00:00"
     }
    ],
-   "score": 6.48
+   "score": 6.5
   },
   {
    "id": "bbef1e94d167ddf6",
@@ -2933,7 +2975,7 @@
      "published": "2026-11-24T16:45:44+00:00"
     }
    ],
-   "score": 11.22
+   "score": 11.32
   },
   {
    "id": "16565a3f5dc091b0",
@@ -3055,7 +3097,7 @@
      "published": "2026-11-24T12:40:15+00:00"
     }
    ],
-   "score": 22.5
+   "score": 22.6
   },
   {
    "id": "f3aa9260f1094b37",
@@ -3083,7 +3125,7 @@
      "published": "2026-11-24T06:22:36+00:00"
     }
    ],
-   "score": 7.38
+   "score": 7.48
   },
   {
    "id": "31fc06bc5d028248",
@@ -4539,7 +4581,7 @@
      "published": "2026-11-23T07:48:45+00:00"
     }
    ],
-   "score": 3.16
+   "score": 3.1799999999999997
   },
   {
    "id": "5a1214e07e2e3edd",
@@ -5693,7 +5735,7 @@
      "published": "2026-11-22T16:44:48+00:00"
     }
    ],
-   "score": 11.18
+   "score": 11.28
   },
   {
    "id": "3482c58c624c53d1",
@@ -7348,7 +7390,7 @@
      "published": "2026-11-19T14:20:08+00:00"
     }
    ],
-   "score": 4.0
+   "score": 4.02
   },
   {
    "id": "029ded4e9a8f172f",

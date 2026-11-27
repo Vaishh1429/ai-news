@@ -5685,7 +5685,7 @@
   "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
   "published": "2026-11-19T14:20:08+00:00",
   "summary": "",
-  "score": 100
+  "score": 101
  },
  {
   "id": "0b3a38ae0a194f39",
@@ -6837,7 +6837,7 @@
   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
   "published": "2026-11-22T16:44:48+00:00",
   "summary": "",
-  "score": 459
+  "score": 464
  },
  {
   "id": "b0ef78d25e983c42",
@@ -7611,7 +7611,7 @@
   "url": "https://twitter.com/Zai_org/status/2124719658074825004",
   "published": "2026-11-23T07:48:45+00:00",
   "summary": "",
-  "score": 58
+  "score": 59
  },
  {
   "id": "f8a4e02f42124693",
@@ -8592,7 +8592,7 @@
   "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
   "published": "2026-11-24T06:22:36+00:00",
   "summary": "",
-  "score": 269
+  "score": 274
  },
  {
   "id": "f3aa9260f1094b37",
@@ -8610,7 +8610,7 @@
   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
   "published": "2026-11-24T12:40:15+00:00",
   "summary": "",
-  "score": 1025
+  "score": 1030
  },
  {
   "id": "3c6728c1bfd19879",
@@ -8700,7 +8700,7 @@
   "url": "https://news.ycombinator.com/item?id=50630809",
   "published": "2026-11-24T16:45:44+00:00",
   "summary": "",
-  "score": 461
+  "score": 466
  },
  {
   "id": "4175c83018e7a81b",
@@ -8709,7 +8709,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
   "published": "2026-11-24T17:10:45+00:00",
   "summary": "",
-  "score": 224
+  "score": 225
  },
  {
   "id": "c7d2da5c582fe3f0",
@@ -8808,7 +8808,7 @@
   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
   "published": "2026-11-25T01:19:26+00:00",
   "summary": "",
-  "score": 1059
+  "score": 1064
  },
  {
   "id": "26adec5d46772a8a",
@@ -8826,7 +8826,7 @@
   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
   "published": "2026-11-25T03:04:37+00:00",
   "summary": "",
-  "score": 462
+  "score": 465
  },
  {
   "id": "ebaf1c30665d630c",
@@ -8835,7 +8835,7 @@
   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
   "published": "2026-11-25T03:28:06+00:00",
   "summary": "",
-  "score": 132
+  "score": 133
  },
  {
   "id": "2411d42d2a7c7e05",
@@ -9600,7 +9600,7 @@
   "url": "https://www.jefftk.com/p/limiting-charging-to-80",
   "published": "2026-11-25T15:00:05+00:00",
   "summary": "",
-  "score": 35
+  "score": 48
  },
  {
   "id": "11947ff3967edc02",
@@ -9609,7 +9609,7 @@
   "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
   "published": "2026-11-25T15:08:44+00:00",
   "summary": "",
-  "score": 504
+  "score": 505
  },
  {
   "id": "6b48cdab7a5fdaf1",
@@ -9636,7 +9636,7 @@
   "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
   "published": "2026-11-25T17:34:34+00:00",
   "summary": "",
-  "score": 177
+  "score": 178
  },
  {
   "id": "6359c2ce09004373",
@@ -9657,13 +9657,22 @@
   "score": 0
  },
  {
+  "id": "9e640d54cb607240",
+  "source": "Hacker News",
+  "title": "Migrating Our Messages API to Rust",
+  "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+  "published": "2026-11-25T19:33:10+00:00",
+  "summary": "",
+  "score": 31
+ },
+ {
   "id": "f63f4cad14680799",
   "source": "Hacker News",
   "title": "Much shorter version of GRH Lean verification from Anthropic",
   "url": "https://github.com/lsernau/grh-lean",
   "published": "2026-11-25T21:48:10+00:00",
   "summary": "",
-  "score": 535
+  "score": 548
  },
  {
   "id": "ceecf9e348f1c1f1",
@@ -9681,7 +9690,7 @@
   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
   "published": "2026-11-25T22:15:34+00:00",
   "summary": "",
-  "score": 225
+  "score": 228
  },
  {
   "id": "c01600d4160315a4",
@@ -9699,7 +9708,7 @@
   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
   "published": "2026-11-26T03:36:58+00:00",
   "summary": "",
-  "score": 442
+  "score": 469
  },
  {
   "id": "4ab332767a702d50",
@@ -10437,7 +10446,7 @@
   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
   "published": "2026-11-26T07:33:12+00:00",
   "summary": "",
-  "score": 78
+  "score": 295
  },
  {
   "id": "c0f2de19f05669ce",
@@ -10458,21 +10467,39 @@
   "score": 0
  },
  {
+  "id": "fc590a80550ef756",
+  "source": "Hacker News",
+  "title": "Show HN: I wrote an entire Vim manual over 4 years",
+  "url": "http://themouseless.dev/vim/",
+  "published": "2026-11-26T14:44:22+00:00",
+  "summary": "",
+  "score": 76
+ },
+ {
   "id": "4fdce5f029afb0e4",
   "source": "Hacker News",
   "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
   "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
   "published": "2026-11-26T16:55:15+00:00",
   "summary": "",
-  "score": 54
+  "score": 57
  },
  {
   "id": "1d45997e4997625f",
   "source": "Hacker News",
-  "title": "AMD Specific Patches for Llama.cpp",
+  "title": "AMD-specific fork of llama.cpp",
   "url": "https://devnull.land/amd-specific-llama-cpp",
   "published": "2026-11-26T17:11:29+00:00",
   "summary": "",
-  "score": 177
+  "score": 299
+ },
+ {
+  "id": "f9497730985b0689",
+  "source": "Hacker News",
+  "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+  "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+  "published": "2026-11-26T21:08:05+00:00",
+  "summary": "",
+  "score": 274
  }
 ]
