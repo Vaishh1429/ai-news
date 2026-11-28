@@ -1,6 +1,48 @@
 {
- "generated": "2026-11-28T11:10:00.599621+00:00",
+ "generated": "2026-11-28T19:21:34.631017+00:00",
  "stories": [
+  {
+   "id": "73f44d865de34c8b",
+   "title": "Samsung is testing a feature that changes the angle of photos you\u2019ve already taken",
+   "summary": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it. The code is part of Samsung's Photo Editor app and builds on the existing Move tool.",
+   "published": "2026-11-28T18:54:58+00:00",
+   "sources": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera",
+     "published": "2026-11-28T18:54:58+00:00"
+    }
+   ],
+   "score": 2.0
+  },
+  {
+   "id": "6756fa08646cc466",
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+   "summary": "",
+   "published": "2026-11-28T11:57:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+     "published": "2026-11-28T11:57:04+00:00"
+    }
+   ],
+   "score": 5.5600000000000005
+  },
+  {
+   "id": "9c5bfbf87766fb29",
+   "title": "Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab",
+   "summary": "",
+   "published": "2026-11-28T00:16:59+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://tesseracted.com/experiments-llm-os/",
+     "published": "2026-11-28T00:16:59+00:00"
+    }
+   ],
+   "score": 2.68
+  },
   {
    "id": "592bb52db4cfb9b9",
    "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
@@ -13,7 +55,7 @@
      "published": "2026-11-27T18:59:55+00:00"
     }
    ],
-   "score": 3.1399999999999997
+   "score": 3.24
   },
   {
    "id": "03c7729ee4f110b0",
@@ -27,7 +69,7 @@
      "published": "2026-11-27T18:28:29+00:00"
     }
    ],
-   "score": 2.74
+   "score": 2.86
   },
   {
    "id": "783463322e3cfb62",
@@ -41,7 +83,7 @@
      "published": "2026-11-27T17:56:28+00:00"
     }
    ],
-   "score": 4.84
+   "score": 5.32
   },
   {
    "id": "24644713102c0e39",
@@ -699,7 +741,7 @@
      "published": "2026-11-26T21:08:05+00:00"
     }
    ],
-   "score": 12.22
+   "score": 12.3
   },
   {
    "id": "253d81726cc99f64",
@@ -713,7 +755,7 @@
      "published": "2026-11-26T19:04:50+00:00"
     }
    ],
-   "score": 4.9
+   "score": 4.92
   },
   {
    "id": "1d45997e4997625f",
@@ -727,7 +769,7 @@
      "published": "2026-11-26T17:11:29+00:00"
     }
    ],
-   "score": 10.88
+   "score": 10.9
   },
   {
    "id": "4fdce5f029afb0e4",
@@ -755,7 +797,7 @@
      "published": "2026-11-26T14:44:22+00:00"
     }
    ],
-   "score": 8.14
+   "score": 8.2
   },
   {
    "id": "02a088434703556c",
@@ -797,7 +839,7 @@
      "published": "2026-11-26T07:33:12+00:00"
     }
    ],
-   "score": 9.120000000000001
+   "score": 9.16
   },
   {
    "id": "d3aa48daa62df585",
@@ -1395,7 +1437,7 @@
      "published": "2026-11-25T22:15:34+00:00"
     }
    ],
-   "score": 6.7
+   "score": 6.72
   },
   {
    "id": "ceecf9e348f1c1f1",
@@ -1423,7 +1465,7 @@
      "published": "2026-11-25T21:48:10+00:00"
     }
    ],
-   "score": 13.3
+   "score": 13.36
   },
   {
    "id": "9e640d54cb607240",
@@ -1540,7 +1582,7 @@
      "published": "2026-11-25T15:00:05+00:00"
     }
    ],
-   "score": 3.46
+   "score": 3.48
   },
   {
    "id": "e1845ee0b548d25f",
@@ -2834,7 +2876,7 @@
      "published": "2026-11-25T03:28:06+00:00"
     }
    ],
-   "score": 4.74
+   "score": 4.76
   },
   {
    "id": "777816c50f03e837",
@@ -2862,7 +2904,7 @@
      "published": "2026-11-25T03:01:36+00:00"
     }
    ],
-   "score": 4.1
+   "score": 4.12
   },
   {
    "id": "5ee45fc63309ecc3",
@@ -2876,7 +2918,7 @@
      "published": "2026-11-25T01:19:26+00:00"
     }
    ],
-   "score": 23.36
+   "score": 23.4
   },
   {
    "id": "d8d6777ecf090783",
@@ -2937,7 +2979,7 @@
      "published": "2026-11-24T21:02:22+00:00"
     }
    ],
-   "score": 11.120000000000001
+   "score": 11.14
   },
   {
    "id": "6014a04f08fa1462",
@@ -3045,7 +3087,7 @@
      "published": "2026-11-24T17:10:45+00:00"
     }
    ],
-   "score": 6.56
+   "score": 6.58
   },
   {
    "id": "bbef1e94d167ddf6",
@@ -4413,7 +4455,7 @@
      "published": "2026-11-23T22:09:10+00:00"
     }
    ],
-   "score": 9.36
+   "score": 9.379999999999999
   },
   {
    "id": "d17e7b701323446e",
@@ -4623,7 +4665,7 @@
      "published": "2026-11-23T10:06:43+00:00"
     }
    ],
-   "score": 25.72
+   "score": 25.74
   },
   {
    "id": "f8a4e02f42124693",
@@ -6702,7 +6744,7 @@
      "published": "2026-11-20T13:29:59+00:00"
     }
    ],
-   "score": 12.64
+   "score": 12.66
   },
   {
    "id": "779ccf54081cfd88",
@@ -8785,23 +8827,18 @@
    "score": 6.5
   },
   {
-   "id": "638c4d7104de51ad",
-   "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+   "id": "724823e096fd2a66",
+   "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
    "summary": "",
    "published": "2026-11-18T17:26:28+00:00",
    "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://news.ycombinator.com/item?id=50291116",
-     "published": "2026-10-29T15:56:32+00:00"
-    },
     {
      "name": "Hacker News",
      "url": "https://news.ycombinator.com/item?id=50549188",
      "published": "2026-11-18T17:26:28+00:00"
     }
    ],
-   "score": 6.8
+   "score": 3.2
   },
   {
    "id": "03ca256a4adf4087",
@@ -15413,20 +15450,6 @@
      "name": "Google DeepMind",
      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
      "published": "2026-10-30T14:18:30+00:00"
-    }
-   ],
-   "score": 2.0
-  },
-  {
-   "id": "f3538b6fb36f4f58",
-   "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
-   "summary": "",
-   "published": "2026-10-29T13:37:07+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face",
-     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-     "published": "2026-10-29T13:37:07+00:00"
     }
    ],
    "score": 2.0
