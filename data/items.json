@@ -1,41 +1,5 @@
 [
  {
-  "id": "b0da25ea6c1a2967",
-  "source": "Google DeepMind",
-  "title": "Gemini 4 Carbon: Our next frontier model",
-  "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-  "published": "2026-10-28T17:00:58+00:00",
-  "summary": "",
-  "score": 0
- },
- {
-  "id": "e1c742c1d925baf7",
-  "source": "Hugging Face",
-  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-  "url": "https://huggingface.co/blog/announcing-project-protostar",
-  "published": "2026-10-29T00:00:00+00:00",
-  "summary": "",
-  "score": 0
- },
- {
-  "id": "a1765f446c5b64b5",
-  "source": "Hugging Face",
-  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-  "url": "https://huggingface.co/blog/mistral-large4",
-  "published": "2026-10-29T00:00:00+00:00",
-  "summary": "",
-  "score": 0
- },
- {
-  "id": "85d975255b4f9d00",
-  "source": "Hugging Face",
-  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-  "url": "https://huggingface.co/blog/anydecisionmodel",
-  "published": "2026-10-29T00:00:00+00:00",
-  "summary": "",
-  "score": 0
- },
- {
   "id": "f3538b6fb36f4f58",
   "source": "Hugging Face",
   "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
@@ -3705,7 +3669,7 @@
   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
   "published": "2026-11-17T17:46:43+00:00",
   "summary": "",
-  "score": 1347
+  "score": 1348
  },
  {
   "id": "b8930a9a56df63fc",
@@ -6270,7 +6234,7 @@
   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "published": "2026-11-20T13:29:59+00:00",
   "summary": "",
-  "score": 531
+  "score": 532
  },
  {
   "id": "d77b5546421e2909",
@@ -6837,7 +6801,7 @@
   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
   "published": "2026-11-22T16:44:48+00:00",
   "summary": "",
-  "score": 467
+  "score": 468
  },
  {
   "id": "b0ef78d25e983c42",
@@ -7638,7 +7602,7 @@
   "url": "https://z.ai/blog/glm-5.4",
   "published": "2026-11-23T10:06:43+00:00",
   "summary": "",
-  "score": 1183
+  "score": 1184
  },
  {
   "id": "106e5d1cffec6462",
@@ -7764,7 +7728,7 @@
   "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
   "published": "2026-11-23T20:50:20+00:00",
   "summary": "",
-  "score": 50
+  "score": 51
  },
  {
   "id": "0cd17937bdc8feaa",
@@ -8592,7 +8556,7 @@
   "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
   "published": "2026-11-24T06:22:36+00:00",
   "summary": "",
-  "score": 288
+  "score": 295
  },
  {
   "id": "f3aa9260f1094b37",
@@ -8637,7 +8601,7 @@
   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
   "published": "2026-11-24T13:23:47+00:00",
   "summary": "",
-  "score": 433
+  "score": 434
  },
  {
   "id": "0111dfba56a625e8",
@@ -8700,7 +8664,7 @@
   "url": "https://news.ycombinator.com/item?id=50630809",
   "published": "2026-11-24T16:45:44+00:00",
   "summary": "",
-  "score": 470
+  "score": 474
  },
  {
   "id": "4175c83018e7a81b",
@@ -8709,7 +8673,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
   "published": "2026-11-24T17:10:45+00:00",
   "summary": "",
-  "score": 225
+  "score": 226
  },
  {
   "id": "c7d2da5c582fe3f0",
@@ -8763,7 +8727,7 @@
   "url": "https://news.ycombinator.com/item?id=50634426",
   "published": "2026-11-24T20:44:15+00:00",
   "summary": "",
-  "score": 110
+  "score": 111
  },
  {
   "id": "4530af1ba6c28876",
@@ -8781,7 +8745,7 @@
   "url": "https://www.anthropic.com/research/working-with-ai",
   "published": "2026-11-24T21:07:38+00:00",
   "summary": "",
-  "score": 90
+  "score": 91
  },
  {
   "id": "a45934840b902489",
@@ -8835,7 +8799,7 @@
   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
   "published": "2026-11-25T03:28:06+00:00",
   "summary": "",
-  "score": 134
+  "score": 136
  },
  {
   "id": "2411d42d2a7c7e05",
@@ -9600,7 +9564,7 @@
   "url": "https://www.jefftk.com/p/limiting-charging-to-80",
   "published": "2026-11-25T15:00:05+00:00",
   "summary": "",
-  "score": 65
+  "score": 69
  },
  {
   "id": "11947ff3967edc02",
@@ -9609,7 +9573,7 @@
   "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
   "published": "2026-11-25T15:08:44+00:00",
   "summary": "",
-  "score": 510
+  "score": 513
  },
  {
   "id": "6b48cdab7a5fdaf1",
@@ -9618,7 +9582,7 @@
   "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
   "published": "2026-11-25T15:20:15+00:00",
   "summary": "",
-  "score": 127
+  "score": 128
  },
  {
   "id": "6b1c4ab3d056003c",
@@ -9663,7 +9627,7 @@
   "url": "https://www.anthropic.com/research/migrating-api-to-rust",
   "published": "2026-11-25T19:33:10+00:00",
   "summary": "",
-  "score": 34
+  "score": 35
  },
  {
   "id": "f63f4cad14680799",
@@ -9672,7 +9636,7 @@
   "url": "https://github.com/lsernau/grh-lean",
   "published": "2026-11-25T21:48:10+00:00",
   "summary": "",
-  "score": 558
+  "score": 561
  },
  {
   "id": "ceecf9e348f1c1f1",
@@ -9690,7 +9654,7 @@
   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
   "published": "2026-11-25T22:15:34+00:00",
   "summary": "",
-  "score": 233
+  "score": 234
  },
  {
   "id": "c01600d4160315a4",
@@ -9708,7 +9672,7 @@
   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
   "published": "2026-11-26T03:36:58+00:00",
   "summary": "",
-  "score": 500
+  "score": 507
  },
  {
   "id": "4ab332767a702d50",
@@ -10086,7 +10050,7 @@
   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
   "published": "2026-11-26T07:33:12+00:00",
   "summary": "",
-  "score": 349
+  "score": 355
  },
  {
   "id": "c0f2de19f05669ce",
@@ -10113,7 +10077,7 @@
   "url": "http://themouseless.dev/vim/",
   "published": "2026-11-26T14:44:22+00:00",
   "summary": "",
-  "score": 254
+  "score": 299
  },
  {
   "id": "4fdce5f029afb0e4",
@@ -10122,7 +10086,7 @@
   "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
   "published": "2026-11-26T16:55:15+00:00",
   "summary": "",
-  "score": 60
+  "score": 61
  },
  {
   "id": "1d45997e4997625f",
@@ -10131,7 +10095,7 @@
   "url": "https://devnull.land/amd-specific-llama-cpp",
   "published": "2026-11-26T17:11:29+00:00",
   "summary": "",
-  "score": 411
+  "score": 438
  },
  {
   "id": "253d81726cc99f64",
@@ -10140,7 +10104,7 @@
   "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
   "published": "2026-11-26T19:04:50+00:00",
   "summary": "",
-  "score": 122
+  "score": 140
  },
  {
   "id": "f9497730985b0689",
@@ -10149,7 +10113,7 @@
   "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
   "published": "2026-11-26T21:08:05+00:00",
   "summary": "",
-  "score": 461
+  "score": 505
  },
  {
   "id": "2d7f8b4f8454af31",
@@ -10519,5 +10483,32 @@
   "published": "2026-11-27T05:00:00+00:00",
   "summary": "arXiv:2611.34042v1 Announce Type: new Abstract: LLM-based interactive learner simulators are increasingly used in educational applications, including teacher training and tutoring system development. A critical requirement for those simulations is cognitive fidelity: the simulated learner should maintain the assigned knowledge, misconceptions, and reasoning procedures throughout interaction.",
   "score": 0
+ },
+ {
+  "id": "24644713102c0e39",
+  "source": "The Verge AI",
+  "title": "Android\u2019s DIY widgets are a bit of vibe-coding fun",
+  "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+  "published": "2026-11-27T14:00:00+00:00",
+  "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget.",
+  "score": 0
+ },
+ {
+  "id": "783463322e3cfb62",
+  "source": "Hacker News",
+  "title": "Show HN: DragDropMath \u2013 Learn math by feel",
+  "url": "https://dragdropmath.com/",
+  "published": "2026-11-27T17:56:28+00:00",
+  "summary": "",
+  "score": 93
+ },
+ {
+  "id": "592bb52db4cfb9b9",
+  "source": "Hacker News",
+  "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+  "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+  "published": "2026-11-27T18:59:55+00:00",
+  "summary": "",
+  "score": 33
  }
 ]
